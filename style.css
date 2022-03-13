@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(30, 30, 30);
+    color: rgb(230, 230, 230);
+    text-align: center;
+}
+
+#meineKarte {
+    visibility: hidden;
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+
+
+=======
+div{
+    padding-top: 15px;
+}
+input{
+    border-radius: 23px;
+    border: 2px solid green;
+    color: white;
+    cursor: pointer;
+    background: none;
+}
+input:hover{
+    color: white;
+    resize: both;
+}
+button{
+    color: white;
+    border: 2px solid green;
+    border-radius: 23px;
+    background: none;
+}
+.input-section{
+    padding-top: 10px;
+}
+header{
+    font-size: 1.4em;
+}
+.sourcecode a{
+    color: white;
+    text-decoration: none;
+}
+.sourcecode a:hover{
+    color: green;
+}
+>>>>>>> 194d153215801b5da4eb9e621e6e22d9572912b1
