@@ -4,4 +4,4 @@ Dieser Rechner zeigt ihnen an, ob sie noch genug Leberkas haben. Der wird nämli
 
 ## genutzte Bibliotheken
 
-<a href="https://lefafletjs.com" target="_blank">Leaflet</a>
+<a href="https://leafletjs.com" target="_blank">Leaflet</a>
