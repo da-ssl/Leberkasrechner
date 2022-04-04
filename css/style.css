@@ -94,12 +94,15 @@ header{
 .Ueberschrift{
     font-family: 'Open Sans';
     font-size:35px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .NormalerText{
     font-family: 'Open Sans';
     font-size:30px;
+    margin-top: 40px;
+    margin-bottom:40px;
 }
 
 /* Für ältere Browser evlt. -webkit-transition: all 0.3s; -moz-transition: all 0.3s; bei button und input ergänzen?*/
+/* Anmerkung d. Verf.: Redundant, da alter Browser = nö.*/

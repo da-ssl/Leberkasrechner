@@ -5,7 +5,7 @@ let enoughornot = () => {
     
     if (execute) {
         if (LeberkasCount < 2) {
-            document.getElementById("answerSection").innerHTML = "<br><br>Du hast zu wenig <br><br><br><br>"
+            document.getElementById("answerSection").innerHTML = "Du hast zu wenig. Auf dieser Karte siehst du Metzgereien in Grafing:"
             document.getElementById("meineKarte").style.visibility = "visible";
         } else if (LeberkasCount < 5) {
             document.getElementById("answerSection").innerHTML = "<br><br>Du hast genung"
