@@ -9,9 +9,9 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
 
         //Layer definieren
         var baseMaps = {
-            "OpenStreetMap": OpenStreetMap,
-            "OpenstreetMap DE": OpenStreetMap_DE,
             "OpenTopoMap": OpenTopoMap,
+            "OpenStreetMap": OpenStreetMap,
+            "OpenStreetMap DE": OpenStreetMap_DE,
         };
 
         var overlayMaps = {
