@@ -21,9 +21,11 @@
 
 <body>
     <div class="Ueberschrift">Wie viele Leberkassemmeln hast du? </div>
+    <div id="eingabe" class="eingabe">
+        <input class="textfeld" id="LeberkasCount">
+        <button onclick="enoughornot()">Eingabe</button>
+    </div>
     
-    <input class="textfeld" id="LeberkasCount">
-    <button onclick="enoughornot()">Eingabe</button>
     <div class="NormalerText" id="answerSection"></div>
     
     
@@ -35,7 +37,6 @@
             position: absolute;
             height: 500px;
             width: 1000px;
-            text-align: center;
         }
         html,
         body {

@@ -1,7 +1,6 @@
 body {
     background-color: rgb(30, 30, 30);
     color: rgb(230, 230, 230);
-    text-align: center;
 }
 
 
@@ -82,16 +81,22 @@ header{
 }
 
 .Ueberschrift{
+    text-align:center;
     font-family: 'Open Sans';
     font-size:35px;
     margin-bottom: 40px;
 }
 
 .NormalerText{
+    text-align:center;
     font-family: 'Open Sans';
     font-size:30px;
     margin-top: 40px;
     margin-bottom:40px;
+}
+
+.eingabe{
+    text-align: center;
 }
 
 /* Für ältere Browser evlt. -webkit-transition: all 0.3s; -moz-transition: all 0.3s; bei button und input ergänzen?*/
