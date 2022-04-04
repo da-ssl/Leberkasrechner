@@ -2,15 +2,17 @@ body {
     background-color: rgb(30, 30, 30);
     color: rgb(230, 230, 230);
     text-align: center;
-    font-family: ZillaSans;	
 }
+
+
 @font-face {
-	font-family: ZillaSans;
-	font-display: swap;
-	src: url(fonts/zillaslab/zillaslab-bold.woff),
-	     url(fonts/zillaslab/zillaslab-bold.woff2);
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVI.woff2) format('woff2');
 }
-	        
        
 
 #meineKarte {
@@ -26,7 +28,6 @@ html, body, #meineKarte {
     height: 100%;
  }
 
-=======
 div{
     padding-top: 15px;
 }
@@ -42,15 +43,66 @@ input:hover{
     resize: both;
 }
 button{
-    color: white;
-    border: 2px solid green;
-    border-radius: 23px;
-    background: none;
+    font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	background: none;
+	cursor: pointer;
+	padding: 15px 70px;
+    border-radius: 4px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+
+	transition: all 0.3s;
+
+    border: 3px solid #fff;
+	color: #fff;  
 }
+button:hover,button:active{
+    color: #0e83cd;
+	background: #fff;
+}
+
+input{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	background: none;
+	cursor: pointer;
+	padding: 15px 5px;
+    border-radius: 4px;
+	display: inline-block;
+	margin: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	outline: none;
+	position: relative;
+
+    border: 3px solid #fff;
+	color: #fff;  
+}
+
+
 .input-section{
     padding-top: 10px;
 }
 header{
     font-size: 1.4em;
 }
->>>>>>> 194d153215801b5da4eb9e621e6e22d9572912b1
+
+.Ueberschrift{
+    font-family: 'Open Sans';
+    font-size:35px;
+    margin-bottom: 50px;
+}
+
+.NormalerText{
+    font-family: 'Open Sans';
+    font-size:30px;
+}
+
+/* Für ältere Browser evlt. -webkit-transition: all 0.3s; -moz-transition: all 0.3s; bei button und input ergänzen?*/
