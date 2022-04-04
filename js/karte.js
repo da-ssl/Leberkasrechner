@@ -59,3 +59,6 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
 
 
         L.control.layers(baseMaps, overlayMaps, Metzgereien).addTo(Map);
+
+        //Fullscreen
+        Map.addControl(new L.Control.Fullscreen());
