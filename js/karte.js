@@ -60,5 +60,17 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
 
         L.control.layers(baseMaps, overlayMaps, Metzgereien).addTo(Map);
 
+        //Suche in Leaflet
+        Map.addControl( new L.Control.Search({
+            url: 'https://nominatim.openstreetmap.org/search?format=json&q={s}',
+            jsonpParam: 'json_callback',
+            propertyName: 'display_name',
+            propertyLoc: ['lat','lon'],
+            marker: L.marker([0,0],{icon: greenIcon}),
+            autoCollapse: true,
+            autoType: false,
+            minLength: 2
+        }) );
+
         //Fullscreen
         Map.addControl(new L.Control.Fullscreen());
