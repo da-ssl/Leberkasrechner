@@ -15,4 +15,4 @@ Dieser Rechner zeigt ihnen an, ob sie noch genug Leberkas haben. Der wird nähml
 
 ## Credits
 
-Danke an <a href="https://github.com/CoderKon42">CoderKon42</a> für den Core und die erste Version des Leberkasrechners.
+Danke an <a href="https://github.com/CoderKon42" target="_blank">CoderKon42</a> für den Core und die erste Version des Leberkasrechners.
