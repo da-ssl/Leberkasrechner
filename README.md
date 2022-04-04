@@ -9,5 +9,7 @@ Dieser Rechner zeigt ihnen an, ob sie noch genug Leberkas haben. Der wird nähml
 ## genutzte Bibliotheken
 
 <a href="https://leafletjs.com" target="_blank">Leaflet</a>
+
 <a href="https://github.com/Leaflet/Leaflet.fullscreen" target="_blank">leaflet.fullscreen</a>
+
 <a href="https://github.com/stefanocudini/leaflet-search" target="_blank">leaflet-search</a>
