@@ -12,3 +12,7 @@ Dieser Rechner zeigt ihnen an, ob sie noch genug Leberkas haben. Der wird nähml
 - <a href="https://github.com/Leaflet/Leaflet.fullscreen" target="_blank">leaflet.fullscreen</a>
 - <a href="https://github.com/stefanocudini/leaflet-search" target="_blank">leaflet-search</a>
 - Schriftart: Open Sans
+
+## Credits
+
+Danke an <a href="https://github.com/CoderKon42">CoderKon42</a> für den Core und die erste Version des Leberkasrechners.
