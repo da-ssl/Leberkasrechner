@@ -64,7 +64,7 @@ button:hover,button:active{
 	background: #fff;
 }
 
-input{
+.textfeld{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
 	background: none;
