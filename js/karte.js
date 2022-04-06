@@ -1,4 +1,45 @@
-var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
+var Map,
+    cm,
+    ll = new L.LatLng(-36.852668, 174.762675),
+    ll2 = new L.LatLng(-36.86, 174.77);
+
+function showCoordinates (e) {
+    alert(e.latlng);
+}
+
+function centerMap (e) {
+    Map.panTo(e.latlng);
+}
+
+function zoomIn (e) {
+    Map.zoomIn();
+}
+
+function zoomOut (e) {
+    Map.zoomOut();
+}
+
+Map = L.map('meineKarte', {
+    center: ll,
+    zoom: 15,
+    contextmenu: true,
+contextmenuWidth: 180,
+    contextmenuItems: [{
+        text: 'Koordinaten anzeigen',
+        callback: showCoordinates
+    }, {
+        text: 'Karte hier zentrieren',
+        callback: centerMap
+    }, '-', {
+        text: 'Hereinzoomen',
+        icon: 'ext/images/zoom-in.png',
+        callback: zoomIn
+    }, {
+        text: 'Herauszoomen',
+        icon: 'ext/images/zoom-out.png',
+        callback: zoomOut
+}]
+});
 
         //Layers mit Tileserver und Copyright-Anzeige verbinden     
         var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende'}).addTo(Map);
@@ -16,8 +57,6 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
         var overlayMaps = {
             "OpenRailwayMap": OpenRailwayMap,
         };
-
-        
 
         //Beim Klicken auf die Karte werden die angeklickten Koordinaten angezeigt
         var popup = L.popup();
@@ -60,7 +99,7 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
             jsonpParam: 'json_callback',
             propertyName: 'display_name',
             propertyLoc: ['lat','lon'],
-            marker: L.marker([0,0],{icon: greenIcon}),
+            marker: L.marker([0,0],{icon: gruenesIcon}),
             autoCollapse: true,
             autoType: false,
             minLength: 2
@@ -68,3 +107,6 @@ var Map = L.map('meineKarte').setView([48.044363, 11.966227], 14);
 
         //Fullscreen
         Map.addControl(new L.Control.Fullscreen());
+
+        
+
