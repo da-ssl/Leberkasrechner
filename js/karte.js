@@ -58,17 +58,6 @@ contextmenuWidth: 180,
             "OpenRailwayMap": OpenRailwayMap,
         };
 
-        //Beim Klicken auf die Karte werden die angeklickten Koordinaten angezeigt
-        var popup = L.popup();
-
-            function onMapClick(e) {
-                popup
-                    .setLatLng(e.latlng)
-                    .setContent(e.latlng.toString())
-                    .openOn(Map);
-            }
-
-        Map.on('click', onMapClick);
 
         //==============MARKIERER================
 
