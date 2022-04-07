@@ -55,17 +55,17 @@ Map = L.map('meineKarte', {
         Heimann.bindPopup("<b>Metzgerei Heimann</b><br>Do gibts sowohl an Leber-, ois a an Kaskas!").openPopup();
 
         //Metzgerei Maisch
-        var gruenesIcon = new L.Icon({iconUrl: '../ext/images/marker-icon-2x-green.png', shadowUrl: '../ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
+        var gruenesIcon = new L.Icon({iconUrl: 'ext/images/marker-icon-2x-green.png', shadowUrl: 'ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
         var Maisch = L.marker([48.04408, 11.966831], {icon: gruenesIcon});
         Maisch.bindPopup("<b>Metzgerei Maisch</b><br>Leberkas vom Metzger Maisch gibts aus Grafing!");
 	
         //Metzgerei Kammerloher
-        var gelbesIcon = new L.Icon({iconUrl: '../ext/images/marker-icon-gold.png', shadowUrl: '../ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
+        var gelbesIcon = new L.Icon({iconUrl: 'ext/images/marker-icon-gold.png', shadowUrl: 'ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
         var Kammerloher = L.marker([48.046904, 11.967248], {icon: gelbesIcon});
         Kammerloher.bindPopup("<b>Metzgerei Kammerloher</b><br>Fleisch & Wurscht vom Feinsten!");
 
         //Metzgerei Saißrainer
-        var lilaIcon = new L.Icon({iconUrl: '../ext/images/marker-icon-violet.png', shadowUrl: '../ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
+        var lilaIcon = new L.Icon({iconUrl: 'ext/images/marker-icon-violet.png', shadowUrl: 'ext/images/shadow.png', iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41] });
         var Saissrainer = L.marker([48.045342, 11.966539], {icon: lilaIcon});
         Saissrainer.bindPopup("<b>Metzgerei Saißrainer</b><br>Do gibts wos gscheids fürn Hunger");
 
