@@ -139,7 +139,6 @@ body {
     box-sizing: inherit;
     overflow-wrap: anywhere;
     word-break: break-word;
-
 }
 
 body {
@@ -149,3 +148,10 @@ body {
     margin-bottom: 0px;
 }
   
+.fusszeile{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Open Sans','Helvetica', 'sans-serif';
+}
