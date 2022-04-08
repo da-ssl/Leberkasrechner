@@ -28,7 +28,7 @@
     <div class="Ueberschrift">Wie viele Leberkassemmeln hast du? </div>
     <div id="eingabe" class="eingabe">
         <input class="textfeld" id="LeberkasCount">
-        <button onclick="enoughornot()">Eingabe</button>
+        <button id="Eingabe" onclick="enoughornot()">Eingabe</button>
     </div>
     
     <div class="NormalerText" id="answerSection"></div>
@@ -53,7 +53,21 @@
 	    Optimale Anzeige mit <a style="text-decoration: none; color:gray;" href="https://www.firefox.com">Mozilla Firefox</a>.
 	    Quellcode verfügbar bei <a style="text-decoration: none; color:gray;" href="https://www.github.com/da-ssl/Leberkasrechner">GitHub</a>.
     </div>
-        
+            <!--Für die Bestätigung der Eingabe per Enter-Taste-->
+        <script type="text/javascript">
+            var input = document.getElementById("LeberkasCount");
+
+// Execute a function when the user releases a key on the keyboard
+input.addEventListener("keyup", function(event) {
+  // Number 13 is the "Enter" key on the keyboard
+  if (event.keyCode === 13) {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Trigger the button element with a click
+    document.getElementById("Eingabe").click();
+  }
+}); 
+        </script>
 </body>
 
 </html>
