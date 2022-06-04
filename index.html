@@ -55,15 +55,13 @@
     </div>
             <!--Für die Bestätigung der Eingabe per Enter-Taste-->
         <script type="text/javascript">
-		//Quelle: https://www.w3schools.com/howto/howto_js_trigger_button_enter.asp (verändert)
             var input = document.getElementById("LeberkasCount");
-input.addEventListener("keyup", function(event) {
-  if (event.keyCode === 13) {
-    event.preventDefault();
-    document.getElementById("Eingabe").click();
-  }
-}); 
+            input.addEventListener("keyup", function(event) {
+            if (event.keyCode === 13) {
+            event.preventDefault();
+            document.getElementById("Eingabe").click();
+            }
+           }); 
         </script>
 </body>
-
 </html>
