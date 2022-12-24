@@ -4,14 +4,14 @@ let enoughornot = () => {
     let LeberkasCountArr = Array.from(LeberkasCount);
     
     if (execute) {
-        if (LeberkasCount < 2) {
-            document.getElementById("answerSection").innerHTML = "Du hast zu wenig. Auf dieser Karte siehst du Metzgereien in Grafing:"
+        if (LeberkasCount < 3) {
+            document.getElementById("answerSection").innerHTML = "Um Gottes Willen! Du brauchst jetzt Leberkäse. Hier findest du Metzgereien:"
             document.getElementById("meineKarte").style.visibility = "visible";
-        } else if (LeberkasCount < 5) {
-            document.getElementById("answerSection").innerHTML = "<br><br>Du hast genug"
+        } else if (LeberkasCount < 7) {
+            document.getElementById("answerSection").innerHTML = "<br><br>Basst. Du host gnua Lebakas."
             document.getElementById("meineKarte").style.visibility = "hidden";
-        } else {
-            document.getElementById("answerSection").innerHTML = "<br><br>Da wird dir ja schlecht"
+        } else if (LeberkasCount > 7) {
+            document.getElementById("answerSection").innerHTML = "<br><br>Sappralot! Da werd da ja schlecht!"
             document.getElementById("meineKarte").style.visibility = "hidden";
         }
     }
