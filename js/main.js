@@ -13,6 +13,8 @@ let enoughornot = () => {
         } else if (LeberkasCount > 7) {
             document.getElementById("answerSection").innerHTML = "<br><br>Sappralot! Da werd da ja schlecht!"
             document.getElementById("meineKarte").style.visibility = "hidden";
+        } else {
+            document.getElementByID("answerSection").innerHTML = "<br><br>Ihre Eingabe konnte leider nicht erkannt werden"
         }
     }
 }
