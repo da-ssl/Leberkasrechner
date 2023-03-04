@@ -1,10 +1,12 @@
 body {
-    background-color: rgb(30, 30, 30);
+    background-image: url(hindergrund.webp);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-repeat:initial;
     color: rgb(230, 230, 230);
     padding-top: 25px;
     padding-bottom: 25px;
 }
-
 
 @font-face {
     font-family: 'Open Sans';
@@ -52,7 +54,7 @@ button{
 
 	transition: all 0.3s;
 
-    border: 3px solid #fff;
+    border: 3px solid #dad5d5;
 	color: #fff;  
 }
 button:hover,button:active{
