@@ -1,16 +1,14 @@
 var Map,
     butchers,
-    cm,
-    ll = new L.LatLng(48.045784, 11.965914),
-    ll2 = new L.LatLng(48.045784, 11.965914);
+    cm
 
 
 
 
 class leberkasMap extends L.map {
     constructor (htmlId) {
-        super(htmlId, {center: ll, 
-            zoom: 13
+        super(htmlId, {center: new L.LatLng(48.1372, 11.5796), 
+            zoom: 10
         })
 
         var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende'}).addTo(this);
