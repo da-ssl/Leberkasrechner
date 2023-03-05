@@ -53,6 +53,8 @@ class leberkasMap extends L.map {
         this.overlayMaps = {
             "Metzgereien": markers 
         };
+
+        markers.addTo(this)
         
         L.control.layers(this.baseMaps, this.overlayMaps).addTo(this);
 
