@@ -10,26 +10,7 @@ var Map,
 class leberkasMap extends L.map {
     constructor (htmlId) {
         super(htmlId, {center: ll, 
-            zoom: 13, 
-            contextmenu: true,
-            contextmenuWith: 180,
-            /*contestmenuItems: [
-                {
-                    text: 'Koordinaten anzeigen',
-                    callback: this.showCoordinates
-                }, {
-                    text: 'Karte hier zentrieren',
-                    callback: this.centerMap
-                }, '-', {
-                    text: 'Hereinzoomen',
-                    icon: 'ext/images/zoom-in.png',
-                    callback: this.zoomIn
-                }, {
-                    text: 'Herauszoomen',
-                    icon: 'ext/images/zoom-out.png',
-                    callback: this.zoomOut
-                }
-            ]*/
+            zoom: 13
         })
 
         var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende'}).addTo(this);
