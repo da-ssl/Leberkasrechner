@@ -21,10 +21,25 @@ class leberkasMap extends L.map {
         for(var i = 0; i < butchers.length; i++) {
             var b = butchers[i];
             try {
-                var btitle = b["tags"]["name"];
-                var marker = L.marker(new L.LatLng(b["lat"], b["lon"]), {title: btitle});}
+                var markertext = `<b>${b["tags"]["name"]}</b>`;
+                var bt = b["tags"]
+                if(bt["addr:street"] && bt["addr:housenumber"]) {
+                    var t = `<br><i>${bt["addr:street"]} ${bt["addr:housenumber"]}`
+                    if(bt["addr:postcode"] && bt["addr:city"]) {
+                        t+= `,<br>${bt["addr:postcode"]} ${bt["addr:city"]}`
+                    }
+                    t+="</i>"
+                    markertext += t
+                }
+                if(b["tags"]["opening_hours"]) {
+                   // TODO: Code optimieren
+                    var oh = formatOpeningHours(b["tags"]["opening_hours"]);
+                    markertext += `<br><br><u>Öffnungszeiten:</u><br>${oh}`;
+                }
+                var marker = L.marker(new L.LatLng(b["lat"], b["lon"]), {title: markertext});
+            }
             catch(error) {} 
-            marker.bindPopup(btitle)
+            marker.bindPopup(markertext)
             markers.addLayer(marker);
         }
 
@@ -56,7 +71,7 @@ class leberkasMap extends L.map {
 
 
     }
-
+    
     showCoordinates (e) {
         alert(e.latlng);
     }
@@ -74,6 +89,23 @@ class leberkasMap extends L.map {
     }
 
 }
+
+
+function formatOpeningHours(input) {
+    var output = input.replace(/;/g, '<br>');
+    output = output.replace('Mo', 'Montags');
+    output = output.replace('Tu', 'Dienstags');
+    output = output.replace('We', 'Mittwochs');
+    output = output.replace('Th', 'Donnerstags');
+    output = output.replace('Fr', 'Freitags');
+    output = output.replace('Sa', 'Samstags');
+    output = output.replace('Su', 'Sonntags');
+    output = output.replace('PH', 'Feiertags');
+    output = output.replace(',', ' und ');
+    output = output.replace('off', 'geschlossen');
+    return output;
+}
+
 
 fetch('https://leberkasrechner.de/js/butchers.json')
     .then(response => response.json())
