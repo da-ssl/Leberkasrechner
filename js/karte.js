@@ -36,6 +36,10 @@ class leberkasMap extends L.map {
                     var oh = formatOpeningHours(b["tags"]["opening_hours"]);
                     markertext += `<br><br><u>Öffnungszeiten:</u><br>${oh}`;
                 }
+
+                if(b["tags"]["website"]) {
+                    markertext += `<br><br><a target="_blank" href="${b["tags"]["website"]}">${b["tags"]["website"]}</a>`;
+                }
                 var marker = L.marker(new L.LatLng(b["lat"], b["lon"]), {title: markertext});
             }
             catch(error) {} 
