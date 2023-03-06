@@ -1,0 +1,39 @@
+{% include "head.html.jinja" %}
+{% set active_page = "home" %}
+{% include "navbar.html.jinja" %}
+
+<header class="hero pt-10 pb-0">
+    <div class="container">
+        <h1 class="hero-title aos-init aos-animate" data-aos="zoom-y-out">Wie viel Leberkäse haben&nbsp;Sie?
+        </h1>
+        <p class="hero-description mt-4 aos-init aos-animate" data-aos="zoom-y-out" data-aos-delay="150">Der Leberkasrechner
+        kann Ihren Verbrauch ausrechnen und in Sekundenschnelle eine unverbindliche Empfehlung zum 
+        Konsum&nbsp;dieser&nbsp;Brühwurstsorte geben.
+        </p>
+        <div class="mt-3 aos-init aos-animate justify-center" data-aos="zoom-y-out" data-aos-delay="300">
+            <div class="row g-3 justify-center">
+                <div class="col-auto">
+                    <input type="text" class="form-control" id="LeberkasCount" placeholder="Zahl hier eingeben">
+                </div>
+                <div class="col-auto">
+                    <button onclick="enoughornot()" class="btn btn-outline-primary" rel="noopener noreferrer">Eingabe</button>
+                </div>
+                <h1 id="answerSection" class="mt-5">Um Gottes Willen! Du brauchst jetzt Leberkäse. Hier findest du Metzgereien:</h1>
+                <div id="kasmap" class="map" style="visibility:hidden; height: 500px; width=1500px;"></div>
+                <script src="/static/kasmap.js" type="module"></script>
+                <script src="/static/kasrechner.js"></script>
+            </div>
+        </div>
+    </div>
+</header>
+
+<link rel="stylesheet" href="/static/lib/leaflet/leaflet.css">
+<link rel="stylesheet" href="/static/lib/leaflet.search/leaflet-search.min.css">
+<link rel="stylesheet" href="/static/lib/leaflet.fullscreen/leaflet.fullscreen.css">
+<link rel="stylesheet" href="/static/lib/leaflet.markercluster/MarkerCluster.Default.css">
+<script src="/static/lib/leaflet/leaflet.js"></script>
+<script src="/static/lib/leaflet.markercluster/leaflet.markercluster.js"></script>
+<script src="/static/lib/leaflet.search/leaflet-search.min.js"></script>
+<script src="/static/lib/leaflet.fullscreen/Leaflet.fullscreen.js"></script>
+
+{% include "footer.html.jinja" %}

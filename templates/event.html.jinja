@@ -1,0 +1,115 @@
+<!doctype html>
+<!--
+* Tabler - Premium and Open Source dashboard template with responsive and high quality UI.
+* @version 1.0.0-beta16
+* @link https://tabler.io
+* Copyright 2018-2022 The Tabler Authors
+* Copyright 2018-2022 codecalm.net Paweł Kuna
+* Licensed under MIT (https://github.com/tabler/tabler/blob/master/LICENSE)
+-->
+<html lang="en">
+  {% include "head.html.jinja" %}
+  <body>
+    <div class="page">
+      {% set active_page = 'eventcalculator' %}
+      {% include "navbar.html.jinja" %}
+
+      <script src="/static/website.js"></script>
+
+      <div class="page-wrapper">
+        <!-- Page header -->
+        <div class="page-header d-print-none">
+          <div class="container-xl">
+            <div class="row g-2 align-items-center">
+              <div class="col">
+                <!-- Page pre-title -->
+                <div class="page-pretitle">
+                  Webanwendung
+                </div>
+                <h2 class="page-title">
+                  Online-Verantstaltungsrechner
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Page body -->
+        <div class="page-body">
+          <div class="container-xl">
+            <div class="row row-deck row-cards">
+              <div class="col">
+                <div class="card">
+                  <div class="img-responsive img-responsive-999x1 card-img-top" style="background-image: url('/static/img/leberkas.png')"></div>
+                  <div class="card-header">
+                    <h1 class="card-title">Eingabe der Daten:</h1>
+                  </div>
+                  <div class="card-body">
+                    <div class="row">
+                      <div class="col-xl-4">
+                        <div class="mb-3">
+                          <label class="form-label">Name der Veranstaltung:</label>
+                          <input type="text" class="form-control" id="input-vname" placeholder="Markus' Geburtstag">
+                        </div>
+                        <div class="mb-3">
+                          <label class="form-label">Besucher Gesamt: *</label>
+                          <input type="number" min="1" class="form-control" id="input-visitors-total" value="10" onchange="updateInvalid(this, 'input-visitors-total-invalid')">
+                          <div class="invalid-feedback" id="input-visitors-total-invalid">Bitte geben Sie einen gültigen Wert ein.</div>
+                          <script>document.getElementById('input-visitors-total-invalid').style.display="none"</script>
+                        </div>
+                        <div class="row">
+                          <div class="col">
+                            <label class="form-label">Davon Kinder:</label>
+                            <input type="number" min="1" class="form-control" id="input-visitors-children">
+                          </div>
+                          <div class="col">
+                            <label class="form-label">Davon Erwachsene:</label>
+                            <input type="number" min="1" class="form-control" id="input-visitors-parents">
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <div class="mb-3">
+                          <label class="form-label">Gerundetes Durchschnittsalter der Gäste:</label>
+                          <input type="number" min="15" step="5" max="100" class="form-control" name="input-visitors-averageage">
+                        </div>
+                        <div class="mb-3">
+                          <label class="form-label">Anzahl an Leuten, die zum Leberkas "Fleischkäse" sagen:</label>
+                          <input type="number" class="form-control" name="input-peoplesayingfleischkaese" min="0">
+                        </div>
+                        <div class="mb-3">
+                          <label class="form-label">Was ist Ihr Ausgabeziel für den Leberkas?</label>
+                          <input type="text" name="input-mask" class="form-control" data-mask="000.000.000.000.000,00" data-mask-visible="true"  data-mask-reverse="true" autocomplete="off">
+                        </div>
+                      </div>
+                    <div class="col-xl-4">
+                      <div class="mb-3">
+                        <label class="form-label">Bedingungen:</label>
+                        <label class="form-check">
+                          <input class="form-check-input" type="checkbox" id="input-disclaimer">
+                          <span class="form-check-label">Ich hab den <a href="/disclaimer">Disclaimer</a> gelesen.</span>
+                        </label>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                  <div class="card-footer d-flex align-items-center text-end">
+                    <div class="m-0 text-muted">
+                      *: Pflichtangaben
+                    </div>
+                    <div class="m-0 text-muted ms-auto">
+                      <button class="btn btn-primary ms-auto" type="submit" id="btn-submit" onclick="sendData()">Daten senden</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% include "footer.html.jinja" %}
+      </div>
+
+    </div>
+  </body>
+</html>

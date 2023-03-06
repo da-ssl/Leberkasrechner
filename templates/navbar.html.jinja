@@ -1,0 +1,39 @@
+<!-- Navbar -->
+
+{% set navigation_bar = [
+  ('/', 'home', 'Home', true),
+  ('/event/', 'eventcalculator', 'Veranstaltungsrechner', true)
+] -%}
+
+{% set active_page = active_page|default('home') -%}
+
+<header class="navbar navbar-expand-md navbar-light d-print-none">
+  <div class="container-xl">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <h1 class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
+      <a href=".">
+        <img src="/static/logo-banner-klein.svg" width="110" height="32" alt="Leberkasrechner" class="navbar-brand-image">
+      </a>
+    </h1>
+    <div class="collapse navbar-collapse" id="navbar-menu">
+      <div class="d-flex flex-column flex-md-row flex-fill align-items-stretch align-items-md-center">
+        <ul class="navbar-nav">
+          {% for href, id, caption, hasIcon in navigation_bar %}
+            <li class="nav-item {% if id == active_page %} active {% endif %}">
+                <a class="nav-link" href="{{ href|e }}">
+                    {% if hasIcon %}
+                        <span class="nav-link-icon d-md-none d-lg-inline-block">
+                            <img src="/static/img/navbar/{{ id|e }}.svg">
+                        </span>
+                    {% endif %}
+                    <span class="nav-link-title">{{ caption|e }}</span>
+                </a>
+            </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
