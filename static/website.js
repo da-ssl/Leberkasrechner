@@ -5,7 +5,6 @@ function sendData() {
     if (updateInvalid(inputVisitorsTotal, 'input-visitors-total-invalid')) {
         return;
     }
-    alert("passt");
 }
 
 function updateInvalid(element, strElAlert)
@@ -14,11 +13,11 @@ function updateInvalid(element, strElAlert)
         element.classList.remove('is-invalid')
         element.classList.add('is-valid')
         document.getElementById(strElAlert).style.display="none"
-        return False
+        return false;
     } else {
         element.classList.add('is-invalid')
         element.classList.remove("is-valid")
         document.getElementById(strElAlert).style.display="block"
-        return True
+        return true;
     }
 }
