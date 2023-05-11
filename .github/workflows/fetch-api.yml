@@ -1,0 +1,11 @@
+name: fetch-api
+on: [push]
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch API Data 📦
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          endpoint: https://overpass-api.de/api/interpreter?data=[out%3Ajson][timeout%3A60]%3B%0A(%0A%20%20node[%22shop%22%3D%22butcher%22](47.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375)%3B%0A%20%20way[%22shop%22%3D%22butcher%22](47.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375)%3B%0A%20%20relation[%22shop%22%3D%22butcher%22](47.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375)%3B%0A)%3B%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+          configuration: '{ "method": "GET", "save-location": "js/", "save-name": "butchers"  }'
