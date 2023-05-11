@@ -1,9 +1,12 @@
 name: fetch-api
 on: [push]
 jobs:
-  refresh-feed:
+  fetch-data:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+
       - name: fetching data
         run: |
           wget -O js/butchers.json  https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A75%5D%3B%0Aarea%28id%3A3602145268%29-%3E.suchbereich%3B%0A%28node%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20way%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20relation%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%29%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B%0A
