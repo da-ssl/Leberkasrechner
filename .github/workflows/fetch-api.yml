@@ -7,8 +7,16 @@ jobs:
       - name: Fetch API Data 📦
         uses: JamesIves/fetch-api-data-action@v2
         with:
-          endpoint: https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3B%0A%28%0A%20%20node%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%20%20way%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%20%20relation%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%29%3B%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
+          endpoint: https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A75%5D%3B%0Aarea%28id%3A3602145268%29-%3E.suchbereich%3B%0A%28node%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20way%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20relation%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%29%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B%0A
       - name: Move file
         run: |
           mv fetch-api-data-action/data.json js/butcher.json
-
+      - name: Set up Git
+        uses: actions/checkout@v2
+      - name: Commit and push changes
+        run: |
+          git config --global user.name ${{ secrets.GITUSER }}
+          git config --global user.email ${{ secrets.GITEMAIL }}
+          git add .
+          git commit -m 'Updated list with butchers'
+          git push
