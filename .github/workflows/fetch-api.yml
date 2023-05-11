@@ -15,7 +15,7 @@ jobs:
       - name: transforming data
         run: |
          rm js/butchers.json
-         cat temp.json | jq '.elements' js/butcher.json
+         cat temp.json | jq '.elements' >> js/butcher.json
          rm temp.json
       - name: Commit and push changes
         run: |
