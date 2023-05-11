@@ -18,7 +18,7 @@ jobs:
         run: |
           git config --global user.name ${{ secrets.GITUSER }}
           git config --global user.email ${{ secrets.GITEMAIL }}
-          git add /home/runner/work/Leberkasrechner/Leberkasrechner/js/butchers.json
+          git add js/butchers.json -v
           git status
           git commit -am 'Updated list with butchers'
           git push origin main
