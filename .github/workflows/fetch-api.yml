@@ -6,7 +6,11 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
-
+      - name: remove old data
+        run : |
+          git rm --cached js/butchers.json
+        
+           
       - name: fetching data
         run: |
           rm js/butchers.json
