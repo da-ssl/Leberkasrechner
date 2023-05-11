@@ -114,7 +114,7 @@ function formatOpeningHours(input) {
 fetch('https://leberkasrechner.de/js/butchers.json')
     .then(response => response.json())
     .then(jsonData => {
-        butchers = jsonData;
+        butchers = jsonData["elements"];
         lmap = new leberkasMap('meineKarte')
     })
     .catch(error => console.error(error));
