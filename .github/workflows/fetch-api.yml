@@ -10,6 +10,5 @@ jobs:
           endpoint: https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3B%0A%28%0A%20%20node%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%20%20way%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%20%20relation%5B%22shop%22%3D%22butcher%22%5D%2847.56911375866714%2C9.228515625%2C50.03950183762877%2C14.0570068359375%29%3B%0A%29%3B%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B
       - name: Move file
         run: |
-          mkdir -p js
           mv fetch-api-data-action/data.json js/butcher.json
 
