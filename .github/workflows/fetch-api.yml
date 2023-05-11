@@ -4,22 +4,17 @@ jobs:
   fetch-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        run : |
-           git clone https://github.com/da-ssl/Leberkasrechner
-      - name: Remove old data
-        run: |
-          cd Leberkasrechner && rm js/butchers.json
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
       - name: Fetching data
         run: |
-           cd Leberkasrechner &&   wget -O js/butchers.json https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A75%5D%3B%0Aarea%28id%3A3602145268%29-%3E.suchbereich%3B%0A%28node%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20way%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20relation%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%29%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B%0A
-      - name: Set up Git
+         wget -O js/butchers.json https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A75%5D%3B%0Aarea%28id%3A3602145268%29-%3E.suchbereich%3B%0A%28node%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20way%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%20relation%5B%22shop%22%3D%22butcher%22%5D%28area.suchbereich%29%3B%29%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B%0A
       - name: Commit and push changes
         run: |
-          cd Leberkasrechner &&
-          git config --global user.name ${{ secrets.GITUSER }} &&
-          git config --global user.email ${{ secrets.GITEMAIL }} &&
-          git add js/butchers.json -v &&
-          git status &&
-          git commit -am 'Updated list with butchers' &&
-          git push
+          
+          git config --global user.name ${{secrets.GITUSER}} 
+          git config --global user.email ${{secrets.GITEMAIL}} 
+          git add js/butchers.json -v
+          git commit -m 'Updated list with butchers'
+          git push origin master
