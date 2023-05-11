@@ -17,4 +17,4 @@ jobs:
           git config --global user.email ${{secrets.GITEMAIL}} 
           git add js/butchers.json -v
           git commit -m 'Updated list with butchers'
-          git push origin master
+          git push
