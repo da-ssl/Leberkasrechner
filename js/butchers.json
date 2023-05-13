@@ -8337,6 +8337,7 @@
     "lat": 49.5119226,
     "lon": 11.2810749,
     "tags": {
+      "check_date": "2023-05-12",
       "name": "Metzgerei Pristownik",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -20530,27 +20531,6 @@
   },
   {
     "type": "node",
-    "id": 2844303633,
-    "lat": 49.4454849,
-    "lon": 11.8580111,
-    "tags": {
-      "addr:city": "Amberg",
-      "addr:housenumber": "7",
-      "addr:postcode": "92224",
-      "addr:street": "Marktplatz",
-      "email": "metzgerei-hottner@t-online.de",
-      "fax": "+49 9621 2911",
-      "name": "Hottner",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
-      "phone": "+49 9621 13193",
-      "shop": "butcher",
-      "toilets:wheelchair": "no",
-      "website": "http://www.metzgerei-hottner.de",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 2844368282,
     "lat": 49.445239,
     "lon": 11.8600443,
@@ -23972,11 +23952,11 @@
   {
     "type": "node",
     "id": 3700851849,
-    "lat": 48.3216975,
-    "lon": 11.7477206,
+    "lat": 48.3215449,
+    "lon": 11.7475866,
     "tags": {
       "addr:city": "Hallbergmoos",
-      "addr:housenumber": "52",
+      "addr:housenumber": "52a",
       "addr:postcode": "85399",
       "addr:street": "Theresienstraße",
       "name": "Metzgerei Leichtle",
@@ -45431,13 +45411,16 @@
       "addr:postcode": "94348",
       "addr:street": "Flugplatzstraße",
       "building": "commercial",
+      "check_date": "2023-05-04",
+      "currency:EUR": "yes",
       "email": "orga@fzk-gmbh.de",
       "fax": "+49 9429 45091 49",
       "name": "FZK GmbH Frische-Zentrum-Kreipl",
       "opening_hours": "Mo-Fr 08:00-16:00",
       "phone": "+49 9429 45091 0",
       "shop": "butcher",
-      "website": "https://www.fzk-gmbh.de/"
+      "website": "https://www.fzk-gmbh.de/",
+      "wheelchair": "yes"
     }
   },
   {
