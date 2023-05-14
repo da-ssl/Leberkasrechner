@@ -7090,20 +7090,11 @@
   },
   {
     "type": "node",
-    "id": 693309361,
-    "lat": 50.0814904,
-    "lon": 10.5676698,
-    "tags": {
-      "name": "Metzgerei Sauer",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 693309438,
     "lat": 50.0815328,
     "lon": 10.5701751,
     "tags": {
+      "check_date": "2023-05-13",
       "name": "Stadler",
       "shop": "butcher"
     }
@@ -18403,7 +18394,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date:opening_hours": "2020-11-09",
+      "check_date:opening_hours": "2023-05-13",
       "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:00-13:00",
