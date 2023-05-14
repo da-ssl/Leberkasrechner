@@ -7,7 +7,14 @@ body {
     padding-top: 25px;
     padding-bottom: 25px;
 }
-
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
 @font-face {
     font-family: 'Open Sans';
     font-style: normal;
