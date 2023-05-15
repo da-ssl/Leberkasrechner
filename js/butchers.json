@@ -7090,20 +7090,11 @@
   },
   {
     "type": "node",
-    "id": 693309361,
-    "lat": 50.0814904,
-    "lon": 10.5676698,
-    "tags": {
-      "name": "Metzgerei Sauer",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 693309438,
     "lat": 50.0815328,
     "lon": 10.5701751,
     "tags": {
+      "check_date": "2023-05-13",
       "name": "Stadler",
       "shop": "butcher"
     }
@@ -9055,6 +9046,7 @@
       "addr:housenumber": "10",
       "addr:postcode": "63741",
       "addr:street": "Daimlerstraße",
+      "check_date": "2023-05-14",
       "name": "Metzgerei Häuser",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
       "shop": "butcher",
@@ -12469,6 +12461,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "94363",
       "addr:street": "Straubinger Straße",
+      "check_date": "2023-05-14",
       "name": "Metzgerei Loibl",
       "shop": "butcher",
       "source": "local_knowledge",
@@ -18403,7 +18396,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date:opening_hours": "2020-11-09",
+      "check_date:opening_hours": "2023-05-13",
       "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:00-13:00",
@@ -19145,10 +19138,19 @@
       "addr:postcode": "97478",
       "addr:street": "Hauptstraße",
       "brand": "Häfner",
+      "check_date": "2023-05-14",
+      "internet_access": "no",
+      "name": "Metzgerei Häfner",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
+      "operator": "Metzgerei Häfner GmbH",
+      "payment:coins": "yes",
+      "payment:credit_cards": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
       "phone": "+49 9527 3 53",
       "shop": "butcher",
-      "website": "https://www.metzgerei-haefner.de/filialen.html#jumpKnetzgau"
+      "website": "https://www.metzgerei-haefner.de/filialen.html#jumpKnetzgau",
+      "wheelchair": "no"
     }
   },
   {
@@ -35495,6 +35497,11 @@
     "lat": 48.0876735,
     "lon": 11.6457103,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "35",
+      "addr:postcode": "81739",
+      "addr:street": "Carl-Wery-Straße",
       "amenity": "fast_food",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
