@@ -18641,8 +18641,8 @@
   {
     "type": "node",
     "id": 2381628657,
-    "lat": 48.1063691,
-    "lon": 11.6455938,
+    "lat": 48.106295,
+    "lon": 11.645608,
     "tags": {
       "access:covid19": "yes",
       "addr:housenumber": "78",
@@ -27280,13 +27280,13 @@
       "addr:postcode": "82008",
       "addr:street": "Ottobrunner Straße",
       "name": "Beefmeister",
-      "opening_hours": "Di-Fr 11:00-19:00; Sa 10:00-14:00",
+      "opening_hours": "Tu-Fr 11:00-19:00; Sa 10:00-14:00",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
       "payment:ec": "yes",
       "phone": "+498923028700",
       "shop": "butcher",
-      "website": "www.beefmeister.de"
+      "website": "https://www.beefmeister.de/"
     }
   },
   {
@@ -34346,10 +34346,10 @@
     "lat": 49.0565849,
     "lon": 12.0014556,
     "tags": {
-      "addr:city": "Lappersdorf",
-      "addr:housenumber": "12",
-      "addr:postcode": "93138",
-      "addr:street": "Am Silbergarten",
+      "contact:city": "Lappersdorf",
+      "contact:housenumber": "12",
+      "contact:postcode": "93138",
+      "contact:street": "Am Silbergarten",
       "name": "Metzgerei Brunner",
       "operator": "Metzgerei u.Partyservice Brunner",
       "shop": "butcher"
