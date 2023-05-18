@@ -38946,6 +38946,7 @@
       "name": "Metzgerei Brunner",
       "opening_hours": "Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-13:00",
       "phone": "+49 9131 21900",
+      "roof:material": "roof_tiles",
       "shop": "butcher",
       "source": "http://www.metzgerei-brunner.org/filialen.html",
       "website": "http://www.metzgerei-brunner.org/"
@@ -43939,6 +43940,7 @@
       "addr:postcode": "63773",
       "addr:street": "Hauptstraße",
       "building": "yes",
+      "check_date": "2023-05-17",
       "name": "Metzgerei Russmann",
       "shop": "butcher"
     }
