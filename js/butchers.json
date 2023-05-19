@@ -16247,22 +16247,6 @@
   },
   {
     "type": "node",
-    "id": 1947157415,
-    "lat": 48.1686171,
-    "lon": 11.9129434,
-    "tags": {
-      "addr:city": "Forstinning",
-      "addr:country": "DE",
-      "addr:housenumber": "18",
-      "addr:postcode": "85661",
-      "addr:street": "Mühldorfer Straße",
-      "name": "Scherl",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 1948027689,
     "lat": 47.8230439,
     "lon": 11.2971843,
@@ -24085,17 +24069,6 @@
       "shop": "butcher",
       "toilets:wheelchair": "no",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3728023825,
-    "lat": 48.0892669,
-    "lon": 10.8515654,
-    "tags": {
-      "check_date": "2016-03-21",
-      "name": "Metzgerei Bader2",
-      "shop": "butcher"
     }
   },
   {
@@ -35847,6 +35820,26 @@
     "lon": 11.1705501,
     "tags": {
       "name": "Hofladen Drexl",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10907607918,
+    "lat": 48.6143108,
+    "lon": 11.5625625,
+    "tags": {
+      "name": "Metzgerei Meir",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10909186632,
+    "lat": 48.0626586,
+    "lon": 12.7666984,
+    "tags": {
+      "name": "Metzgerei Krutzke",
       "shop": "butcher"
     }
   },
