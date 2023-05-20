@@ -1111,12 +1111,16 @@
     "lon": 9.863028,
     "tags": {
       "addr:city": "Margetshöchheim",
+      "addr:country": "DE",
       "addr:housenumber": "5",
       "addr:postcode": "97276",
       "addr:street": "Falkenstraße",
+      "email": "metzgerei-flach@gmx.de",
+      "fax": "+49 931 467091",
       "name": "Metzgerei Flach",
       "phone": "+49 931 461079",
       "shop": "butcher",
+      "website": "https://www.metzgerei-flach.de/",
       "wheelchair": "yes"
     }
   },
@@ -10713,6 +10717,7 @@
       "addr:housenumber": "34",
       "addr:postcode": "63820",
       "addr:street": "Hauptstraße",
+      "check_date": "2023-05-19",
       "name": "Bernard",
       "opening_hours": "Mo-Fr 07:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 07:00-12:00; PH off",
       "shop": "butcher",
@@ -24435,18 +24440,6 @@
   },
   {
     "type": "node",
-    "id": 3814169466,
-    "lat": 49.4910883,
-    "lon": 10.9326738,
-    "tags": {
-      "name": "Metzgerei Weinländer",
-      "opening_hours": "Tu-Th 07:30-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-13:00",
-      "phone": "+49 911 755414",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 3815708973,
     "lat": 49.0111658,
     "lon": 10.8469832,
@@ -35467,8 +35460,8 @@
   {
     "type": "node",
     "id": 10221925772,
-    "lat": 48.0876735,
-    "lon": 11.6457103,
+    "lat": 48.0877068,
+    "lon": 11.6457305,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
@@ -36293,38 +36286,6 @@
       "name": "Metzgerei Pauleser",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "way",
-    "id": 43982256,
-    "nodes": [
-      458892048,
-      559327980,
-      559328015,
-      559328012,
-      458892048
-    ],
-    "tags": {
-      "addr:city": "Hersbruck",
-      "addr:country": "DE",
-      "addr:housenumber": "11",
-      "addr:postcode": "91217",
-      "addr:street": "Unterer Markt",
-      "amenity": "fast_food",
-      "building": "apartments",
-      "building:levels": "2",
-      "cuisine": "german",
-      "email": "info@kratzers-biergarten.de",
-      "fax": "+49 9151 71840",
-      "name": "Kratzers",
-      "outdoor_seating": "no",
-      "phone": "+49 9151 2723",
-      "roof:levels": "3",
-      "roof:shape": "gabled",
-      "shop": "butcher",
-      "takeaway": "yes",
-      "website": "https://www.kratzers-biergarten.de/"
     }
   },
   {
@@ -45785,6 +45746,29 @@
     }
   },
   {
+    "type": "way",
+    "id": 1174311378,
+    "nodes": [
+      10911617620,
+      10911617619,
+      10911617618,
+      1867111804,
+      10911617620
+    ],
+    "tags": {
+      "addr:city": "Missen-Wilhams",
+      "addr:street": "Hauptstraße 17a",
+      "diet:halal": "no",
+      "diet:kosher": "no",
+      "level": "EG",
+      "name": "Sonja's Bio Fleischlädele",
+      "opening_hours": "Fr 14:15-18:00; Sa 08:00-12:00; PH closed",
+      "phone": "+49 8320 1258",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
     "type": "relation",
     "id": 2639523,
     "members": [
@@ -46478,6 +46462,30 @@
     "id": 3472734501,
     "lat": 49.8279469,
     "lon": 10.0063133
+  },
+  {
+    "type": "node",
+    "id": 1867111804,
+    "lat": 47.5970973,
+    "lon": 10.1270335
+  },
+  {
+    "type": "node",
+    "id": 10911617618,
+    "lat": 47.5970333,
+    "lon": 10.1270328
+  },
+  {
+    "type": "node",
+    "id": 10911617619,
+    "lat": 47.5970332,
+    "lon": 10.1269443
+  },
+  {
+    "type": "node",
+    "id": 10911617620,
+    "lat": 47.5970977,
+    "lon": 10.1269443
   },
   {
     "type": "node",
@@ -54698,30 +54706,6 @@
     "id": 385082982,
     "lat": 49.3867813,
     "lon": 11.3607543
-  },
-  {
-    "type": "node",
-    "id": 458892048,
-    "lat": 49.5081887,
-    "lon": 11.4294082
-  },
-  {
-    "type": "node",
-    "id": 559327980,
-    "lat": 49.5082679,
-    "lon": 11.4293891
-  },
-  {
-    "type": "node",
-    "id": 559328012,
-    "lat": 49.5082144,
-    "lon": 11.4296608
-  },
-  {
-    "type": "node",
-    "id": 559328015,
-    "lat": 49.5082936,
-    "lon": 11.4296418
   },
   {
     "type": "node",
