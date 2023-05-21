@@ -20183,6 +20183,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-05-20",
       "name": "Vinzenzmurr",
       "operator": "Vinzenzmurr",
       "shop": "butcher",
@@ -28391,6 +28392,9 @@
     "lat": 47.879995,
     "lon": 11.5191758,
     "tags": {
+      "addr:city": "Egling",
+      "addr:place": "Weihermühle",
+      "addr:postcode": "82544",
       "email": "info@aktivschaf.de",
       "name": "Aktivhof Weihermühle",
       "organic": "no",
@@ -29768,22 +29772,6 @@
       "phone": "+49 8072 1310",
       "shop": "butcher",
       "website": "http://www.metzgerei-mair.de"
-    }
-  },
-  {
-    "type": "node",
-    "id": 6305323810,
-    "lat": 49.7002118,
-    "lon": 10.7761526,
-    "tags": {
-      "addr:city": "Lonnerstadt",
-      "addr:housenumber": "20",
-      "addr:postcode": "91315",
-      "addr:street": "Höchstadter Straße",
-      "contact:phone": "+49 9193 9310",
-      "name": "Schwandner Fleischbearbeitungs GmbH",
-      "shop": "butcher",
-      "website": "http://www.partyservice-schwandner.de/"
     }
   },
   {
@@ -35837,6 +35825,23 @@
     }
   },
   {
+    "type": "node",
+    "id": 10913750185,
+    "lat": 48.6818015,
+    "lon": 10.8119432,
+    "tags": {
+      "addr:city": "Asbach-Bäumenheim",
+      "addr:housenumber": "16",
+      "addr:postcode": "86663",
+      "addr:street": "Hauptstraße",
+      "contact:phone": "+49 906 99299",
+      "contact:website": "http://www.goeth-metzgerei.de/standorte-filialen/filiale-asbach-b%C3%A4umenheim/",
+      "name": "Metzgerei Göth",
+      "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -37144,31 +37149,6 @@
       "name": "Fleischerei Herr",
       "shop": "butcher",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "way",
-    "id": 92206589,
-    "nodes": [
-      1070512396,
-      3249932928,
-      1070512381,
-      1070512264,
-      1070512502,
-      3249932927,
-      1070512396
-    ],
-    "tags": {
-      "addr:city": "Asbach-Bäumenheim",
-      "addr:housenumber": "16",
-      "addr:postcode": "86663",
-      "addr:street": "Hauptstraße",
-      "building": "yes",
-      "contact:phone": "+49 906 99299",
-      "contact:website": "http://www.goeth-metzgerei.de/standorte-filialen/filiale-asbach-b%C3%A4umenheim/",
-      "name": "Metzgerei Göth",
-      "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00",
-      "shop": "butcher"
     }
   },
   {
@@ -43460,10 +43440,14 @@
       "addr:postcode": "94244",
       "addr:street": "Oberer Furthof",
       "building": "yes",
+      "building:colour": "white",
+      "building:material": "plaster",
       "name": "Metzgerei Wirrer",
       "payment:cash": "yes",
       "payment:coins": "yes",
       "payment:notes": "yes",
+      "roof:colour": "#CC9173",
+      "roof:material": "roof_tiles",
       "shop": "butcher"
     }
   },
@@ -50608,42 +50592,6 @@
     "id": 1198670866,
     "lat": 48.7604171,
     "lon": 10.7107924
-  },
-  {
-    "type": "node",
-    "id": 1070512264,
-    "lat": 48.681781,
-    "lon": 10.8120806
-  },
-  {
-    "type": "node",
-    "id": 1070512381,
-    "lat": 48.6819455,
-    "lon": 10.8119249
-  },
-  {
-    "type": "node",
-    "id": 1070512396,
-    "lat": 48.6818594,
-    "lon": 10.8118437
-  },
-  {
-    "type": "node",
-    "id": 1070512502,
-    "lat": 48.681717,
-    "lon": 10.8119254
-  },
-  {
-    "type": "node",
-    "id": 3249932927,
-    "lat": 48.6818437,
-    "lon": 10.8118056
-  },
-  {
-    "type": "node",
-    "id": 3249932928,
-    "lat": 48.6818973,
-    "lon": 10.8118078
   },
   {
     "type": "node",
