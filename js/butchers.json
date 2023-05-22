@@ -3126,7 +3126,7 @@
     "tags": {
       "addr:housenumber": "336",
       "addr:street": "Altstadt",
-      "check_date": "2023-01-24",
+      "check_date": "2023-05-20",
       "name": "Metzgerei Brandl",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3143,7 +3143,7 @@
       "addr:housenumber": "71",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-05-20",
       "name": "Metzgerei Stegfellner",
       "phone": "+49 871 28015",
       "shop": "butcher",
@@ -3159,7 +3159,7 @@
     "tags": {
       "addr:housenumber": "67",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-05-20",
       "name": "Metzgerei Stadler",
       "shop": "butcher",
       "wheelchair": "no"
@@ -7328,10 +7328,8 @@
       "addr:housenumber": "4",
       "addr:postcode": "80637",
       "addr:street": "Franz-Marc-Straße",
-      "email": "hofladen-borstei@outlook.de",
-      "name": "Hofladen Ostler",
-      "opening_hours": "Tu 08:30-18:00; We-Th 08:30-14:00; Fr 08:30-18:00; Sa 08:30-13:00; PH off",
-      "owner": "Georg Ostler",
+      "name": "Hofladen Neuner",
+      "opening_hours": "Mo-Fr 08:30-14:00; Sa 09:00-13:00; PH off",
       "phone": "+49 89 46132224",
       "shop": "butcher",
       "wheelchair": "limited"
@@ -12044,7 +12042,7 @@
       "addr:housenumber": "262",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2022-11-18",
+      "check_date": "2023-05-20",
       "name": "Metzgerei Georg Hofmair",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:30",
       "phone": "+49871 22870",
