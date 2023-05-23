@@ -7224,19 +7224,6 @@
   },
   {
     "type": "node",
-    "id": 702354218,
-    "lat": 49.9034653,
-    "lon": 10.9082406,
-    "tags": {
-      "check_date:opening_hours": "2021-11-18",
-      "name": "Bühler",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00; Su,PH off",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 703480772,
     "lat": 48.3677883,
     "lon": 10.8959589,
@@ -13984,6 +13971,7 @@
     "lon": 10.3089685,
     "tags": {
       "name": "Weber",
+      "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-13:30,14:30-18:00; Sa 07:00-12:30",
       "shop": "butcher"
     }
   },
@@ -28341,6 +28329,7 @@
     "lat": 49.4114549,
     "lon": 11.0124475,
     "tags": {
+      "level": "1",
       "name": "Metzgerei Jacob",
       "shop": "butcher"
     }
@@ -28774,6 +28763,7 @@
     "lat": 47.6336009,
     "lon": 11.2337381,
     "tags": {
+      "check_date": "2023-05-22",
       "name": "Sterff",
       "shop": "butcher"
     }
@@ -30188,6 +30178,7 @@
     "lat": 49.9013968,
     "lon": 9.2189898,
     "tags": {
+      "check_date": "2023-05-22",
       "craft": "caterer",
       "description": "Metzgerei und Partyservice",
       "name": "Aulbach's Wurstlädchen",
@@ -35391,7 +35382,7 @@
       "addr:postcode": "85049",
       "addr:street": "Harderstraße",
       "name": "Metzgerei Pauleser",
-      "opening_hours": "Mo-Fr 07:00-18:00, Sa 06:30-14:00",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 06:30-14:00; PH off",
       "phone": "+49 841 93 11 052",
       "shop": "butcher",
       "website": "https://metzgerei-pauleser.de"
@@ -35836,6 +35827,16 @@
       "contact:website": "http://www.goeth-metzgerei.de/standorte-filialen/filiale-asbach-b%C3%A4umenheim/",
       "name": "Metzgerei Göth",
       "opening_hours": "Mo-Th 08:00-12:30,14:00-18:00; We 08:00-12:30; Fr 08:00-18:00; Sa 07:30-12:00",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10917708713,
+    "lat": 49.4584894,
+    "lon": 10.5360493,
+    "tags": {
+      "name": "Hofmetzgerei Michael Hülf",
       "shop": "butcher"
     }
   },
