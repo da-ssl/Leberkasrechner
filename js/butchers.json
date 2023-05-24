@@ -562,6 +562,7 @@
     "lat": 49.8968818,
     "lon": 9.2310157,
     "tags": {
+      "check_date": "2023-05-23",
       "name": "Berberich",
       "shop": "butcher",
       "wheelchair": "no",
@@ -8173,8 +8174,8 @@
   {
     "type": "node",
     "id": 871032392,
-    "lat": 49.6405407,
-    "lon": 11.0718408,
+    "lat": 49.6405561,
+    "lon": 11.071776,
     "tags": {
       "name": "Zametzer",
       "opening_hours": "Mo,We-Fr 07:30-12:00,13:30-18:00; Sa 07:00-13:00",
@@ -13060,17 +13061,6 @@
       "description": "Metzger - Bistro & Partyservice",
       "name": "Metzgerei Kumpf",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1538718202,
-    "lat": 49.4341057,
-    "lon": 11.0758698,
-    "tags": {
-      "name": "Teichner",
-      "shop": "butcher",
-      "wheelchair": "no"
     }
   },
   {
