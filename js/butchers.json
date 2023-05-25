@@ -7636,6 +7636,7 @@
     "lat": 49.9561313,
     "lon": 9.1632888,
     "tags": {
+      "check_date": "2023-05-24",
       "name": "Metzgerei Sandt",
       "shop": "butcher",
       "wheelchair": "no"
@@ -28232,7 +28233,7 @@
       "addr:housenumber": "1b",
       "addr:postcode": "84524",
       "addr:street": "Altöttinger Straße",
-      "check_date:opening_hours": "2021-10-05",
+      "check_date:opening_hours": "2023-05-24",
       "internet_access": "wlan",
       "name": "Metzgerei Fischer",
       "opening_hours": "Mo-Sa 07:00-20:00",
