@@ -11066,10 +11066,10 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-01-30",
+      "check_date": "2023-05-25",
       "check_date:opening_hours": "2022-08-09",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-13:00",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -33835,6 +33835,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-05-25",
       "name": "Vinzenzmurr",
       "shop": "butcher"
     }
@@ -35828,6 +35829,16 @@
     "lon": 10.5360493,
     "tags": {
       "name": "Hofmetzgerei Michael Hülf",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10926330080,
+    "lat": 48.5265982,
+    "lon": 12.139086,
+    "tags": {
+      "name": "Tremml",
       "shop": "butcher"
     }
   },
