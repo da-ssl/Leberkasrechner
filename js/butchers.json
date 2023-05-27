@@ -6397,6 +6397,7 @@
     "lat": 48.135698,
     "lon": 11.5765004,
     "tags": {
+      "check_date:opening_hours": "2023-05-26",
       "name": "Eisenreich",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
       "ref": "Abteilung V, Laden 16",
@@ -6494,9 +6495,10 @@
       "addr:housenumber": "2",
       "addr:postcode": "80331",
       "addr:street": "Viktualienmarkt",
-      "check_date:opening_hours": "2022-05-19",
+      "check_date:opening_hours": "2023-05-26",
       "name": "Marktmetzger",
       "opening_hours": "Mo-Sa 07:00-19:30",
+      "opening_hours:signed": "no",
       "ref": "Abteilung VII; Ladennummer 5",
       "shop": "butcher",
       "wheelchair": "limited"
@@ -15471,8 +15473,7 @@
       "addr:postcode": "81671",
       "addr:street": "Rosenheimer Straße",
       "name": "Andreas Zeller",
-      "opening_hours": "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-13:00; Sa 08:00-12:00",
-      "opening_hours:covid19": "open",
+      "opening_hours": "Sa 08:00-12:00; Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:00",
       "shop": "butcher",
       "takeaway:covid19": "yes",
       "toilets:wheelchair": "no",
@@ -19769,10 +19770,11 @@
       "addr:housenumber": "11",
       "addr:postcode": "85221",
       "addr:street": "Münchner Straße",
-      "name": "Blank",
+      "name": "Forche",
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 08:00-12:00",
+      "phone": "(08131) 73 58 91",
       "shop": "butcher",
-      "website": "https://www.metzgerei-blank.de/"
+      "website": "www.forche.de"
     }
   },
   {
@@ -25013,6 +25015,7 @@
       "addr:housenumber": "7",
       "addr:postcode": "95233",
       "addr:street": "Kirchplatz",
+      "addr:suburb": "Enchenreuth",
       "name": "Metzgerei Feulner",
       "shop": "butcher",
       "wheelchair": "no"
@@ -25029,6 +25032,7 @@
       "addr:housenumber": "1",
       "addr:postcode": "95233",
       "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
       "name": "Metzgerei Schultheiß",
       "shop": "butcher"
     }
@@ -29100,6 +29104,7 @@
       "addr:housenumber": "4",
       "addr:postcode": "95233",
       "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
       "name": "Konrad Reif",
       "shop": "butcher"
     }
