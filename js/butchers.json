@@ -3830,6 +3830,7 @@
     "lat": 49.8199764,
     "lon": 9.2555601,
     "tags": {
+      "check_date": "2023-05-27",
       "name": "Heeg",
       "shop": "butcher"
     }
@@ -4257,6 +4258,7 @@
     "lat": 49.893659,
     "lon": 10.8861094,
     "tags": {
+      "check_date": "2023-05-27",
       "contact:email": "info@hornung-metzgerei.de",
       "contact:fax": "+49 951 2083371",
       "contact:phone": "+49 951 23662",
@@ -13367,16 +13369,6 @@
   },
   {
     "type": "node",
-    "id": 1585065940,
-    "lat": 47.7044904,
-    "lon": 10.3226328,
-    "tags": {
-      "name": "Schön",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1586233960,
     "lat": 48.038956,
     "lon": 12.5689754,
@@ -15384,6 +15376,7 @@
     "lat": 47.6036809,
     "lon": 12.9858544,
     "tags": {
+      "check_date": "2023-05-27",
       "level": "0",
       "name": "Fritz Kastner",
       "opening_hours": "Mo-Fr 07:30-12:30,14:30-18:00; Sa 07:30-12:30",
@@ -15691,23 +15684,6 @@
       "shop": "butcher",
       "website": "http://www.metzgereigantner.de",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1872838617,
-    "lat": 48.6337046,
-    "lon": 13.187335,
-    "tags": {
-      "addr:city": "Vilshofen an der Donau",
-      "addr:country": "DE",
-      "addr:housenumber": "35",
-      "addr:postcode": "94474",
-      "addr:street": "Stadtplatz",
-      "name": "Braidt",
-      "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-12:00",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-braidt.de/"
     }
   },
   {
@@ -21112,6 +21088,7 @@
       "addr:housenumber": "45",
       "addr:postcode": "63897",
       "addr:street": "Hauptstraße",
+      "check_date": "2023-05-27",
       "name": "Rabe",
       "phone": "+49 9371 2221",
       "shop": "butcher"
@@ -33395,6 +33372,7 @@
     "lat": 49.8793067,
     "lon": 9.1555394,
     "tags": {
+      "check_date": "2023-05-27",
       "craft": "caterer",
       "name": "Landmetzgerei Hock",
       "opening_hours": "Tu-Fr 07:30-14:00, Tu,Th,Fr 15:30-18:00, Sa 07:30-13:00; PH off",
