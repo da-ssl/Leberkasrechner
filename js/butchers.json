@@ -3508,7 +3508,7 @@
       "addr:postcode": "86830",
       "addr:street": "Fuggerstraße",
       "name": "Metzgerei Naumann",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "opening_hours": "Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30",
       "phone": "+49 8232 78190",
       "shop": "butcher",
       "website": "http://www.metzgerei-naumann.de",
@@ -10167,6 +10167,7 @@
     "lat": 49.9607474,
     "lon": 9.1760468,
     "tags": {
+      "check_date": "2023-05-28",
       "name": "Verkaufsstätte Kraus",
       "opening_hours": "Mo-Fr 06:00-17:30; Sa 06:00-12:00",
       "shop": "butcher",
@@ -29741,6 +29742,7 @@
     "lat": 49.9451184,
     "lon": 9.2101206,
     "tags": {
+      "check_date": "2023-05-28",
       "name": "Metzgerei Fay",
       "shop": "butcher"
     }
