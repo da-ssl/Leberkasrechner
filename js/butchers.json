@@ -11165,20 +11165,6 @@
   },
   {
     "type": "node",
-    "id": 1347680560,
-    "lat": 48.1519282,
-    "lon": 11.853995,
-    "tags": {
-      "addr:housenumber": "21",
-      "addr:postcode": "85646",
-      "addr:street": "Högerstraße",
-      "name": "Metzgerei Stefan Elst",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1348055838,
     "lat": 48.4933187,
     "lon": 11.3602508,
