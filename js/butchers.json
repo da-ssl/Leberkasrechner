@@ -120,12 +120,11 @@
   {
     "type": "node",
     "id": 199030093,
-    "lat": 49.7059312,
-    "lon": 9.4013138,
+    "lat": 49.7057086,
+    "lon": 9.4013547,
     "tags": {
-      "created_by": "JOSM",
       "name": "Ulrich",
-      "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We,Sa 07:30-12:30; Fr 07:30-18:00",
+      "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:30; PH off",
       "shop": "butcher"
     }
   },
@@ -7715,8 +7714,8 @@
   {
     "type": "node",
     "id": 790030190,
-    "lat": 48.1612189,
-    "lon": 11.5237656,
+    "lat": 48.1612565,
+    "lon": 11.5237354,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
@@ -7728,6 +7727,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -33936,7 +33936,7 @@
     "lat": 48.101208,
     "lon": 11.622642,
     "tags": {
-      "check_date:opening_hours": "2022-07-15",
+      "check_date:opening_hours": "2023-05-30",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Südbayerische Fleischwaren",
@@ -35810,6 +35810,16 @@
     "lon": 12.139086,
     "tags": {
       "name": "Tremml",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10942148706,
+    "lat": 50.3100209,
+    "lon": 9.7914149,
+    "tags": {
+      "name": "Schuricht",
       "shop": "butcher"
     }
   },
@@ -41251,6 +41261,30 @@
       "shop": "butcher",
       "website": "https://metzgerei-bausewein.de/",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 243265717,
+    "nodes": [
+      2506845974,
+      2506845930,
+      2506845929,
+      2506845897,
+      2506845899,
+      2506845976,
+      2506845974
+    ],
+    "tags": {
+      "addr:housenumber": "48",
+      "addr:street": "Hauptstraße",
+      "building": "retail",
+      "building:levels": "2",
+      "name": "Spateneder",
+      "opening_hours": "Mo-Th 07:00-12:30; Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00",
+      "roof:levels": "1",
+      "shop": "butcher",
+      "source": "Bing Sat"
     }
   },
   {
@@ -49620,6 +49654,42 @@
     "id": 1921996697,
     "lat": 48.1609166,
     "lon": 12.817848
+  },
+  {
+    "type": "node",
+    "id": 2506845897,
+    "lat": 48.2485694,
+    "lon": 12.9857481
+  },
+  {
+    "type": "node",
+    "id": 2506845899,
+    "lat": 48.2485714,
+    "lon": 12.9855844
+  },
+  {
+    "type": "node",
+    "id": 2506845929,
+    "lat": 48.2486401,
+    "lon": 12.98575
+  },
+  {
+    "type": "node",
+    "id": 2506845930,
+    "lat": 48.2486406,
+    "lon": 12.9857076
+  },
+  {
+    "type": "node",
+    "id": 2506845974,
+    "lat": 48.2486995,
+    "lon": 12.9857093
+  },
+  {
+    "type": "node",
+    "id": 2506845976,
+    "lat": 48.248701,
+    "lon": 12.985588
   },
   {
     "type": "node",
