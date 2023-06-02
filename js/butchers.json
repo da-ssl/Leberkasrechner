@@ -35824,6 +35824,16 @@
     }
   },
   {
+    "type": "node",
+    "id": 10944445275,
+    "lat": 49.612502,
+    "lon": 11.4072314,
+    "tags": {
+      "name": "Singer",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
