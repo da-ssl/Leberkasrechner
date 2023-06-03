@@ -29188,7 +29188,7 @@
       "addr:country": "DE",
       "addr:housenumber": "1",
       "addr:postcode": "95119",
-      "addr:street": "Doktor-Hans-Künzel-Straße",
+      "addr:street": "Dr.-Hans-Künzel-Straße",
       "name": "Inge Herpich",
       "shop": "butcher"
     }
@@ -32914,27 +32914,6 @@
   },
   {
     "type": "node",
-    "id": 8423406826,
-    "lat": 48.2476945,
-    "lon": 11.650905,
-    "tags": {
-      "addr:city": "Garching bei München",
-      "addr:country": "DE",
-      "addr:housenumber": "23",
-      "addr:postcode": "85748",
-      "addr:street": "Münchener Straße",
-      "contact:email": "info@metzgerei-karl.de",
-      "contact:phone": "+49 89 3291218",
-      "name": "Metzgerei Karl",
-      "opening_hours": "Mo 06:45-12:45; Tu-Fr 06:45-18:00; Sa 06:30-12:30",
-      "operator": "Hermann Karl",
-      "shop": "butcher",
-      "website": "http://www.metzgerei-karl.de/",
-      "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "node",
     "id": 8423406829,
     "lat": 48.2479506,
     "lon": 11.6510302,
@@ -35831,6 +35810,22 @@
     "tags": {
       "name": "Singer",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10947442433,
+    "lat": 49.5296026,
+    "lon": 11.1505048,
+    "tags": {
+      "addr:city": "Heroldsberg",
+      "addr:housenumber": "94",
+      "addr:postcode": "90562",
+      "addr:street": "Hauptstraße",
+      "name": "Metzgerei Richard Büttner",
+      "opening_hours": "Mo 07:30-13:00, Tu-Fr 07:30-18:00, Sa 07:30-13:00",
+      "shop": "butcher",
+      "short_name": "Büttner"
     }
   },
   {
@@ -40239,31 +40234,6 @@
       "name": "Metzgerei Max Malzer",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "way",
-    "id": 202240925,
-    "nodes": [
-      6275352899,
-      2122193267,
-      2122193269,
-      2122193288,
-      2122193294,
-      6275352900,
-      2122193308,
-      6275352901,
-      6275352899
-    ],
-    "tags": {
-      "addr:city": "Heroldsberg",
-      "addr:postcode": "90562",
-      "addr:street": "Hauptstraße",
-      "building": "yes",
-      "name": "Büttner",
-      "opening_hours": "Mo 07:30-13:00, Tu-Fr 07:30-18:00, Sa 07:30-13:00",
-      "shop": "butcher",
-      "source": "Bing"
     }
   },
   {
@@ -55022,54 +54992,6 @@
     "id": 3072457802,
     "lat": 49.6685577,
     "lon": 10.9254823
-  },
-  {
-    "type": "node",
-    "id": 2122193267,
-    "lat": 49.5297135,
-    "lon": 11.1503185
-  },
-  {
-    "type": "node",
-    "id": 2122193269,
-    "lat": 49.5297157,
-    "lon": 11.1502728
-  },
-  {
-    "type": "node",
-    "id": 2122193288,
-    "lat": 49.5297501,
-    "lon": 11.1502917
-  },
-  {
-    "type": "node",
-    "id": 2122193294,
-    "lat": 49.5297501,
-    "lon": 11.150348
-  },
-  {
-    "type": "node",
-    "id": 2122193308,
-    "lat": 49.5295338,
-    "lon": 11.1505368
-  },
-  {
-    "type": "node",
-    "id": 6275352899,
-    "lat": 49.529535,
-    "lon": 11.1503165
-  },
-  {
-    "type": "node",
-    "id": 6275352900,
-    "lat": 49.5297535,
-    "lon": 11.1505244
-  },
-  {
-    "type": "node",
-    "id": 6275352901,
-    "lat": 49.5295346,
-    "lon": 11.1504777
   },
   {
     "type": "node",
