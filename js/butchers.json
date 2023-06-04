@@ -699,6 +699,7 @@
       "addr:housenumber": "4",
       "addr:postcode": "80937",
       "addr:street": "Sudetendeutschestraße",
+      "check_date": "2023-06-03",
       "name": "Metzgerei Kollmer",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:30-12:00",
       "shop": "butcher",
@@ -5750,6 +5751,7 @@
       "addr:street": "Äußere Bucher Straße",
       "name": "Kleinlein",
       "shop": "butcher",
+      "website": "https://www.metzgerei-kleinlein.de/",
       "wheelchair": "limited"
     }
   },
@@ -38481,33 +38483,6 @@
   },
   {
     "type": "way",
-    "id": 136476920,
-    "nodes": [
-      1497086764,
-      1497086741,
-      1497086704,
-      2012955299,
-      2012955297,
-      1497086748,
-      1497086768,
-      1497086760,
-      1497086764
-    ],
-    "tags": {
-      "addr:city": "Sünching",
-      "addr:country": "DE",
-      "addr:housenumber": "19",
-      "addr:postcode": "93104",
-      "addr:street": "Bahnhofstraße",
-      "building": "commercial",
-      "name": "Metzgerei Ehrl",
-      "opening_hours": "Mo 07:30-12:30; Tu-Fr 07:30-12:30,14:00-18:00; Sa 07:00-12:00",
-      "roof:shape": "gabled",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 138113519,
     "nodes": [
       1514126209,
@@ -56936,54 +56911,6 @@
     "id": 3702821020,
     "lat": 48.9556413,
     "lon": 12.2397224
-  },
-  {
-    "type": "node",
-    "id": 1497086704,
-    "lat": 48.8821152,
-    "lon": 12.3549589
-  },
-  {
-    "type": "node",
-    "id": 1497086741,
-    "lat": 48.8821865,
-    "lon": 12.3550501
-  },
-  {
-    "type": "node",
-    "id": 1497086748,
-    "lat": 48.8822262,
-    "lon": 12.3547243
-  },
-  {
-    "type": "node",
-    "id": 1497086760,
-    "lat": 48.8822459,
-    "lon": 12.3548448
-  },
-  {
-    "type": "node",
-    "id": 1497086764,
-    "lat": 48.8822776,
-    "lon": 12.3548854
-  },
-  {
-    "type": "node",
-    "id": 1497086768,
-    "lat": 48.8822767,
-    "lon": 12.354789
-  },
-  {
-    "type": "node",
-    "id": 2012955297,
-    "lat": 48.882192,
-    "lon": 12.354786
-  },
-  {
-    "type": "node",
-    "id": 2012955299,
-    "lat": 48.8822031,
-    "lon": 12.3548002
   },
   {
     "type": "node",
