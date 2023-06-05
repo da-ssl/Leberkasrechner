@@ -2340,18 +2340,6 @@
   },
   {
     "type": "node",
-    "id": 331460754,
-    "lat": 48.3482287,
-    "lon": 10.5868989,
-    "tags": {
-      "name": "Metzgerei Leberl",
-      "shop": "butcher",
-      "toilets:wheelchair": "no",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 331877656,
     "lat": 50.1635666,
     "lon": 11.1154831,
@@ -13522,6 +13510,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-04",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
       "shop": "butcher",
@@ -14412,8 +14401,8 @@
   {
     "type": "node",
     "id": 1717736476,
-    "lat": 49.804858,
-    "lon": 10.2297736,
+    "lat": 49.8048659,
+    "lon": 10.2297741,
     "tags": {
       "description": "Dienstags kein Fleisch",
       "name": "Klostermetzgerei Vier Türme",
@@ -27687,9 +27676,11 @@
     "lat": 48.9081862,
     "lon": 12.6931346,
     "tags": {
-      "name": "Metzgerei Kammerl",
+      "addr:housenumber": "15",
+      "addr:street": "Stadtplatz",
+      "name": "Fleisch- und Wurstwaren Edwin Herrler",
       "shop": "butcher",
-      "survey:date": "2018-01-04"
+      "survey:date": "2023-06-04"
     }
   },
   {
@@ -38375,7 +38366,7 @@
       "addr:street": "Weißengasse",
       "building": "yes",
       "name": "Metzgerei Schott",
-      "opening_hours": "Tu 13:30-18:00; Fr 09:00-18:00; Sa 07:30-12:30; PH off",
+      "opening_hours": "Tu 11:30-18:00; Fr 08:00-18:00; Sa 07:30-12:30; PH off",
       "shop": "butcher",
       "website": "https://direktvermarktung-schott.de/unsere-metzgerei/",
       "wheelchair": "yes"
