@@ -17354,7 +17354,8 @@
     "lat": 49.0023419,
     "lon": 12.822246,
     "tags": {
-      "name": "Fleischerei Edenhofer",
+      "name": "Metzgerei Rainer",
+      "opening_hours": "Mo 07:00-12:00; Tu-Fr 07:00-18:00; Sa 06:30-12:00; PH closed",
       "shop": "butcher"
     }
   },
