@@ -4969,16 +4969,15 @@
   {
     "type": "node",
     "id": 496012655,
-    "lat": 48.9589316,
-    "lon": 10.9063643,
+    "lat": 48.9590456,
+    "lon": 10.9063957,
     "tags": {
-      "addr:city": "Treuchtlingen",
-      "addr:country": "DE",
-      "addr:housenumber": "43",
-      "addr:postcode": "91757",
-      "addr:street": "Wettelsheimer Straße",
+      "email": "info@metzgerei-ziegler.de",
       "name": "Ziegler",
-      "shop": "butcher"
+      "opening_hours": "We-Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00; PH off",
+      "phone": "+49 9142 5682",
+      "shop": "butcher",
+      "website": "https://metzgerei-ziegler.de/"
     }
   },
   {
@@ -18870,9 +18869,12 @@
     "lat": 49.199967,
     "lon": 10.6459747,
     "tags": {
+      "diet:halal": "no",
       "name": "Metzgerei",
+      "opening_hours": "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-13:00; Sa 07:00-12:30",
       "operator": "Gsell",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -18882,6 +18884,7 @@
     "lon": 10.6484588,
     "tags": {
       "name": "Metzgerei",
+      "opening_hours": "Mo 07:00-14:00; Tu 07:00-13:00; We-Fr 07:00-18:00; Sa 08:00-13:00",
       "operator": "Eder",
       "shop": "butcher"
     }
@@ -24796,7 +24799,7 @@
       "addr:housenumber": "M 1",
       "addr:postcode": "85368",
       "addr:street": "Degernpoint",
-      "check_date": "2023-03-25",
+      "check_date": "2023-06-06",
       "name": "Wasner",
       "shop": "butcher",
       "toilets:wheelchair": "no",
