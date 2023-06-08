@@ -26572,7 +26572,8 @@
     "lon": 10.5115536,
     "tags": {
       "name": "KachlerHofer",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
