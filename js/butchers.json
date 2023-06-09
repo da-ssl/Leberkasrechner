@@ -12815,7 +12815,7 @@
     "lat": 48.1002924,
     "lon": 11.6301893,
     "tags": {
-      "check_date:opening_hours": "2022-10-28",
+      "check_date:opening_hours": "2023-06-08",
       "name": "Metzgerei Sedlmeir",
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:30",
       "shop": "butcher",
@@ -30189,6 +30189,19 @@
   },
   {
     "type": "node",
+    "id": 6470559996,
+    "lat": 48.1349803,
+    "lon": 11.5693401,
+    "tags": {
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "name": "Vinzenzmurr",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 6482835788,
     "lat": 47.8382576,
     "lon": 11.1467713,
@@ -35824,6 +35837,21 @@
       "opening_hours": "Mo 07:30-13:00, Tu-Fr 07:30-18:00, Sa 07:30-13:00",
       "shop": "butcher",
       "short_name": "Büttner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10964159224,
+    "lat": 47.9693416,
+    "lon": 11.3026639,
+    "tags": {
+      "addr:housenumber": "26",
+      "addr:street": "Hauptstraße",
+      "name": "Lutz",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "phone": "+49 8157 1090",
+      "shop": "butcher",
+      "website": "https://www.metzgerei-lutz.com/"
     }
   },
   {
@@ -43746,6 +43774,7 @@
     ],
     "tags": {
       "check_date": "2016-21-07",
+      "check_date:opening_hours": "2023-06-08",
       "contact:phone": "+49 911 243077",
       "indoor": "room",
       "level": "-1",
