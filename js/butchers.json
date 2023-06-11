@@ -4461,9 +4461,13 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-10",
       "check_date:opening_hours": "2023-01-07",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00",
+      "payment:cash": "yes",
+      "payment:girocard": "yes",
+      "payment:sodexo": "yes",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -6756,6 +6760,7 @@
       "addr:postcode": "86391",
       "addr:street": "Brunnenplatz",
       "addr:suburb": "Leitershofen",
+      "check_date:opening_hours": "2023-06-10",
       "contact:facebook": "https://www.facebook.com/MetzgereiSchmid",
       "email": "mail@schmid-partyservice.de",
       "name": "Metzgerei Schmid",
@@ -23556,6 +23561,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher"
     }
   },
