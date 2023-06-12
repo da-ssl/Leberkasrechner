@@ -3115,7 +3115,7 @@
     "tags": {
       "addr:housenumber": "336",
       "addr:street": "Altstadt",
-      "check_date": "2023-05-20",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Brandl",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3132,7 +3132,7 @@
       "addr:housenumber": "71",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2023-05-20",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Stegfellner",
       "phone": "+49 871 28015",
       "shop": "butcher",
@@ -3148,7 +3148,7 @@
     "tags": {
       "addr:housenumber": "67",
       "addr:street": "Altstadt",
-      "check_date": "2023-05-20",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Stadler",
       "shop": "butcher",
       "wheelchair": "no"
@@ -12016,7 +12016,7 @@
       "addr:housenumber": "262",
       "addr:postcode": "84028",
       "addr:street": "Altstadt",
-      "check_date": "2023-05-20",
+      "check_date": "2023-06-11",
       "name": "Metzgerei Georg Hofmair",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:30",
       "phone": "+49871 22870",
@@ -14710,6 +14710,7 @@
       "addr:housenumber": "18",
       "addr:postcode": "91541",
       "addr:street": "Obere Schmiedgasse",
+      "diet:halal": "no",
       "name": "Metzgerei Trumpp",
       "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-13:00",
       "shop": "butcher",
@@ -15081,7 +15082,9 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-11",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -15093,16 +15096,6 @@
     "lon": 11.2650393,
     "tags": {
       "name": "Metzgerei Höring",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1801481144,
-    "lat": 50.0098202,
-    "lon": 10.5942049,
-    "tags": {
-      "name": "Metzgerei Hertlein",
       "shop": "butcher"
     }
   },
@@ -26861,6 +26854,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-10",
       "diet:halal": "no",
       "diet:kosher": "no",
       "level": "0",
@@ -27297,16 +27291,6 @@
     "lon": 11.049014,
     "tags": {
       "name": "Metzgerei Anton Voll",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 5175975699,
-    "lat": 47.8568193,
-    "lon": 12.1487703,
-    "tags": {
-      "name": "Bufler",
       "shop": "butcher"
     }
   },
