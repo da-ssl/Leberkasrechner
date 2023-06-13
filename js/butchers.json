@@ -10893,20 +10893,6 @@
   },
   {
     "type": "node",
-    "id": 1307087861,
-    "lat": 47.6796564,
-    "lon": 11.574317,
-    "tags": {
-      "addr:housenumber": "3",
-      "addr:postcode": "83661",
-      "addr:street": "Bahnhofplatz",
-      "name": "Metzgerei Holzner",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1307241761,
     "lat": 50.2913673,
     "lon": 11.453146,
@@ -14368,8 +14354,8 @@
   {
     "type": "node",
     "id": 1717077923,
-    "lat": 50.3013897,
-    "lon": 10.0189534,
+    "lat": 50.3013546,
+    "lon": 10.0189829,
     "tags": {
       "addr:city": "Burkardroth",
       "addr:housenumber": "33",
@@ -18881,10 +18867,12 @@
     "lat": 49.2009898,
     "lon": 10.6484588,
     "tags": {
+      "diet:halal": "no",
       "name": "Metzgerei",
       "opening_hours": "Mo 07:00-14:00; Tu 07:00-13:00; We-Fr 07:00-18:00; Sa 08:00-13:00",
       "operator": "Eder",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
