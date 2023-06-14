@@ -35833,6 +35833,19 @@
     }
   },
   {
+    "type": "node",
+    "id": 10973944482,
+    "lat": 50.255962,
+    "lon": 10.0604786,
+    "tags": {
+      "name": "Metzgerei Körblein",
+      "opening_hours": "Mo-Tu 07:30-12:30; Th-Fr 07:30-12:30, 14:30-18:00; Sa 07:00-12:00; PH off",
+      "phone": "+49 9708 264",
+      "shop": "butcher",
+      "wheelchair": "no"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
