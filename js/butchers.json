@@ -709,12 +709,18 @@
   {
     "type": "node",
     "id": 277323888,
-    "lat": 48.0730531,
-    "lon": 10.8146141,
+    "lat": 48.0730979,
+    "lon": 10.8146094,
     "tags": {
+      "addr:city": "Igling",
+      "addr:housenumber": "2",
+      "addr:postcode": "86859",
+      "addr:street": "Unteriglinger Straße",
       "name": "Metzgerei Gayer Partyservice",
+      "phone": "+49 8248 559",
       "shop": "butcher",
       "source": "survey",
+      "website": "http://www.metzgerei-gayer.de",
       "wheelchair": "no"
     }
   },
@@ -1472,6 +1478,7 @@
     "lat": 48.1529603,
     "lon": 11.5086212,
     "tags": {
+      "check_date": "2023-06-14",
       "drink:coffee": "yes",
       "drink:coffee:automatic": "yes",
       "name": "Burzlaff",
@@ -7694,19 +7701,6 @@
   },
   {
     "type": "node",
-    "id": 789377746,
-    "lat": 49.8903825,
-    "lon": 10.9054312,
-    "tags": {
-      "check_date:opening_hours": "2021-09-14",
-      "name": "Goller",
-      "opening_hours": "Mo-Fr 09:30-16:00; Sa 08:00-12:00",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 790030190,
     "lat": 48.1612565,
     "lon": 11.5237354,
@@ -8367,10 +8361,13 @@
     "tags": {
       "addr:city": "Segnitz",
       "addr:housenumber": "22",
+      "addr:postcode": "97340",
       "addr:street": "Hans-Kesenbrod-Straße",
       "name": "Gernets Hofladen",
-      "phone": "+4993329996",
-      "shop": "butcher"
+      "opening_hours:url": "https://www.gernets-hofladen.de/%C3%B6ffnungszeiten/",
+      "phone": "+49 9332 9996",
+      "shop": "butcher",
+      "website": "https://www.gernets-hofladen.de/"
     }
   },
   {
@@ -12325,7 +12322,9 @@
       "addr:housenumber": "3",
       "addr:postcode": "90518",
       "addr:street": "Oberer Markt",
+      "check_date:opening_hours": "2023-06-14",
       "name": "Nießlbeck",
+      "opening_hours:signed": "no",
       "shop": "butcher",
       "wheelchair": "no",
       "wheelchair:description:de": "Stufen vor dem Eingang"
@@ -13811,12 +13810,13 @@
   {
     "type": "node",
     "id": 1648255754,
-    "lat": 48.1861551,
-    "lon": 11.3871153,
+    "lat": 48.1861298,
+    "lon": 11.3870789,
     "tags": {
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 09:00-20:00",
       "shop": "butcher",
@@ -14842,6 +14842,7 @@
     "lon": 11.3556036,
     "tags": {
       "name": "Hoffmann",
+      "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-15:00; Sa 07:00-12:30",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -35843,6 +35844,16 @@
       "phone": "+49 9708 264",
       "shop": "butcher",
       "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10977714145,
+    "lat": 47.6055993,
+    "lon": 10.4159363,
+    "tags": {
+      "name": "Kraus",
+      "shop": "butcher"
     }
   },
   {
