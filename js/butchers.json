@@ -10654,6 +10654,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-06-15",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 07:30-13:30",
       "shop": "butcher",
@@ -28635,8 +28636,8 @@
   {
     "type": "node",
     "id": 5918785089,
-    "lat": 47.9710226,
-    "lon": 11.6535136,
+    "lat": 47.9709928,
+    "lon": 11.6534965,
     "tags": {
       "addr:city": "Sauerlach",
       "addr:housenumber": "6",
@@ -39271,6 +39272,7 @@
       "addr:street": "Schmiedsgasse",
       "building": "yes",
       "name": "Hauck",
+      "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:30-12:30",
       "shop": "butcher",
       "website": "http://www.metzger-meines-vertrauens.de/",
       "wheelchair": "yes"
