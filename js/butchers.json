@@ -11162,9 +11162,10 @@
       "addr:country": "DE",
       "addr:housenumber": "2",
       "addr:street": "Max-Weber-Platz",
+      "check_date": "2023-06-18",
       "check_date:opening_hours": "2022-09-02",
       "name": "Herrmannsdorfer Landwerkstätten",
-      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:30",
       "organic": "only",
       "phone": "+49 89 4899 7305",
       "shop": "butcher",
@@ -11186,8 +11187,14 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date": "2023-06-18",
       "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00",
       "operator": "Vinzenz Murr",
+      "payment:cash": "yes",
+      "payment:girocard": "yes",
+      "payment:sodexo": "yes",
+      "payment:visa": "yes",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -30777,9 +30784,9 @@
       "addr:city": "Ebelsbach",
       "addr:country": "DE",
       "addr:housenumber": "2",
-      "addr:place": "Rudendorf",
       "addr:postcode": "97500",
       "addr:street": "Priegendorfer Straße",
+      "addr:suburb": "Rudendorf",
       "description": "Fleisch und Wurst aus hofeigener Schlachtung",
       "fax": "+49 9522 7781",
       "name": "Landwirt und Metzger Hubert Strauß",
@@ -38876,7 +38883,8 @@
       "roof:material": "roof_tiles",
       "shop": "butcher",
       "source": "http://www.metzgerei-brunner.org/filialen.html",
-      "website": "http://www.metzgerei-brunner.org/"
+      "website": "http://www.metzgerei-brunner.org/",
+      "wikidata": "Q41412115"
     }
   },
   {
