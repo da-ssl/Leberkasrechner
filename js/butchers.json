@@ -13074,6 +13074,7 @@
     "lat": 49.4411949,
     "lon": 11.0904742,
     "tags": {
+      "check_date": "2023-06-19",
       "name": "Metzgerei Meier",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -35861,6 +35862,16 @@
     "lon": 10.4159363,
     "tags": {
       "name": "Kraus",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10988994478,
+    "lat": 47.6776006,
+    "lon": 11.2007683,
+    "tags": {
+      "name": "Metzgerei Ludwig Haller",
       "shop": "butcher"
     }
   },
