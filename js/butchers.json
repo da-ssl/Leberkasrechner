@@ -4004,6 +4004,7 @@
       "addr:country": "DE",
       "addr:postcode": "85405",
       "addr:street": "Marktstraße",
+      "check_date": "2023-06-23",
       "name": "Oberloher",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -7095,17 +7096,6 @@
       "shop": "butcher",
       "website": "http://www.metzgerei-krammer.de/",
       "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "node",
-    "id": 693309438,
-    "lat": 50.0815328,
-    "lon": 10.5701751,
-    "tags": {
-      "check_date": "2023-05-13",
-      "name": "Stadler",
-      "shop": "butcher"
     }
   },
   {
@@ -30815,8 +30805,8 @@
   {
     "type": "node",
     "id": 7009723975,
-    "lat": 48.1255299,
-    "lon": 11.6105907,
+    "lat": 48.1255967,
+    "lon": 11.6107664,
     "tags": {
       "access:covid19": "yes",
       "addr:city": "München",
