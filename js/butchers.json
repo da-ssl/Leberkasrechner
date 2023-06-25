@@ -3762,6 +3762,7 @@
       "addr:housenumber": "6",
       "addr:street": "Friedrichstraße",
       "name": "Metzgerei Karl Holch",
+      "opening_hours": "Mo-Fr 08:00-14:00; Sa 06:00-12:30",
       "shop": "butcher",
       "website": "http://www.metzgerei-holch.de/",
       "wheelchair": "no"
@@ -12710,6 +12711,7 @@
       "name": "Wörlein",
       "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00",
       "shop": "butcher",
+      "toilets:wheelchair": "no",
       "wheelchair": "yes"
     }
   },
