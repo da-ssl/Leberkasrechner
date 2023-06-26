@@ -7192,7 +7192,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "80331",
       "addr:street": "Viktualienmarkt",
-      "check_date:opening_hours": "2022-05-19",
+      "check_date:opening_hours": "2023-06-25",
       "name": "Schäbitz",
       "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00",
       "ref": "Abteilung VII; Ladennummer 6",
@@ -7874,6 +7874,7 @@
       "addr:postcode": "86199",
       "addr:street": "Klausenberg",
       "name": "Reiter",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -8662,7 +8663,7 @@
       "addr:postcode": "86199",
       "addr:street": "Bürgermeister-Aurnhammer-Straße",
       "name": "Metzgerei Hübl",
-      "opening_hours": "Tu-Th 08:00-13:30,14:30-18:00; Fr 08:00-18:00; Sa 07:00-12:00; PH off",
+      "opening_hours": "Tu-Fr 08:00-18:00; Sa 07:30-12:30",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -10662,10 +10663,13 @@
       "addr:housenumber": "196",
       "addr:postcode": "81827",
       "addr:street": "Wasserburger Landstraße",
+      "internet_access": "no",
       "name": "Angelika Fischer",
       "opening_hours": "Mo-Fr 07:30-18:00, Sa 07:00-13:00",
+      "payment:cards": "yes",
       "payment:cash": "yes",
       "payment:girocard": ">= 15 €",
+      "payment:qr_code": "no",
       "phone": "+49 89 51112992",
       "shop": "butcher",
       "website": "http://www.metzgerei-angelikafischer.de/",
@@ -28731,6 +28735,7 @@
     "lat": 47.7610964,
     "lon": 11.5600911,
     "tags": {
+      "check_date:opening_hours": "2023-06-25",
       "name": "Vinzenz Murr Metzerei",
       "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:00-13:00",
       "shop": "butcher",
