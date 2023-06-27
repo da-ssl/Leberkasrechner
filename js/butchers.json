@@ -14937,7 +14937,7 @@
       "addr:street": "Hauptstraße",
       "addr:suburb": "Gündlkofen",
       "name": "Metzgerei Wernthaler",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
+      "opening_hours": "Tu-Fr 07:00-18:00; Sa 07:00-12:00; Mo 07:00-13:30",
       "phone": "+49 8765 479",
       "shop": "butcher"
     }
@@ -28735,9 +28735,17 @@
     "lat": 47.7610964,
     "lon": 11.5600911,
     "tags": {
+      "addr:city": "Bad Tölz",
+      "addr:housenumber": "43",
+      "addr:postcode": "83646",
+      "addr:street": "Marktstraße",
+      "branch": "Metzerei",
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
       "check_date:opening_hours": "2023-06-25",
-      "name": "Vinzenz Murr Metzerei",
-      "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:00-13:00",
+      "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
+      "phone": "080419611",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -34859,11 +34867,10 @@
       "addr:housenumber": "1",
       "addr:postcode": "86633",
       "addr:street": "Pettenkoferring",
-      "name": "Metzgerei Johann Schmid",
-      "name:en": "Butcher‘s Shop Johann Schmid",
-      "phone": "+4984312500",
+      "name": "Metzgerei Walk",
+      "name:en": "Butcher‘s Shop Walk",
       "shop": "butcher",
-      "website": "https://www.metzger-schmid.de/"
+      "website": "https://www.metzgerei-walk.de/"
     }
   },
   {
@@ -38184,6 +38191,31 @@
   },
   {
     "type": "way",
+    "id": 128835743,
+    "nodes": [
+      1422661442,
+      1422661409,
+      1422661393,
+      1422661414,
+      1422661420,
+      1422661442
+    ],
+    "tags": {
+      "addr:city": "Strullendorf",
+      "addr:country": "DE",
+      "addr:housenumber": "21",
+      "addr:postcode": "96129",
+      "addr:street": "Magdalenenstraße",
+      "addr:suburb": "Geisfeld",
+      "building": "yes",
+      "name": "Metzgerei Kalb",
+      "opening_hours": "Mo-Fr 07:00-18:00",
+      "phone": "09505 336",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
     "id": 128851616,
     "nodes": [
       1422776118,
@@ -40794,28 +40826,6 @@
     "tags": {
       "building": "yes",
       "name": "Metzgerei Seidenspinner",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 231503587,
-    "nodes": [
-      2398727872,
-      2398727873,
-      2398727903,
-      2398727901,
-      2398727845,
-      2398727850,
-      2398727765,
-      2398727762,
-      2398727872
-    ],
-    "tags": {
-      "addr:postcode": "86633",
-      "amenity": "fast_food",
-      "building": "apartments",
-      "name": "Walk",
       "shop": "butcher"
     }
   },
@@ -52075,54 +52085,6 @@
   },
   {
     "type": "node",
-    "id": 2398727762,
-    "lat": 48.7242748,
-    "lon": 11.1788206
-  },
-  {
-    "type": "node",
-    "id": 2398727765,
-    "lat": 48.7242756,
-    "lon": 11.1789892
-  },
-  {
-    "type": "node",
-    "id": 2398727845,
-    "lat": 48.7243949,
-    "lon": 11.1790759
-  },
-  {
-    "type": "node",
-    "id": 2398727850,
-    "lat": 48.7243954,
-    "lon": 11.1789879
-  },
-  {
-    "type": "node",
-    "id": 2398727872,
-    "lat": 48.7244327,
-    "lon": 11.178819
-  },
-  {
-    "type": "node",
-    "id": 2398727873,
-    "lat": 48.7244329,
-    "lon": 11.178864
-  },
-  {
-    "type": "node",
-    "id": 2398727901,
-    "lat": 48.7244728,
-    "lon": 11.1790769
-  },
-  {
-    "type": "node",
-    "id": 2398727903,
-    "lat": 48.7244739,
-    "lon": 11.1788645
-  },
-  {
-    "type": "node",
     "id": 2648531288,
     "lat": 48.6788876,
     "lon": 11.2753305
@@ -55198,6 +55160,36 @@
     "id": 5373433788,
     "lat": 49.6755293,
     "lon": 11.1723757
+  },
+  {
+    "type": "node",
+    "id": 1422661393,
+    "lat": 49.8807022,
+    "lon": 11.014032
+  },
+  {
+    "type": "node",
+    "id": 1422661409,
+    "lat": 49.880774,
+    "lon": 11.0139321
+  },
+  {
+    "type": "node",
+    "id": 1422661414,
+    "lat": 49.8808034,
+    "lon": 11.0142072
+  },
+  {
+    "type": "node",
+    "id": 1422661420,
+    "lat": 49.8808241,
+    "lon": 11.0141784
+  },
+  {
+    "type": "node",
+    "id": 1422661442,
+    "lat": 49.8808752,
+    "lon": 11.0141074
   },
   {
     "type": "node",
