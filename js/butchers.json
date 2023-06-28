@@ -3045,6 +3045,7 @@
     "tags": {
       "addr:housenumber": "22",
       "addr:street": "Krenmoosstraße",
+      "check_date:opening_hours": "2023-06-27",
       "name": "Eberle",
       "opening_hours": "Mo 07:00-12:30; Tu-Fr 07:00-18:00; Sa 07:00-12:30",
       "shop": "butcher"
@@ -26173,7 +26174,8 @@
       "operator": "Metzgerei Maischberger GmbH; Christian Maischberger",
       "phone": "+49 8241 4523",
       "shop": "butcher",
-      "website": "https://www.metzgerei-maischberger.de/"
+      "website": "https://www.metzgerei-maischberger.de/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -35876,6 +35878,26 @@
     "lon": 11.2007683,
     "tags": {
       "name": "Metzgerei Ludwig Haller",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11010248533,
+    "lat": 48.0725655,
+    "lon": 11.887462,
+    "tags": {
+      "addr:city": "Kirchseeon",
+      "addr:country": "DE",
+      "addr:housenumber": "11",
+      "addr:postcode": "85614",
+      "addr:street": "Münchner Straße",
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "level": "0",
+      "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Sa 07:00-20:00; PH off",
+      "phone": "+49 8091 5376857",
       "shop": "butcher"
     }
   },
