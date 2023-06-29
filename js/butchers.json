@@ -10414,6 +10414,7 @@
       "addr:city": "Markt Erlbach",
       "addr:postcode": "91459",
       "addr:street": "Hauptstraße",
+      "addr:suburb": "Linden",
       "name": "Mezgerei Zeller",
       "shop": "butcher"
     }
@@ -14629,13 +14630,16 @@
       "addr:housenumber": "47",
       "addr:postcode": "83093",
       "addr:street": "Bahnhofstraße",
+      "check_date": "2023-06-28",
+      "check_date:opening_hours": "2023-06-28",
       "contact:email": "info@landmetzgerei-gassner.de",
       "contact:phone": "+49 8053 208454",
       "contact:website": "https://www.landmetzgereigassner.de/",
       "name": "Landmetzgerei Gassner",
       "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su,PH off",
       "operator": "Georg Gassner",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -21548,6 +21552,7 @@
     "lat": 49.9787852,
     "lon": 9.1459519,
     "tags": {
+      "check_date": "2023-06-28",
       "name": "Sandt",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -30865,8 +30870,8 @@
     "tags": {
       "addr:city": "Gräfenberg",
       "addr:housenumber": "100",
+      "addr:place": "Thuisbrunn",
       "addr:postcode": "91322",
-      "addr:street": "Thuisbrunn",
       "description": "Metzgerei & Getränkemarkt Meier",
       "name": "Thuisbrunner Bauernladen",
       "opening_hours": "Th 11:30-18:30; Fr 07:30-18:30; Sa 06:30-16:00",
@@ -35902,6 +35907,35 @@
     }
   },
   {
+    "type": "node",
+    "id": 11011607251,
+    "lat": 49.8807589,
+    "lon": 11.0140284,
+    "tags": {
+      "addr:city": "Strullendorf",
+      "addr:country": "DE",
+      "addr:housenumber": "21",
+      "addr:postcode": "96129",
+      "addr:street": "Magdalenenstraße",
+      "addr:suburb": "Geisfeld",
+      "contact:phone": "+49 9505 336",
+      "name": "Metzgerei Kalb",
+      "opening_hours": "Mo-Fr 07:00-18:00",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11012876972,
+    "lat": 49.6409818,
+    "lon": 11.0045425,
+    "tags": {
+      "name": "Der Dorfmetzger",
+      "shop": "butcher",
+      "website": "https://www.derdorfmetzger.de"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -38213,31 +38247,6 @@
   },
   {
     "type": "way",
-    "id": 128835743,
-    "nodes": [
-      1422661442,
-      1422661409,
-      1422661393,
-      1422661414,
-      1422661420,
-      1422661442
-    ],
-    "tags": {
-      "addr:city": "Strullendorf",
-      "addr:country": "DE",
-      "addr:housenumber": "21",
-      "addr:postcode": "96129",
-      "addr:street": "Magdalenenstraße",
-      "addr:suburb": "Geisfeld",
-      "building": "yes",
-      "name": "Metzgerei Kalb",
-      "opening_hours": "Mo-Fr 07:00-18:00",
-      "phone": "09505 336",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 128851616,
     "nodes": [
       1422776118,
@@ -38506,7 +38515,9 @@
     "nodes": [
       1482722845,
       1482722846,
+      11012455411,
       1482722843,
+      5468751117,
       1482722844,
       1482722834,
       1482722832,
@@ -40427,9 +40438,9 @@
       2175544276
     ],
     "tags": {
+      "addr:city": "Hetzles",
       "addr:country": "DE",
       "addr:housenumber": "1",
-      "addr:place": "Hetzles",
       "addr:postcode": "91077",
       "addr:street": "Steingasse",
       "building": "yes",
@@ -51280,50 +51291,62 @@
   {
     "type": "node",
     "id": 1482722832,
-    "lat": 48.4865704,
-    "lon": 10.9309967
+    "lat": 48.4865946,
+    "lon": 10.9309567
   },
   {
     "type": "node",
     "id": 1482722834,
-    "lat": 48.4866266,
-    "lon": 10.9312334
+    "lat": 48.4866228,
+    "lon": 10.931196
   },
   {
     "type": "node",
     "id": 1482722836,
-    "lat": 48.4866706,
-    "lon": 10.93092
+    "lat": 48.4866966,
+    "lon": 10.9308628
   },
   {
     "type": "node",
     "id": 1482722842,
-    "lat": 48.4866753,
-    "lon": 10.93094
-  },
-  {
-    "type": "node",
-    "id": 1482722843,
-    "lat": 48.4867031,
-    "lon": 10.9310099
+    "lat": 48.4867042,
+    "lon": 10.9309274
   },
   {
     "type": "node",
     "id": 1482722844,
-    "lat": 48.4867414,
-    "lon": 10.9311714
+    "lat": 48.486776,
+    "lon": 10.931155
+  },
+  {
+    "type": "node",
+    "id": 5468751117,
+    "lat": 48.4867738,
+    "lon": 10.9311364
+  },
+  {
+    "type": "node",
+    "id": 1482722843,
+    "lat": 48.4868525,
+    "lon": 10.9311152
   },
   {
     "type": "node",
     "id": 1482722845,
-    "lat": 48.4868112,
-    "lon": 10.9308441
+    "lat": 48.4868456,
+    "lon": 10.9308229
   },
   {
     "type": "node",
     "id": 1482722846,
-    "lat": 48.4868338,
-    "lon": 10.9309393
+    "lat": 48.4868628,
+    "lon": 10.9309693
+  },
+  {
+    "type": "node",
+    "id": 11012455411,
+    "lat": 48.4868362,
+    "lon": 10.9309764
   },
   {
     "type": "node",
@@ -55182,36 +55205,6 @@
     "id": 5373433788,
     "lat": 49.6755293,
     "lon": 11.1723757
-  },
-  {
-    "type": "node",
-    "id": 1422661393,
-    "lat": 49.8807022,
-    "lon": 11.014032
-  },
-  {
-    "type": "node",
-    "id": 1422661409,
-    "lat": 49.880774,
-    "lon": 11.0139321
-  },
-  {
-    "type": "node",
-    "id": 1422661414,
-    "lat": 49.8808034,
-    "lon": 11.0142072
-  },
-  {
-    "type": "node",
-    "id": 1422661420,
-    "lat": 49.8808241,
-    "lon": 11.0141784
-  },
-  {
-    "type": "node",
-    "id": 1422661442,
-    "lat": 49.8808752,
-    "lon": 11.0141074
   },
   {
     "type": "node",
