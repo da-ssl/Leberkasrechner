@@ -885,6 +885,7 @@
     "lon": 11.8618582,
     "tags": {
       "name": "Heimann",
+      "old_name": "Metzgerei Gröbmeyer",
       "opening_hours": "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-14:00; Sa 07:00-12:00",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -4338,6 +4339,7 @@
       "addr:housenumber": "7",
       "addr:postcode": "80331",
       "addr:street": "Rosenstraße",
+      "amenity": "fast_food",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
@@ -4347,6 +4349,7 @@
       "opening_hours": "Mo-Sa 09:00-19:00",
       "shop": "butcher",
       "smoking": "no",
+      "toilets": "yes",
       "toilets:wheelchair": "no",
       "wheelchair": "yes"
     }
@@ -10120,23 +10123,6 @@
   },
   {
     "type": "node",
-    "id": 1185743443,
-    "lat": 48.3551408,
-    "lon": 10.9437793,
-    "tags": {
-      "addr:city": "Augsburg",
-      "addr:country": "DE",
-      "addr:housenumber": "125",
-      "addr:postcode": "86163",
-      "addr:street": "Friedberger Straße",
-      "name": "Peters Einfach Genießen",
-      "phone": "+49 821 2594584",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1186356548,
     "lat": 48.6489938,
     "lon": 12.3254962,
@@ -14922,6 +14908,8 @@
     "lat": 48.5223151,
     "lon": 11.9931257,
     "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Bahnhofstraße",
       "check_date": "2023-03-01",
       "name": "Metzgerei Rampf",
       "opening_hours": "Mo,Tu,Th,Fr 07:00-12:30,14:00-18:00; We 07:00-12:30; Sa 07:00-12:00",
@@ -35933,6 +35921,22 @@
       "name": "Der Dorfmetzger",
       "shop": "butcher",
       "website": "https://www.derdorfmetzger.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11016878641,
+    "lat": 48.6596946,
+    "lon": 12.0927313,
+    "tags": {
+      "addr:city": "Hohenthann",
+      "addr:country": "DE",
+      "addr:housenumber": "34",
+      "addr:postcode": "84098",
+      "addr:street": "Rottenburger Straße",
+      "name": "Metzgerei Vilser",
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
