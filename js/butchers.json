@@ -3321,7 +3321,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date:opening_hours": "2022-03-10",
+      "check_date:opening_hours": "2023-07-01",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:30-16:00",
       "operator": "Vinzenz Murr",
@@ -35937,6 +35937,27 @@
       "name": "Metzgerei Vilser",
       "shop": "butcher",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11018567401,
+    "lat": 48.4016561,
+    "lon": 11.7491356,
+    "tags": {
+      "addr:city": "Freising",
+      "addr:housenumber": "4a",
+      "addr:postcode": "85354",
+      "addr:street": "General-von-Nagel-Straße",
+      "check_date": "2023-07-01",
+      "email": "info@beefroom61.de",
+      "name": "Kathi's Beefshop",
+      "opening_hours": "Fr 11:00-18:00; Sa 09:00-14:00",
+      "operator": "Marlon Meister",
+      "phone": "+49-8161-9847877",
+      "ref:vatin": "DE265119331",
+      "shop": "butcher",
+      "website": "https://kathis-beefshop.de"
     }
   },
   {
