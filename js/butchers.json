@@ -125,6 +125,7 @@
     "tags": {
       "name": "Ulrich",
       "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:30; PH off",
+      "phone": "+49 9378 332",
       "shop": "butcher"
     }
   },
@@ -9279,8 +9280,8 @@
   {
     "type": "node",
     "id": 1039515889,
-    "lat": 48.0217297,
-    "lon": 11.7286447,
+    "lat": 48.0217288,
+    "lon": 11.7286353,
     "tags": {
       "addr:city": "Höhenkirchen-Siegertsbrunn",
       "addr:housenumber": "8",
