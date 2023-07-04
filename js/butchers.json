@@ -3633,21 +3633,6 @@
   },
   {
     "type": "node",
-    "id": 410515761,
-    "lat": 48.4907421,
-    "lon": 10.8568199,
-    "tags": {
-      "addr:housenumber": "1",
-      "addr:street": "Deuringerstraße",
-      "name": "Landmetzgerei Michl",
-      "note:de": "Wurst und Käse",
-      "opening_hours": "Mo,We,Th,Fr 07:00-18:00; Tu,Sa 07:00-13:00",
-      "operator": "Bernd Michl",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 410858970,
     "lat": 49.3716324,
     "lon": 11.0788355,
@@ -10467,6 +10452,7 @@
       "addr:housenumber": "4",
       "addr:street": "Soldnerstraße",
       "catering": "yes",
+      "check_date:opening_hours": "2023-07-03",
       "name": "Popp",
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-18:00; Sa 07:00-12:30",
       "phone": "+49 911 732455",
@@ -14437,17 +14423,6 @@
   },
   {
     "type": "node",
-    "id": 1723180861,
-    "lat": 49.4570638,
-    "lon": 10.6435725,
-    "tags": {
-      "name": "Metzgerei Zeller",
-      "operator": "Fam. Zeller",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1723224983,
     "lat": 49.010892,
     "lon": 12.0998237,
@@ -17282,23 +17257,6 @@
     "lon": 12.2982824,
     "tags": {
       "name": "Metzgerei Stecher",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 2161724824,
-    "lat": 48.6549008,
-    "lon": 10.9572036,
-    "tags": {
-      "addr:city": "Rain",
-      "addr:country": "DE",
-      "addr:housenumber": "7",
-      "addr:postcode": "86641",
-      "addr:street": "Wallerdorfer Straße",
-      "addr:suburb": "Bayerdilling",
-      "name": "Metzgerei Girstmair",
-      "opening_hours": "Mo,We 07:00-12:30; Tu,Th 07:00-12:30,14:00-18:00; Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher"
     }
   },
@@ -31361,8 +31319,13 @@
     "lat": 48.1485797,
     "lon": 11.5344269,
     "tags": {
+      "check_date:opening_hours": "2023-07-03",
       "name": "Landmetzgerei",
-      "shop": "butcher"
+      "opening_hours:signed": "no",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -35959,6 +35922,17 @@
       "ref:vatin": "DE265119331",
       "shop": "butcher",
       "website": "https://kathis-beefshop.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11023550990,
+    "lat": 49.4570378,
+    "lon": 10.6445237,
+    "tags": {
+      "name": "Metzgerei Zeller",
+      "operator": "Fam. Zeller",
+      "shop": "butcher"
     }
   },
   {
