@@ -2032,7 +2032,7 @@
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Priller",
-      "opening_hours": "Sa 07:00-12:00; Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:00",
+      "opening_hours": "Tu-Fr 07:00-13:00,14:00-18:00; Sa 07:00-12:00; Mo off",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -20589,9 +20589,10 @@
       "addr:housenumber": "44",
       "addr:postcode": "91126",
       "addr:street": "Rother Straße",
-      "name": "Metzgerei Fischer",
-      "phone": "+499122 6939868",
+      "name": "Metzgerei Krug",
+      "phone": "+49 9122 8872740",
       "shop": "butcher",
+      "website": "https://metzgerei-ansbach-gunzenhausen.de/metzgerei-rednitzhembach/",
       "wheelchair": "yes"
     }
   },
@@ -26969,15 +26970,6 @@
   },
   {
     "type": "node",
-    "id": 5043713041,
-    "lat": 49.0506218,
-    "lon": 13.2644015,
-    "tags": {
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 5054466236,
     "lat": 49.4680282,
     "lon": 11.0275584,
@@ -31378,7 +31370,11 @@
     "lon": 11.6093298,
     "tags": {
       "name": "Schlagbauer",
-      "shop": "butcher"
+      "opening_hours": "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:00-12:30",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
