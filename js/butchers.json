@@ -5602,8 +5602,11 @@
     "lat": 48.3076554,
     "lon": 12.3331313,
     "tags": {
+      "addr:city": "Buchbach",
       "addr:housenumber": "1",
+      "addr:postcode": "84428",
       "addr:street": "Denkmalstraße",
+      "addr:suburb": "Ranoldsberg",
       "amenity": "restaurant",
       "name": "Oberreitmeier",
       "shop": "butcher"
@@ -14912,7 +14915,7 @@
       "addr:housenumber": "5",
       "addr:postcode": "85368",
       "addr:street": "Viehmarktstraße",
-      "check_date": "2023-04-20",
+      "check_date": "2023-07-01",
       "name": "Metzgerei Huber",
       "opening_hours": "Mo-We 7:30-18:00, Th 7:30-14:00, Fr 07:30-18:00, Sa 07:00-12:30",
       "phone": "+49 8761 7603-0",
@@ -14932,7 +14935,7 @@
       "addr:housenumber": "68",
       "addr:postcode": "85368",
       "addr:street": "Münchener Straße",
-      "check_date": "2023-04-20",
+      "check_date": "2023-07-01",
       "name": "Metzgerei Keller - Filiale",
       "opening_hours": "Mo-Sa 08:00-19:00",
       "phone": "+49 8761 767650",
@@ -23134,6 +23137,7 @@
     "lon": 11.4908127,
     "tags": {
       "name": "Metzgerei Wanke",
+      "opening_hours": "Mo-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00",
       "shop": "butcher"
     }
   },
@@ -35918,6 +35922,37 @@
     "tags": {
       "name": "Metzgerei Zeller",
       "operator": "Fam. Zeller",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11032425905,
+    "lat": 49.3911854,
+    "lon": 10.8964537,
+    "tags": {
+      "addr:city": "Roßtal",
+      "addr:housenumber": "6",
+      "addr:postcode": "90574",
+      "addr:street": "Gewerbestraße",
+      "name": "Seefried - Der Naturmetzger",
+      "opening_hours": "Tu-Th 08:00-14:00, Fr 08:00-16:00",
+      "operator": "Metzgerei Seefried GmbH",
+      "phone": "+49 9127 9548875",
+      "shop": "butcher",
+      "website": "fleischlust.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11033173204,
+    "lat": 48.0267879,
+    "lon": 12.5580918,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Wilhelm-Kellermann-Straße",
+      "name": "Magg",
+      "opening_hours": "Mo-Fr 7:30-13:30 und 15:00-18:00; Sa 7:00-12:00",
       "shop": "butcher"
     }
   },
