@@ -4181,6 +4181,8 @@
     "lat": 49.7310217,
     "lon": 10.1954221,
     "tags": {
+      "addr:city": "Kitzingen",
+      "addr:country": "DE",
       "addr:housenumber": "10",
       "addr:postcode": "97318",
       "addr:street": "Max-Planck-Straße",
@@ -7869,6 +7871,8 @@
       "addr:street": "Klausenberg",
       "name": "Reiter",
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "yes",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -8921,7 +8925,7 @@
       "operator": "Matthias Conrad",
       "phone": "+49 9321 37989",
       "shop": "butcher",
-      "website": "http://partyservice-conrad.de"
+      "website": "https://www.partyservice-conrad.de"
     }
   },
   {
@@ -31020,8 +31024,8 @@
     "lat": 49.1792654,
     "lon": 11.3706561,
     "tags": {
+      "addr:city": "Freystadt",
       "addr:housenumber": "1",
-      "addr:place": "Freystadt",
       "addr:postcode": "92342",
       "addr:street": "Oberndorf A",
       "name": "Metzgerei Bachmeier",
@@ -41877,31 +41881,6 @@
   },
   {
     "type": "way",
-    "id": 263491861,
-    "nodes": [
-      1692340572,
-      2691076342,
-      2691076365,
-      2691076369,
-      1692340572
-    ],
-    "tags": {
-      "addr:city": "Adelsdorf",
-      "addr:housenumber": "3",
-      "addr:postcode": "91325",
-      "addr:street": "Hauptstraße",
-      "building": "apartments",
-      "email": "fleischmann-metzgerei@outlook.com",
-      "name": "Metzgerei Fleischmann",
-      "opening_hours": "Th 08:00-13:30,14:30-18:00; Fr 08:00-13:30,14:30-18:00; Sa 08:00-13:00",
-      "operator": "Jürgen Fleischmann",
-      "phone": "+49 9195 924944 0",
-      "shop": "butcher",
-      "website": "https://fleischmann-metzgerei.de/"
-    }
-  },
-  {
-    "type": "way",
     "id": 264402367,
     "nodes": [
       2700841846,
@@ -45745,31 +45724,6 @@
   },
   {
     "type": "way",
-    "id": 1080973617,
-    "nodes": [
-      9907895269,
-      9907895270,
-      9907895271,
-      9907895272,
-      9907895269
-    ],
-    "tags": {
-      "addr:city": "Neusorg",
-      "addr:housenumber": "2",
-      "addr:postcode": "95700",
-      "addr:street": "Am Steinbruch",
-      "building": "yes",
-      "name": "Familienmetzgerei Hausner",
-      "opening_hours": "Mo-Sa 07:00-20:00",
-      "payment:cards": "yes",
-      "payment:cash": "yes",
-      "phone": "+49 9234 8165",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "way",
     "id": 1082211857,
     "nodes": [
       9918101464,
@@ -45833,6 +45787,33 @@
       "name": "Sonja's Bio Fleischlädele",
       "opening_hours": "Fr 14:15-18:00; Sa 08:00-12:00; PH closed",
       "phone": "+49 8320 1258",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1188532393,
+    "nodes": [
+      11036355605,
+      11036355613,
+      11036339904,
+      11036339903,
+      11036355606,
+      11036339902,
+      11036355605
+    ],
+    "tags": {
+      "addr:city": "Neusorg",
+      "addr:housenumber": "2",
+      "addr:postcode": "95700",
+      "addr:street": "Am Steinbruch",
+      "building": "yes",
+      "name": "Familienmetzgerei Hausner",
+      "opening_hours": "Mo-Sa 07:00-20:00",
+      "payment:cards": "yes",
+      "payment:cash": "yes",
+      "phone": "+49 9234 8165",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -54010,30 +53991,6 @@
   },
   {
     "type": "node",
-    "id": 1692340572,
-    "lat": 49.7147267,
-    "lon": 10.8947157
-  },
-  {
-    "type": "node",
-    "id": 2691076342,
-    "lat": 49.7146879,
-    "lon": 10.8946245
-  },
-  {
-    "type": "node",
-    "id": 2691076365,
-    "lat": 49.714782,
-    "lon": 10.8945288
-  },
-  {
-    "type": "node",
-    "id": 2691076369,
-    "lat": 49.7148208,
-    "lon": 10.8946201
-  },
-  {
-    "type": "node",
     "id": 4682085514,
     "lat": 49.7217189,
     "lon": 10.8875673
@@ -58996,27 +58953,39 @@
   },
   {
     "type": "node",
-    "id": 9907895269,
-    "lat": 49.9254182,
-    "lon": 11.970422
+    "id": 11036339902,
+    "lat": 49.9253929,
+    "lon": 11.9706489
   },
   {
     "type": "node",
-    "id": 9907895270,
-    "lat": 49.9254787,
-    "lon": 11.9706176
+    "id": 11036339903,
+    "lat": 49.9254643,
+    "lon": 11.9705861
   },
   {
     "type": "node",
-    "id": 9907895271,
-    "lat": 49.9253765,
-    "lon": 11.9706938
+    "id": 11036339904,
+    "lat": 49.9254188,
+    "lon": 11.9704612
   },
   {
     "type": "node",
-    "id": 9907895272,
-    "lat": 49.925316,
-    "lon": 11.9704983
+    "id": 11036355605,
+    "lat": 49.9253474,
+    "lon": 11.970524
+  },
+  {
+    "type": "node",
+    "id": 11036355606,
+    "lat": 49.9254218,
+    "lon": 11.9706235
+  },
+  {
+    "type": "node",
+    "id": 11036355613,
+    "lat": 49.925371,
+    "lon": 11.9705032
   },
   {
     "type": "node",
