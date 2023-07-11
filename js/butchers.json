@@ -1928,13 +1928,14 @@
       "addr:housenumber": "156",
       "addr:postcode": "90439",
       "addr:street": "Von-der-Tann-Straße",
-      "check_date:opening_hours": "2022-10-27",
-      "name": "Grötsch",
-      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:00-12:30",
-      "payment:credit_cards": "no",
-      "payment:debit_cards": "no",
+      "check_date:opening_hours": "2023-07-10",
+      "description": "Metzgerei Feinkost Catering",
+      "name": "RÖMER BEEF",
+      "old_name": "Grötsch",
+      "opening_hours": "Tu 07:00-16:00; We-Fr 07:00-18:00; Sa 07:00-12:30",
+      "phone": "+49 911 88991760",
       "shop": "butcher",
-      "wheelchair": "no"
+      "website": "https://www.roemerbeef.shop/"
     }
   },
   {
@@ -13806,6 +13807,7 @@
     "lat": 48.6309518,
     "lon": 13.193907,
     "tags": {
+      "name": "Fleisch Fischer",
       "shop": "butcher"
     }
   },
