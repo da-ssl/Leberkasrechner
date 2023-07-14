@@ -10324,9 +10324,13 @@
     "lat": 49.5252419,
     "lon": 11.4500248,
     "tags": {
-      "name": "Loos",
-      "opening_hours": "Mo-Fr 08:00-18:00",
-      "shop": "butcher"
+      "addr:housenumber": "10",
+      "addr:street": "Großviehberg",
+      "name": "Landmetzgerei Loos",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-12:00",
+      "phone": "+49 9151 7985",
+      "shop": "butcher",
+      "website": "https://www.landmetzgerei-loos.de/"
     }
   },
   {
@@ -32906,6 +32910,7 @@
     "lat": 49.6990929,
     "lon": 9.3380348,
     "tags": {
+      "check_date": "2023-07-13",
       "name": "Metzgerei Ulrich",
       "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:30-12:30; PH off",
       "shop": "butcher"
