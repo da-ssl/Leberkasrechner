@@ -3769,7 +3769,7 @@
       "addr:housenumber": "16",
       "addr:street": "Kantstraße",
       "amenity": "fast_food",
-      "check_date": "2023-04-09",
+      "check_date": "2023-07-14",
       "cuisine": "regional",
       "name": "Stefan Decker",
       "opening_hours": "Mo off; Tu-Fr 06:00-18:00; Sa 06:00-12:00",
@@ -29558,11 +29558,16 @@
       "addr:postcode": "86916",
       "addr:street": "Viktor-Frankl-Straße",
       "amenity": "restaurant",
+      "level": "0",
       "name": "Kuhn's",
-      "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:30-13:00; Su,PH off",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off",
+      "outdoor_seating": "yes",
       "phone": "+49 8191 7120",
+      "self_service": "yes",
       "shop": "butcher",
-      "website": "https://kuhns.eu"
+      "toilets:access": "customers",
+      "website": "https://kuhns.eu",
+      "wheelchair": "limited"
     }
   },
   {
