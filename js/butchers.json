@@ -13492,8 +13492,8 @@
   {
     "type": "node",
     "id": 1607868151,
-    "lat": 48.8023733,
-    "lon": 11.3691591,
+    "lat": 48.8023818,
+    "lon": 11.3691626,
     "tags": {
       "name": "Metzgerei Pauleser Kasing",
       "shop": "butcher",
@@ -27492,6 +27492,7 @@
     "lat": 48.0951684,
     "lon": 11.4958077,
     "tags": {
+      "air_conditioning": "yes",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
@@ -32464,7 +32465,6 @@
       "addr:housenumber": "14a",
       "addr:place": "Berg",
       "addr:postcode": "83104",
-      "addr:street": "Berg",
       "email": "servus@hof-metzger.de",
       "name": "Der Hofmetzger aus Berg",
       "opening_hours": "Fr 09:00-18:00; Sa 08:00-12:00; PH off",
@@ -44239,29 +44239,6 @@
   },
   {
     "type": "way",
-    "id": 486359288,
-    "nodes": [
-      4789830462,
-      4789830463,
-      4789830464,
-      4789830465,
-      4789830462
-    ],
-    "tags": {
-      "addr:city": "Sachsen bei Ansbach",
-      "addr:housenumber": "8",
-      "addr:postcode": "91623",
-      "addr:street": "Hauptstraße",
-      "building": "yes",
-      "name": "Der Eberhardt",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00",
-      "phone": "+49 9827552",
-      "shop": "butcher",
-      "website": "https://www.der-eberhardt.de/"
-    }
-  },
-  {
-    "type": "way",
     "id": 494265149,
     "nodes": [
       4860458319,
@@ -52993,30 +52970,6 @@
     "id": 2092358763,
     "lat": 49.2972231,
     "lon": 10.5979304
-  },
-  {
-    "type": "node",
-    "id": 4789830462,
-    "lat": 49.2861649,
-    "lon": 10.6608972
-  },
-  {
-    "type": "node",
-    "id": 4789830463,
-    "lat": 49.2861964,
-    "lon": 10.6605297
-  },
-  {
-    "type": "node",
-    "id": 4789830464,
-    "lat": 49.2860861,
-    "lon": 10.6605136
-  },
-  {
-    "type": "node",
-    "id": 4789830465,
-    "lat": 49.2860547,
-    "lon": 10.6608811
   },
   {
     "type": "node",
