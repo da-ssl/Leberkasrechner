@@ -2472,6 +2472,7 @@
     "lat": 49.852218,
     "lon": 9.9602411,
     "tags": {
+      "check_date": "2023-07-16",
       "name": "Hollerbach",
       "shop": "butcher",
       "wheelchair": "no"
@@ -29408,6 +29409,7 @@
       "addr:postcode": "95239",
       "addr:street": "Münchberger Straße",
       "name": "Metzgerei-Partyservice Teicher",
+      "opening_hours": "Tu-Th 08:00-13:00,14:00-18:00; Fr 08:00-18:00; Mo off",
       "shop": "butcher"
     }
   },
@@ -40731,28 +40733,6 @@
   },
   {
     "type": "way",
-    "id": 217891526,
-    "nodes": [
-      2271992593,
-      2271992587,
-      2271992594,
-      1346714036,
-      2271992593
-    ],
-    "tags": {
-      "addr:city": "Gersthofen",
-      "addr:country": "DE",
-      "addr:housenumber": "13",
-      "addr:postcode": "86368",
-      "addr:street": "Senefelderstraße",
-      "building": "yes",
-      "name": "Binswanger & Kempter",
-      "shop": "butcher",
-      "website": "http://www.metzgerei-binswanger.de/"
-    }
-  },
-  {
-    "type": "way",
     "id": 220014041,
     "nodes": [
       2291365303,
@@ -43150,7 +43130,7 @@
       "addr:postcode": "85419",
       "addr:street": "Hauptstraße",
       "building": "apartments",
-      "check_date": "2023-06-22",
+      "check_date": "2023-07-16",
       "name": "Oberloher",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 8764 216",
@@ -44669,13 +44649,16 @@
       "addr:housenumber": "9",
       "addr:postcode": "95688",
       "addr:street": "Gemmingen-Straße",
+      "air_conditioning": "yes",
       "building": "retail",
-      "name": "Metzgerei Georg Kraus",
-      "opening_hours": "Mo-Fr 07:30-12:00; Mo,Tu,Th,Fr 14:30-18:00; Sa 07:30-13:00",
-      "operator": "Georg Kraus",
+      "currency:EUR": "yes",
+      "name": "Metzgerei Grünbauer",
+      "opening_hours": "We+Th 07:00-12:00 14:00-18:00,Fri 07:00-18:00,Sat 07:00-12:00",
+      "operator": "Tobias Grünbauer",
       "payment:cash": "yes",
       "phone": "+499683257",
-      "shop": "butcher"
+      "shop": "butcher",
+      "toilets": "no"
     }
   },
   {
@@ -50180,30 +50163,6 @@
     "id": 3865121699,
     "lat": 48.4596538,
     "lon": 10.8236169
-  },
-  {
-    "type": "node",
-    "id": 1346714036,
-    "lat": 48.4334003,
-    "lon": 10.8669398
-  },
-  {
-    "type": "node",
-    "id": 2271992587,
-    "lat": 48.4336738,
-    "lon": 10.8678056
-  },
-  {
-    "type": "node",
-    "id": 2271992593,
-    "lat": 48.4334737,
-    "lon": 10.8678425
-  },
-  {
-    "type": "node",
-    "id": 2271992594,
-    "lat": 48.4336004,
-    "lon": 10.8669029
   },
   {
     "type": "node",
