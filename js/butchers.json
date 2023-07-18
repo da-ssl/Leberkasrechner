@@ -19773,7 +19773,7 @@
     "type": "node",
     "id": 2590762648,
     "lat": 49.248826,
-    "lon": 11.0921172,
+    "lon": 11.0921236,
     "tags": {
       "checked_date": "2022-09",
       "level": "0",
@@ -28203,18 +28203,6 @@
     "lon": 10.2063632,
     "tags": {
       "name": "Metzgerei",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 5693963520,
-    "lat": 49.1754228,
-    "lon": 10.9256713,
-    "tags": {
-      "addr:housenumber": "3",
-      "addr:street": "Stiftsgasse",
-      "name": "Metzgerei Bernd Wechsler",
       "shop": "butcher"
     }
   },
