@@ -2409,6 +2409,8 @@
       "opening_hours": "Mo-Fr 07:30-12:30,14:00-18:00; We 07:30-12:30; Sa 07:00-12:00",
       "opening_hours:covid19": "Mo,Tu,Th,Fr 07:30-12:30,14:00-18:00; We 07:30-12:30; Sa 07:00-12:00",
       "payment:cash": "yes",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "yes",
       "phone": "+49 8370 300",
       "shop": "butcher",
       "takeaway:covid19": "yes",
@@ -3980,7 +3982,7 @@
     "lat": 48.5400764,
     "lon": 11.8072472,
     "tags": {
-      "check_date": "2023-03-26",
+      "check_date": "2023-07-18",
       "name": "Metzgerei Lutz",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3996,7 +3998,7 @@
       "addr:country": "DE",
       "addr:postcode": "85405",
       "addr:street": "Marktstraße",
-      "check_date": "2023-06-23",
+      "check_date": "2023-07-18",
       "name": "Oberloher",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -7080,8 +7082,8 @@
   {
     "type": "node",
     "id": 692810772,
-    "lat": 48.5313748,
-    "lon": 11.5094664,
+    "lat": 48.531396,
+    "lon": 11.5094507,
     "tags": {
       "addr:city": "Pfaffenhofen a.d. Ilm",
       "addr:country": "DE",
@@ -33067,11 +33069,11 @@
       "addr:housenumber": "2",
       "addr:postcode": "90584",
       "addr:street": "Gustav-Schreier-Straße",
+      "contact:facebook": "https://www.facebook.com/wurstautomatregnet/",
       "name": "Landmetzgerei Regnet",
       "opening_hours": "Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-13:00",
       "phone": "+49917449676",
-      "shop": "butcher",
-      "website": "https://www.facebook.com/wurstautomatregnet/"
+      "shop": "butcher"
     }
   },
   {
@@ -33085,12 +33087,12 @@
       "addr:postcode": "87616",
       "addr:street": "Hoheneggstraße",
       "amenity": "vending_machine",
+      "contact:facebook": "https://de-de.facebook.com/partyserviceWagner/",
       "name": "Partyservice & Metzgerei Wagner",
       "operator": "Richard Wagner",
       "phone": "+4983499769124",
       "shop": "butcher",
-      "vending": "meat",
-      "website": "https://de-de.facebook.com/partyserviceWagner/"
+      "vending": "meat"
     }
   },
   {
@@ -36442,28 +36444,6 @@
   },
   {
     "type": "way",
-    "id": 44506976,
-    "nodes": [
-      565480007,
-      565480009,
-      565480010,
-      565480008,
-      565480007
-    ],
-    "tags": {
-      "addr:city": "Karlstein am Main",
-      "addr:country": "DE",
-      "addr:housenumber": "11",
-      "addr:postcode": "63791",
-      "addr:street": "Hahnenkammstraße",
-      "building": "yes",
-      "name": "Jung Metzgerei",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "way",
     "id": 44734118,
     "nodes": [
       567489633,
@@ -39210,13 +39190,13 @@
       "addr:postcode": "93180",
       "addr:street": "Am Kirchberg",
       "building": "commercial",
+      "contact:facebook": "https://de-de.facebook.com/metzgereibennoschmid",
       "fax": "+49 9498 902631",
       "name": "Metzgerei Benno Schmid",
       "opening_hours": "Tu, Th, Fr 7:00-18:00; We 7:00-12:30; Sa 6:30-12:00; Mo, Su, PH off",
       "phone": "+49 9498 597",
       "shop": "butcher",
-      "source": "Bing",
-      "website": "https://de-de.facebook.com/metzgereibennoschmid"
+      "source": "Bing"
     }
   },
   {
@@ -59361,30 +59341,6 @@
     "id": 9244454887,
     "lat": 50.0075618,
     "lon": 9.2200765
-  },
-  {
-    "type": "node",
-    "id": 565480007,
-    "lat": 50.0403335,
-    "lon": 9.0353909
-  },
-  {
-    "type": "node",
-    "id": 565480008,
-    "lat": 50.0402407,
-    "lon": 9.0351553
-  },
-  {
-    "type": "node",
-    "id": 565480009,
-    "lat": 50.0403915,
-    "lon": 9.0353352
-  },
-  {
-    "type": "node",
-    "id": 565480010,
-    "lat": 50.0402987,
-    "lon": 9.0350995
   },
   {
     "type": "node",
