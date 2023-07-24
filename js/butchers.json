@@ -547,6 +547,7 @@
     "lat": 49.901007,
     "lon": 9.2194051,
     "tags": {
+      "check_date": "2023-07-23",
       "craft": "caterer",
       "name": "Fries",
       "opening_hours": "Mo-Sa 07:30-13:00, Mo,Tu,Th,Fr 14:00-18:00; PH off",
@@ -1960,6 +1961,8 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "check_date": "2023-03-05",
+      "diet:halal": "no",
+      "diet:kosher": "no",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "payment:girocard": "yes",
@@ -11081,22 +11084,6 @@
       "survey:date": "2022-01-09",
       "website": "http://www.metzgereistuhlberger.de/",
       "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1341548110,
-    "lat": 48.2789783,
-    "lon": 11.5835417,
-    "tags": {
-      "addr:city": "Unterschleißheim",
-      "addr:country": "DE",
-      "addr:housenumber": "26",
-      "addr:postcode": "85716",
-      "addr:street": "Lärchenstraße",
-      "name": "Landmetzgerei Geißinger",
-      "phone": "+49 (0) 89/31 78 29-0",
-      "shop": "butcher"
     }
   },
   {
@@ -28309,7 +28296,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date:opening_hours": "2022-07-09",
+      "check_date:opening_hours": "2023-07-23",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Vinzenzmurr",
@@ -37397,31 +37384,6 @@
   },
   {
     "type": "way",
-    "id": 97106583,
-    "nodes": [
-      1124982720,
-      1124982721,
-      1124982722,
-      1124982724,
-      1124982720
-    ],
-    "tags": {
-      "addr:housenumber": "4",
-      "addr:postcode": "97854",
-      "addr:street": "Urspringer Straße",
-      "building": "yes",
-      "email": "info@metzgerei-loschert.de",
-      "name": "Metzgerei Loschert",
-      "opening_hours": "Mo, Th 08:00-12:00; Sa 07:30-12:00; Tu-We, Fr 08:00-12:00, 14:30-18:30",
-      "phone": "+49 9359 232",
-      "shop": "butcher",
-      "source": "Bing",
-      "website": "https://metzgerei-loschert.de/",
-      "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "way",
     "id": 98385290,
     "nodes": [
       1138217825,
@@ -45759,6 +45721,42 @@
       "phone": "+49 9234 8165",
       "shop": "butcher",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1191563754,
+    "nodes": [
+      11063014895,
+      11063015228,
+      11063014952,
+      11063015042,
+      11062968772,
+      11063015106,
+      11063014839,
+      11062968796,
+      11063014861,
+      11063015200,
+      11063015284,
+      11063015017,
+      11063015336,
+      11063015065,
+      11063015292,
+      11062968755,
+      11063014895
+    ],
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:postcode": "97854",
+      "addr:street": "Urspringer Straße",
+      "building": "yes",
+      "email": "info@metzgerei-loschert.de",
+      "name": "Metzgerei Loschert",
+      "opening_hours": "Mo, Th 08:00-12:00; Sa 07:30-12:00; Tu-We, Fr 08:00-12:00, 14:30-18:30",
+      "phone": "+49 9359 232",
+      "shop": "butcher",
+      "website": "https://metzgerei-loschert.de/",
+      "wheelchair": "limited"
     }
   },
   {
@@ -59478,27 +59476,99 @@
   },
   {
     "type": "node",
-    "id": 1124982720,
-    "lat": 49.9508825,
-    "lon": 9.6690357
+    "id": 11062968755,
+    "lat": 49.9509093,
+    "lon": 9.6688221
   },
   {
     "type": "node",
-    "id": 1124982721,
-    "lat": 49.9510309,
-    "lon": 9.6689753
+    "id": 11062968772,
+    "lat": 49.9510171,
+    "lon": 9.6690649
   },
   {
     "type": "node",
-    "id": 1124982722,
-    "lat": 49.9510643,
-    "lon": 9.6691738
+    "id": 11062968796,
+    "lat": 49.9510355,
+    "lon": 9.6692054
   },
   {
     "type": "node",
-    "id": 1124982724,
-    "lat": 49.950916,
-    "lon": 9.6692342
+    "id": 11063014839,
+    "lat": 49.9510179,
+    "lon": 9.6691091
+  },
+  {
+    "type": "node",
+    "id": 11063014861,
+    "lat": 49.9509707,
+    "lon": 9.6692224
+  },
+  {
+    "type": "node",
+    "id": 11063014895,
+    "lat": 49.9509459,
+    "lon": 9.6688108
+  },
+  {
+    "type": "node",
+    "id": 11063014952,
+    "lat": 49.9509975,
+    "lon": 9.6689973
+  },
+  {
+    "type": "node",
+    "id": 11063015017,
+    "lat": 49.9509079,
+    "lon": 9.6692188
+  },
+  {
+    "type": "node",
+    "id": 11063015042,
+    "lat": 49.9510103,
+    "lon": 9.6690678
+  },
+  {
+    "type": "node",
+    "id": 11063015065,
+    "lat": 49.9508507,
+    "lon": 9.6690618
+  },
+  {
+    "type": "node",
+    "id": 11063015106,
+    "lat": 49.9510247,
+    "lon": 9.6691063
+  },
+  {
+    "type": "node",
+    "id": 11063015200,
+    "lat": 49.9509693,
+    "lon": 9.6692129
+  },
+  {
+    "type": "node",
+    "id": 11063015228,
+    "lat": 49.95098,
+    "lon": 9.6690042
+  },
+  {
+    "type": "node",
+    "id": 11063015284,
+    "lat": 49.9509087,
+    "lon": 9.6692264
+  },
+  {
+    "type": "node",
+    "id": 11063015292,
+    "lat": 49.9509418,
+    "lon": 9.6690207
+  },
+  {
+    "type": "node",
+    "id": 11063015336,
+    "lat": 49.9508777,
+    "lon": 9.6692204
   },
   {
     "type": "node",
