@@ -13341,23 +13341,6 @@
   },
   {
     "type": "node",
-    "id": 1590475785,
-    "lat": 48.2735012,
-    "lon": 11.5697857,
-    "tags": {
-      "brand": "Vinzenzmurr",
-      "brand:wikidata": "Q2527361",
-      "contact:phone": "+49 89 3104039",
-      "contact:website": "https://vinzenzmurr.de/",
-      "level": "0",
-      "name": "Vinzenzmurr",
-      "opening_hours": "mo-fr 08:00-18:30; sa 07:30-13:30; PH off",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1594519636,
     "lat": 50.3170651,
     "lon": 11.9151538,
@@ -35186,18 +35169,6 @@
   },
   {
     "type": "node",
-    "id": 10051441986,
-    "lat": 47.7550908,
-    "lon": 11.382741,
-    "tags": {
-      "brand": "Vinzenzmurr",
-      "brand:wikidata": "Q2527361",
-      "name": "Vinzenzmurr",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 10090279772,
     "lat": 48.1238788,
     "lon": 11.5414573,
@@ -35608,10 +35579,6 @@
     "lat": 50.2194076,
     "lon": 10.928338,
     "tags": {
-      "addr:city": "Ahorn-Schafhof",
-      "addr:housenumber": "3",
-      "addr:postcode": "96482",
-      "addr:street": "Am Wald",
       "name": "Direktvermarktung Ehrsam",
       "phone": "+49 9565 2989",
       "shop": "butcher"
@@ -35954,6 +35921,25 @@
       "name": "Magg",
       "opening_hours": "Mo-Fr 7:30-13:30 und 15:00-18:00; Sa 7:00-12:00",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11065045338,
+    "lat": 48.7544232,
+    "lon": 10.6705723,
+    "tags": {
+      "addr:city": "Harburg (Schwaben)",
+      "addr:housenumber": "12a",
+      "addr:postcode": "86655",
+      "addr:street": "Espenstraße",
+      "currency:EUR": "yes",
+      "fax": "+49 9080 91884",
+      "name": "Landmetzgerei Münzinger",
+      "opening_hours": "We 08:30-12:00; Th-Fr 08:30-12:00,14:00-17:00; Sa 07:00-12:00",
+      "phone": "+49 9080 91882",
+      "shop": "butcher",
+      "website": "https://landmetzgerei-muenzinger.de"
     }
   },
   {
@@ -37994,31 +37980,6 @@
   },
   {
     "type": "way",
-    "id": 121515927,
-    "nodes": [
-      1360135550,
-      1360135549,
-      1360135533,
-      1360135534,
-      1360135550
-    ],
-    "tags": {
-      "addr:city": "Harburg (Schwaben)",
-      "addr:housenumber": "12a",
-      "addr:postcode": "86655",
-      "addr:street": "Espenstraße",
-      "building": "yes",
-      "currency:EUR": "yes",
-      "fax": "+49 9080 91884",
-      "name": "Landmetzgerei Münzinger",
-      "opening_hours": "We 08:30-12:00; Th-Fr 08:30-12:00,14:00-17:00; Sa 07:00-12:00",
-      "phone": "+49 9080 91882",
-      "shop": "butcher",
-      "website": "https://landmetzgerei-muenzinger.de"
-    }
-  },
-  {
-    "type": "way",
     "id": 121559562,
     "nodes": [
       1360615403,
@@ -39466,9 +39427,12 @@
       "addr:postcode": "83131",
       "addr:street": "Hauptstraße",
       "building": "yes",
+      "check_date": "2023-07-24",
       "name": "Metzgerei Grandauer",
+      "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su off",
       "shop": "butcher",
-      "source": "DOP_LVA_BY_01"
+      "source": "DOP_LVA_BY_01",
+      "website": "https://www.urlaub-in-oberbayern.net/"
     }
   },
   {
@@ -50611,30 +50575,6 @@
     "id": 1411103337,
     "lat": 48.8865602,
     "lon": 10.4703983
-  },
-  {
-    "type": "node",
-    "id": 1360135533,
-    "lat": 48.7542748,
-    "lon": 10.6706695
-  },
-  {
-    "type": "node",
-    "id": 1360135534,
-    "lat": 48.754281,
-    "lon": 10.6704679
-  },
-  {
-    "type": "node",
-    "id": 1360135549,
-    "lat": 48.7544987,
-    "lon": 10.6706853
-  },
-  {
-    "type": "node",
-    "id": 1360135550,
-    "lat": 48.7545049,
-    "lon": 10.6704837
   },
   {
     "type": "node",
