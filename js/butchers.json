@@ -5345,6 +5345,7 @@
     "lat": 49.4708297,
     "lon": 11.1998255,
     "tags": {
+      "check_date": "2023-07-25",
       "name": "Mai",
       "opening_hours": "Th,Fr 06:30-18:00; Mo-We 06:30-15:00; Sa 06:30-13:00",
       "shop": "butcher"
@@ -35943,6 +35944,24 @@
     }
   },
   {
+    "type": "node",
+    "id": 11066595725,
+    "lat": 48.1221949,
+    "lon": 11.5473065,
+    "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "18",
+      "addr:postcode": "81371",
+      "addr:street": "Schmied-Kochel-Straße",
+      "name": "Schelkopf",
+      "opening_hours": "Mo-Fr 06:30-14:30",
+      "operator": "Ludwig Schelkopf GmbH & Co. KG",
+      "shop": "butcher",
+      "website": "http://www.metzgerei-schelkopf.de"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -37951,31 +37970,6 @@
       "building": "yes",
       "name": "Dirlinger",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 121037759,
-    "nodes": [
-      1355669387,
-      1355643063,
-      1355669388,
-      1380399812,
-      1355669386,
-      1355669387
-    ],
-    "tags": {
-      "addr:city": "München",
-      "addr:country": "DE",
-      "addr:housenumber": "18",
-      "addr:postcode": "81371",
-      "addr:street": "Schmied-Kochel-Straße",
-      "building": "yes",
-      "name": "Schelkopf",
-      "opening_hours": "Mo-Fr 06:30-14:30",
-      "operator": "Ludwig Schelkopf GmbH & Co. KG",
-      "shop": "butcher",
-      "website": "http://www.metzgerei-schelkopf.de"
     }
   },
   {
@@ -48517,36 +48511,6 @@
     "id": 2522576348,
     "lat": 48.2172471,
     "lon": 11.5291388
-  },
-  {
-    "type": "node",
-    "id": 1355643063,
-    "lat": 48.1222139,
-    "lon": 11.5473613
-  },
-  {
-    "type": "node",
-    "id": 1355669386,
-    "lat": 48.122137,
-    "lon": 11.5472524
-  },
-  {
-    "type": "node",
-    "id": 1355669387,
-    "lat": 48.1222168,
-    "lon": 11.5472557
-  },
-  {
-    "type": "node",
-    "id": 1355669388,
-    "lat": 48.1221351,
-    "lon": 11.5473571
-  },
-  {
-    "type": "node",
-    "id": 1380399812,
-    "lat": 48.1221361,
-    "lon": 11.5473016
   },
   {
     "type": "node",
