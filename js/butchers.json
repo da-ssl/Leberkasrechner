@@ -23584,7 +23584,7 @@
       "addr:postcode": "85416",
       "addr:street": "Ortsstraße",
       "addr:suburb": "Niederhummel",
-      "check_date": "2022-11-26",
+      "check_date": "2023-07-26",
       "name": "Tagwerk Biometzgerei",
       "opening_hours": "Tu-Fr 08:00-18:00; Sa 07:00-13:00",
       "organic": "only",
@@ -35959,6 +35959,19 @@
       "operator": "Ludwig Schelkopf GmbH & Co. KG",
       "shop": "butcher",
       "website": "http://www.metzgerei-schelkopf.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11069141340,
+    "lat": 47.7413867,
+    "lon": 12.8916474,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:postcode": "83435",
+      "addr:street": "Gewerkenstraße",
+      "name": "Metzgerei Hartmann",
+      "shop": "butcher"
     }
   },
   {
