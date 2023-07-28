@@ -14922,7 +14922,7 @@
       "addr:housenumber": "68",
       "addr:postcode": "85368",
       "addr:street": "Münchener Straße",
-      "check_date": "2023-07-01",
+      "check_date": "2023-07-27",
       "name": "Metzgerei Keller - Filiale",
       "opening_hours": "Mo-Sa 08:00-19:00",
       "phone": "+49 8761 767650",
@@ -24045,10 +24045,10 @@
       "addr:postcode": "97273",
       "addr:street": "Wachtelberg",
       "contact:phone": "+49 9367 9878565",
-      "contact:website": "http://www.hofmetzgerei-schmitt.de",
+      "contact:website": "https://www.metzgerei-dorsch.de/",
       "lastcheck": "2016-04-07",
-      "name": "Hofmetzgerei Schmitt",
-      "opening_hours": "Mo-Sa 07:00-18:00,Su,PH off",
+      "name": "Dorsch",
+      "opening_hours": "Mo-Fr 07:00-18:00; Tu,We 07:00-15:00; Sa 07:00-13:00",
       "outdoor_seating": "yes",
       "shop": "butcher"
     }
@@ -32883,20 +32883,6 @@
       "check_date": "2023-07-13",
       "name": "Metzgerei Ulrich",
       "opening_hours": "Mo,Tu,Th 07:30-13:30,15:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:30-12:30; PH off",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 8433159317,
-    "lat": 49.9905297,
-    "lon": 9.6829874,
-    "tags": {
-      "addr:housenumber": "24",
-      "addr:postcode": "97753",
-      "addr:street": "Karlstadter Straße",
-      "name": "Wilhelm Ebert",
-      "phone": "+49 9359 99985",
       "shop": "butcher"
     }
   },
@@ -42892,9 +42878,9 @@
       "addr:postcode": "97230",
       "addr:street": "Riemenschneiderstraße",
       "building": "yes",
-      "name": "Wolz;Metzgerei Wolz",
+      "name": "Metzgerei Wolz",
       "shop": "butcher",
-      "website": "http://www.cateringwolz.de/",
+      "website": "http://cateringwolz.de/",
       "wheelchair": "no"
     }
   },
