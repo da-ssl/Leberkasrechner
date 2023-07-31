@@ -5497,6 +5497,7 @@
     "tags": {
       "addr:housenumber": "1",
       "addr:street": "Friedrich-Wilhelm-Düker-Straße",
+      "check_date": "2023-07-30",
       "name": "Häuser",
       "opening_hours": "Mo-Fr 07:30-12:30, 14:00-18:00, Sa 07:00-12:00",
       "shop": "butcher"
@@ -8555,22 +8556,6 @@
     "lon": 10.3134018,
     "tags": {
       "name": "Metzgerei Trost",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 925624933,
-    "lat": 48.1596061,
-    "lon": 11.2274069,
-    "tags": {
-      "addr:city": "Fürstenfeldbruck",
-      "addr:country": "DE",
-      "addr:housenumber": "2",
-      "addr:postcode": "82256",
-      "addr:street": "Eschenstraße",
-      "name": "Robeller",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -34550,20 +34535,6 @@
       "name": "Metzgerei Fischer",
       "opening_hours": "Mo-Sa 07:00-20:00",
       "operator": "Metzgerei Fischer",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 9679893857,
-    "lat": 47.5702141,
-    "lon": 10.7011987,
-    "tags": {
-      "addr:city": "Füssen",
-      "addr:housenumber": "1",
-      "addr:postcode": "87629",
-      "addr:street": "Marienstraße",
-      "name": "Eier & Geflügel",
       "shop": "butcher"
     }
   },
