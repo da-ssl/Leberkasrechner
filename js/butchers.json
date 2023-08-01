@@ -301,6 +301,7 @@
     "lat": 47.6108721,
     "lon": 12.9783963,
     "tags": {
+      "check_date": "2023-07-31",
       "level": "0",
       "name": "Landmetzgerei Hölzl",
       "opening_hours": "Mo-Fr 07:30-12:30,14:30-18:00; Sa 07:30-12:00; PH closed",
@@ -7242,6 +7243,7 @@
       "brand:wikipedia": "de:Vinzenzmurr",
       "check_date": "2023-05-09",
       "cuisine": "regional",
+      "diet:vegetarian": "no",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 09:00-18:00; Sa 07:00-16:00",
       "payment:debit_cards": "yes",
@@ -18958,6 +18960,7 @@
     "lon": 10.8849192,
     "tags": {
       "name": "Metzgerei Popp",
+      "opening_hours": "We,Th,Sa 16:00-21:00; Fr 11:00-21:00; Su 11:30-15:30",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -35931,6 +35934,20 @@
     }
   },
   {
+    "type": "node",
+    "id": 11078790333,
+    "lat": 48.4568663,
+    "lon": 10.6594148,
+    "tags": {
+      "addr:city": "Welden",
+      "addr:housenumber": "1",
+      "addr:postcode": "86465",
+      "addr:street": "Bahnhofstraße",
+      "name": "Landmetzgerei Karl Weiß",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -43262,26 +43279,6 @@
   },
   {
     "type": "way",
-    "id": 381809609,
-    "nodes": [
-      3849755298,
-      3849755299,
-      3849755300,
-      3849755301,
-      3849755298
-    ],
-    "tags": {
-      "addr:city": "Welden",
-      "addr:housenumber": "1",
-      "addr:postcode": "86465",
-      "addr:street": "Bahnhofstraße",
-      "building": "yes",
-      "name": "Landmetzgerei Karl Weiß",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 383278294,
     "nodes": [
       3865121696,
@@ -49758,30 +49755,6 @@
     "id": 2468174283,
     "lat": 48.3980261,
     "lon": 10.6028858
-  },
-  {
-    "type": "node",
-    "id": 3849755298,
-    "lat": 48.4569479,
-    "lon": 10.6595143
-  },
-  {
-    "type": "node",
-    "id": 3849755299,
-    "lat": 48.4569055,
-    "lon": 10.6593242
-  },
-  {
-    "type": "node",
-    "id": 3849755300,
-    "lat": 48.4568092,
-    "lon": 10.659373
-  },
-  {
-    "type": "node",
-    "id": 3849755301,
-    "lat": 48.4568516,
-    "lon": 10.6595631
   },
   {
     "type": "node",
