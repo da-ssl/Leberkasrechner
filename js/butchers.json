@@ -22,6 +22,17 @@
   },
   {
     "type": "node",
+    "id": 60338760,
+    "lat": 48.1839001,
+    "lon": 11.2753942,
+    "tags": {
+      "name": "Landmetzgerei Klobeck",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-13:00",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
     "id": 76470539,
     "lat": 49.1545816,
     "lon": 11.7588689,
@@ -8588,6 +8599,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-08-02",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Vinzenzmurr",
@@ -16169,6 +16181,7 @@
     "lat": 49.2007081,
     "lon": 12.8791252,
     "tags": {
+      "name": "Metzgerei Wieser",
       "shop": "butcher"
     }
   },
@@ -27085,26 +27098,6 @@
       "addr:city": "Langquaid",
       "name": "Metzgerei Häring",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 5114468327,
-    "lat": 48.0604007,
-    "lon": 11.6285739,
-    "tags": {
-      "addr:city": "Unterhaching",
-      "addr:housenumber": "35",
-      "addr:postcode": "82008",
-      "addr:street": "Ottobrunner Straße",
-      "name": "Beefmeister",
-      "opening_hours": "Tu-Fr 11:00-19:00; Sa 10:00-14:00",
-      "payment:cash": "yes",
-      "payment:credit_cards": "yes",
-      "payment:ec": "yes",
-      "phone": "+498923028700",
-      "shop": "butcher",
-      "website": "https://www.beefmeister.de/"
     }
   },
   {
