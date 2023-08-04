@@ -2602,8 +2602,8 @@
   {
     "type": "node",
     "id": 345528833,
-    "lat": 48.1962605,
-    "lon": 11.8015837,
+    "lat": 48.1961449,
+    "lon": 11.8014856,
     "tags": {
       "name": "Holzner",
       "shop": "butcher",
@@ -16703,7 +16703,8 @@
     "tags": {
       "name": "Zapf",
       "opening_hours": "Mo-Th 07:45-13:00,14:30-18:00; Fr 08:00-18:00; Sa 06:45-12:30",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
