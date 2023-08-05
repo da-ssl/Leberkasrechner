@@ -33689,7 +33689,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-05-25",
+      "check_date": "2023-08-04",
       "name": "Vinzenzmurr",
       "shop": "butcher"
     }
@@ -34940,7 +34940,8 @@
       "opening_hours": "Mo-Sa 08:00-19:00",
       "phone": "+49 941 4613412",
       "shop": "butcher",
-      "website": "https://vinzenzmurr.de/metzgerei/regensburg-regensburger-osten/"
+      "website": "https://vinzenzmurr.de/metzgerei/regensburg-regensburger-osten/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -34993,7 +34994,8 @@
       "opening_hours": "Mo-Sa 08:00-19:00",
       "phone": "+49 941 4672744",
       "shop": "butcher",
-      "website": "https://www.gierstorfer.de/"
+      "website": "https://www.gierstorfer.de/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -38105,6 +38107,7 @@
     "tags": {
       "addr:street": "Frankenstraße",
       "building": "yes",
+      "check_date": "2023-08-04",
       "name": "Metzgerei Nöttling",
       "shop": "butcher"
     }
