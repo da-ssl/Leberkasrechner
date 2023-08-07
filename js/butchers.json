@@ -12634,6 +12634,7 @@
     "lat": 49.9788515,
     "lon": 9.1522655,
     "tags": {
+      "check_date": "2023-08-06",
       "level": "1",
       "name": "Metzgerei Häuser",
       "shop": "butcher",
@@ -24087,6 +24088,7 @@
     "lat": 49.9611295,
     "lon": 9.2441912,
     "tags": {
+      "check_date": "2023-08-06",
       "name": "Metzgerei Hauser",
       "opening_hours": "Mo-Fr 07:00-18:00;Sa 07:00-12:30;PH off",
       "phone": "+49 6095 3274",
