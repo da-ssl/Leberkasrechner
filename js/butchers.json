@@ -24844,9 +24844,11 @@
     "lat": 48.1229523,
     "lon": 11.5564758,
     "tags": {
+      "check_date:opening_hours": "2023-08-08",
       "name": "Gaßner",
       "opening_hours": "Mo-Fr 05:00-14:00",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -35949,6 +35951,33 @@
     }
   },
   {
+    "type": "node",
+    "id": 11099550057,
+    "lat": 48.122328,
+    "lon": 11.5567753,
+    "tags": {
+      "name": "Emin Fleisch",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11099627523,
+    "lat": 48.4315844,
+    "lon": 10.4065891,
+    "tags": {
+      "addr:city": "Burgau",
+      "addr:country": "DE",
+      "addr:housenumber": "4",
+      "addr:postcode": "89331",
+      "addr:street": "Norbert-Schuster-Straße",
+      "name": "Merkle",
+      "opening_hours": "Mo-We 07:00-13:00; Th,Fr 07:00-18:00; Sa 07:00-12:00",
+      "shop": "butcher",
+      "wheelchair": "no"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -41427,40 +41456,6 @@
       "building": "yes",
       "name": "Metzgerei Rank",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 254063311,
-    "nodes": [
-      2598942689,
-      2598942696,
-      2598942698,
-      2598942664,
-      2598942660,
-      2598942651,
-      3410711767,
-      3141299862,
-      2598942649,
-      3410711768,
-      3410711770,
-      3410711771,
-      2598942686,
-      2598942689
-    ],
-    "tags": {
-      "addr:city": "Burgau",
-      "addr:country": "DE",
-      "addr:housenumber": "4",
-      "addr:postcode": "89331",
-      "addr:street": "Norbert-Schuster-Straße",
-      "building": "apartments",
-      "building:levels": "2",
-      "name": "Merkle",
-      "opening_hours": "Mo-We 07:00-13:00; Th,Fr 07:00-18:00; Sa 07:00-12:00",
-      "roof:levels": "2",
-      "shop": "butcher",
-      "wheelchair": "no"
     }
   },
   {
@@ -49655,84 +49650,6 @@
     "id": 2083864151,
     "lat": 48.2833825,
     "lon": 10.4599146
-  },
-  {
-    "type": "node",
-    "id": 2598942649,
-    "lat": 48.4315595,
-    "lon": 10.4064792
-  },
-  {
-    "type": "node",
-    "id": 2598942651,
-    "lat": 48.4315444,
-    "lon": 10.4066333
-  },
-  {
-    "type": "node",
-    "id": 2598942660,
-    "lat": 48.4315708,
-    "lon": 10.4066316
-  },
-  {
-    "type": "node",
-    "id": 2598942664,
-    "lat": 48.4315711,
-    "lon": 10.4066425
-  },
-  {
-    "type": "node",
-    "id": 2598942686,
-    "lat": 48.4316436,
-    "lon": 10.4064366
-  },
-  {
-    "type": "node",
-    "id": 2598942689,
-    "lat": 48.4316458,
-    "lon": 10.4065141
-  },
-  {
-    "type": "node",
-    "id": 2598942696,
-    "lat": 48.4316604,
-    "lon": 10.4065136
-  },
-  {
-    "type": "node",
-    "id": 2598942698,
-    "lat": 48.4316643,
-    "lon": 10.4066367
-  },
-  {
-    "type": "node",
-    "id": 3141299862,
-    "lat": 48.4315589,
-    "lon": 10.4065355
-  },
-  {
-    "type": "node",
-    "id": 3410711767,
-    "lat": 48.4315416,
-    "lon": 10.4065367
-  },
-  {
-    "type": "node",
-    "id": 3410711768,
-    "lat": 48.4315593,
-    "lon": 10.406458
-  },
-  {
-    "type": "node",
-    "id": 3410711770,
-    "lat": 48.4315821,
-    "lon": 10.4064567
-  },
-  {
-    "type": "node",
-    "id": 3410711771,
-    "lat": 48.4315844,
-    "lon": 10.4064404
   },
   {
     "type": "node",
