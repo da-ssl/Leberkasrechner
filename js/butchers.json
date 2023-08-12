@@ -4081,13 +4081,13 @@
       "addr:postcode": "80798",
       "addr:street": "Görresstraße",
       "check_date:opening_hours": "2022-10-25",
-      "email": "info@metzgerei-burr.de",
-      "fax": "+49 89 523 107 33",
+      "contact:email": "info@metzgerei-burr.de",
+      "contact:fax": "+49 89 523 107 33",
+      "contact:phone": "+49 89 523 150 80",
+      "contact:website": "https://metzgerei-burr.de/home.html",
       "name": "Metzgerei Burr",
       "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-13:00",
-      "phone": "+49 89 523 150 80",
       "shop": "butcher",
-      "website": "https://metzgerei-burr.de/home.html",
       "wheelchair": "limited"
     }
   },
@@ -17667,7 +17667,13 @@
     "lat": 49.5090858,
     "lon": 11.3417935,
     "tags": {
-      "shop": "butcher"
+      "addr:housenumber": "2",
+      "addr:street": "Heckengasse",
+      "description": "Fränkische Wurst und Fleischspezialitäten",
+      "name": "Metzgerei Walter",
+      "phone": "09123 4197",
+      "shop": "butcher",
+      "website": "https://www.metzger-walter.de"
     }
   },
   {
@@ -36007,6 +36013,7 @@
     "tags": {
       "addr:housenumber": "1",
       "addr:street": "Gewerbepark Chammünster Nord A",
+      "description": "Das ist eine Fleischerei. Dort wird Fleisch abgeholt. Zum Einkaufen ist sie eher nicht gemacht.",
       "name": "Decker",
       "shop": "butcher"
     }
@@ -43050,7 +43057,7 @@
       "addr:postcode": "85419",
       "addr:street": "Hauptstraße",
       "building": "apartments",
-      "check_date": "2023-07-16",
+      "check_date": "2023-08-11",
       "name": "Oberloher",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 8764 216",
