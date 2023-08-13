@@ -5733,7 +5733,7 @@
     "type": "node",
     "id": 567340650,
     "lat": 48.1171365,
-    "lon": 11.5403276,
+    "lon": 11.540315,
     "tags": {
       "addr:city": "München",
       "addr:housenumber": "49",
@@ -5743,6 +5743,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "check_date:opening_hours": "2023-04-08",
+      "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Th 08:30-18:00; Fr 08:00-18:00; Sa 08:00-14:00",
       "shop": "butcher"
@@ -26671,24 +26672,6 @@
   },
   {
     "type": "node",
-    "id": 4895360107,
-    "lat": 49.4413987,
-    "lon": 11.0559636,
-    "tags": {
-      "addr:city": "Nürnberg",
-      "addr:country": "DE",
-      "addr:housenumber": "17",
-      "addr:postcode": "90439",
-      "addr:street": "Schwabacher Straße",
-      "name": "Schlüters Werksverkauf",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
-      "shop": "butcher",
-      "website": "https://www.schluetter.de/werksverkauf/",
-      "wheelchair": "limited"
-    }
-  },
-  {
-    "type": "node",
     "id": 4895817124,
     "lat": 49.4115098,
     "lon": 11.1205254,
@@ -32084,6 +32067,7 @@
     "lat": 49.9872178,
     "lon": 9.0826973,
     "tags": {
+      "check_date": "2023-08-12",
       "name": "Häuser",
       "shop": "butcher"
     }
@@ -33757,6 +33741,7 @@
       "addr:postcode": "85614",
       "addr:street": "Marktplatz",
       "name": "Fischer",
+      "opening_hours": "Tu-Fr 07:30-18:00; Sa 07:00-13:00; Mo off",
       "shop": "butcher"
     }
   },
