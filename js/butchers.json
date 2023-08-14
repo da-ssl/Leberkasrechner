@@ -1966,10 +1966,13 @@
   {
     "type": "node",
     "id": 313335653,
-    "lat": 48.1614547,
-    "lon": 11.5687871,
+    "lat": 48.1615722,
+    "lon": 11.5687724,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
       "addr:housenumber": "7",
+      "addr:postcode": "80796",
       "addr:street": "Hohenzollernplatz",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
@@ -4499,17 +4502,6 @@
   },
   {
     "type": "node",
-    "id": 455039965,
-    "lat": 48.1543538,
-    "lon": 11.0787683,
-    "tags": {
-      "name": "Braun",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 455532532,
     "lat": 48.2304966,
     "lon": 11.6816341,
@@ -4523,22 +4515,6 @@
       "name": "Deller Hof",
       "opening_hours": "Tu 14:00-18:00; Th,Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 455580712,
-    "lat": 49.3094217,
-    "lon": 10.5624825,
-    "tags": {
-      "addr:city": "Ansbach",
-      "addr:housenumber": "20",
-      "addr:postcode": "91522",
-      "addr:street": "Jägerndorfer Straße",
-      "name": "Metzgerei Walz",
-      "opening_hours": "Mo Closed; Tu-Fr 07:30-14:00; Sa 07:30-12:30; Su Closed",
-      "shop": "butcher",
-      "wheelchair": "yes"
     }
   },
   {
@@ -4699,16 +4675,6 @@
     "lon": 12.7000665,
     "tags": {
       "name": "Gasthof Kienberger",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 469709509,
-    "lat": 48.1565046,
-    "lon": 11.0765158,
-    "tags": {
-      "name": "Wörle",
       "shop": "butcher"
     }
   },
@@ -5420,6 +5386,7 @@
       "addr:street": "Eschenstraße",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
+      "check_date:opening_hours": "2023-08-13",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Vinzenzmurr",
@@ -14866,15 +14833,6 @@
   },
   {
     "type": "node",
-    "id": 1781936254,
-    "lat": 50.0710018,
-    "lon": 9.345133,
-    "tags": {
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1783244848,
     "lat": 49.0735763,
     "lon": 10.8882893,
@@ -21793,15 +21751,6 @@
   },
   {
     "type": "node",
-    "id": 3206504412,
-    "lat": 49.4068735,
-    "lon": 12.4633828,
-    "tags": {
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 3206591274,
     "lat": 47.8763262,
     "lon": 11.7008458,
@@ -26676,6 +26625,7 @@
     "lat": 49.4115098,
     "lon": 11.1205254,
     "tags": {
+      "check_date": "2023-08-13",
       "name": "Weckerlein",
       "shop": "butcher"
     }
@@ -35113,18 +35063,23 @@
   {
     "type": "node",
     "id": 10049427208,
-    "lat": 48.1668448,
-    "lon": 11.5650945,
+    "lat": 48.1668308,
+    "lon": 11.565105,
     "tags": {
-      "check_date": "2023-02-26",
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "204",
+      "addr:postcode": "80797",
+      "addr:street": "Schleißheimer Straße",
+      "check_date": "2023-08-13",
       "check_date:opening_hours": "2022-11-20",
-      "email": "meister@schaemanns.de",
-      "name": "SCHÄMANN'S Metzgerei",
+      "contact:email": "meister@schaemanns.de",
+      "contact:phone": "+49 89 4423 9144",
+      "contact:website": "https://schaemanns.de/",
+      "name": "Schämanns",
       "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-18:00; Sa 07:30-12:00",
       "operator": "Ludwig Schämann",
-      "phone": "+49 89 44 23 91 44",
-      "shop": "butcher",
-      "website": "https://schaemanns.de/"
+      "shop": "butcher"
     }
   },
   {
@@ -36017,6 +35972,17 @@
     }
   },
   {
+    "type": "node",
+    "id": 11111786804,
+    "lat": 48.5216223,
+    "lon": 11.4906054,
+    "tags": {
+      "name": "Wörmann",
+      "opening_hours": "Tu-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -36558,8 +36524,13 @@
       559166349
     ],
     "tags": {
+      "addr:city": "Grasbrunn",
+      "addr:housenumber": "25",
+      "addr:postcode": "85630",
+      "addr:street": "Gartenstraße",
       "building": "yes",
-      "name": "Metzgerei Erb",
+      "name": "Metzgerei Liebold",
+      "phone": "+4989467431",
       "shop": "butcher"
     }
   },
@@ -42751,6 +42722,29 @@
       "addr:street": "Bundesstraße",
       "building": "commercial",
       "name": "Metzgerei Haunstetter",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
+    "id": 327665968,
+    "nodes": [
+      3344687552,
+      3344687553,
+      3344687554,
+      5180990475,
+      5180990473,
+      5180990474,
+      3344687552
+    ],
+    "tags": {
+      "addr:city": "Offenberg",
+      "addr:housenumber": "2",
+      "addr:postcode": "94560",
+      "addr:street": "Egger Straße",
+      "building": "yes",
+      "name": "Metzgerei Zenger",
+      "operator": "Zenger",
       "shop": "butcher"
     }
   },
@@ -57465,6 +57459,42 @@
     "id": 561271627,
     "lat": 48.8319067,
     "lon": 12.7210139
+  },
+  {
+    "type": "node",
+    "id": 3344687552,
+    "lat": 48.8618774,
+    "lon": 12.8933081
+  },
+  {
+    "type": "node",
+    "id": 3344687553,
+    "lat": 48.8618392,
+    "lon": 12.893616
+  },
+  {
+    "type": "node",
+    "id": 3344687554,
+    "lat": 48.8616031,
+    "lon": 12.8935482
+  },
+  {
+    "type": "node",
+    "id": 5180990473,
+    "lat": 48.8616734,
+    "lon": 12.8933114
+  },
+  {
+    "type": "node",
+    "id": 5180990474,
+    "lat": 48.8616808,
+    "lon": 12.8932516
+  },
+  {
+    "type": "node",
+    "id": 5180990475,
+    "lat": 48.8616339,
+    "lon": 12.8933
   },
   {
     "type": "node",
