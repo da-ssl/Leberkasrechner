@@ -58,7 +58,6 @@
       "diet:kosher": "no",
       "name": "Stocker",
       "opening_hours": "Tu-Th 07:30-14:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-13:00; PH,Su,Mo off",
-      "opening_hours:covid19": "same",
       "operator": "Robert Stocker e.K.",
       "organic": "yes",
       "shop": "butcher",
@@ -3227,7 +3226,6 @@
       "level": "0",
       "name": "Metzgerei Reich",
       "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-17:00",
-      "opening_hours:covid19": "open",
       "shop": "butcher",
       "website": "https://www.metzgerei-reich.de",
       "wheelchair": "yes"
@@ -5691,7 +5689,6 @@
       "contact:website": "https://vinzenzmurr.de/",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 07:30-14:00",
-      "opening_hours:covid19": "Mo-Fr 08:00-18:30; Sa 07:30-14:00",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -12098,7 +12095,7 @@
     "lat": 49.4501072,
     "lon": 11.0544178,
     "tags": {
-      "check_date:opening_hours": "2022-06-20",
+      "check_date:opening_hours": "2023-08-14",
       "email": "info@metzgerei-marina.de",
       "name": "Marina",
       "opening_hours": "Mo-Fr 08:00-18:00, We 08:00-14:00, Sa 08:00-13:00",
@@ -27329,7 +27326,6 @@
       "email": "info@vinzenzmurr.de",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:30-18:00; Sa 07:30-13:00",
-      "opening_hours:covid19": "same",
       "payment:cash": "yes",
       "payment:girocard": "yes",
       "phone": "+49 8106 29535",
@@ -28155,7 +28151,6 @@
       "fax": "+49 8092 708068",
       "name": "Kammerloher",
       "opening_hours": "Mo-Th 07:30-12:30,14:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:30; PH off",
-      "opening_hours:covid19": "same",
       "operator": "Korbinian Kammerloher jun.",
       "payment:coins": "yes",
       "payment:notes": "yes",
@@ -30692,7 +30687,6 @@
       "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 07:00-20:00",
-      "opening_hours:covid19": "open",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -31063,7 +31057,6 @@
       "level": "0",
       "name": "Metzgerei Fuß",
       "opening_hours": "Mo-We 07:00-13:30; Th-Fr 07:00-18:00; Sa 07:00-12:00",
-      "opening_hours:covid19": "same",
       "operator": "Bernhard Fuß",
       "payment:cash": "yes",
       "payment:credit_cards": "no",
@@ -32647,7 +32640,6 @@
       "level": "0",
       "name": "Metzgerei Maier Grafing",
       "opening_hours": "Mo-Sa 07:00-20:00; PH off",
-      "opening_hours:covid19": "same",
       "ref:vatin": "112191141119",
       "second_hand": "no",
       "shop": "butcher",
@@ -33777,7 +33769,7 @@
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Südbayerische Fleischwaren",
-      "opening_hours": "Mo-Sa 07:00-20:00",
+      "opening_hours": "Mo-Sa 09:00-18:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -42676,7 +42668,6 @@
       "level": "-1",
       "name": "Metzgerei Boneberger",
       "opening_hours": "Mo-Sa 08:00-20:00",
-      "opening_hours:covid19": "open",
       "shop": "butcher",
       "takeaway:covid19": "yes",
       "wheelchair": "yes"
@@ -44733,7 +44724,6 @@
       "building": "yes",
       "name": "Metzgerei Schmid",
       "opening_hours": "Mo,Th,Fr 07:00-18:00; Tu,We,Sa 07:00-14:00; Su off",
-      "opening_hours:covid19": "same",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
       "phone": "+49 8232 9975261",
