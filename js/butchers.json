@@ -6100,7 +6100,6 @@
       "access:covid19": "yes",
       "name": "Holnburger",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
-      "opening_hours:covid19": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -7384,7 +7383,6 @@
     "tags": {
       "name": "Metzgerei Maucher",
       "opening_hours": "Mo,Tu,Th,Fr 08:00-13:00,14:30-18:00; We 08:00-13:00; Sa 07:30-13:00; PH off",
-      "opening_hours:covid19": "same",
       "shop": "butcher"
     }
   },
@@ -31942,7 +31940,6 @@
       "email": "michael.haas@web.de",
       "name": "Metzgerei Haas",
       "opening_hours": "Mo-Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:00; Sa 07:00-12:00",
-      "opening_hours:covid19": "Mo-Tu 08:00-12:00; We-Fr 08:00-12:00,14:00-18:00; Sa 07:00-12:00",
       "operator": "Michael Haas",
       "payment:cash": "yes",
       "payment:girocard": "yes",
@@ -32038,7 +32035,6 @@
       "currency:EUR": "yes",
       "name": "Fleiwa",
       "opening_hours": "Mo 07:00-12:30,14:00-18:00; Tu-We 07:00-12:30; Th-Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00",
-      "opening_hours:covid19": "same",
       "operator": "Fleiwa",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
@@ -32247,7 +32243,6 @@
       "contact:facebook": "https://www.facebook.com/metzgaklessinger/",
       "name": "Metzgerei Klessinger",
       "opening_hours": "Mo-Fr 06:00-17:45; We,Sa 06:00-12:00; Su,PH off",
-      "opening_hours:covid19": "same",
       "operator": "Christian Klessinger",
       "payment:cash": "yes",
       "phone": "+49 8544 354",
@@ -32266,7 +32261,6 @@
       "addr:street": "Bischof-Heinrich-Straße",
       "name": "Metzgerei Rendl",
       "opening_hours": "Mo 07:00-12:00; Tu-Th 07:00-12:00,14:00-17:30; Fr 07:00-18:00; Su,PH off",
-      "opening_hours:covid19": "same",
       "operator": "Robert Rendl",
       "payment:cash": "yes",
       "phone": "+49 8504 1706",
@@ -32851,7 +32845,6 @@
     "tags": {
       "name": "Giray",
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-12:30",
-      "opening_hours:covid19": "same",
       "phone": "+49838180780810",
       "shop": "butcher",
       "website": "http://www.metzgerei-giray.de/"
@@ -43391,7 +43384,6 @@
       "check_date": "2022-12-05",
       "name": "Krönauer",
       "opening_hours": "Tu-Fr 07:30-12:00,13:30-18:00; Mo 07:30-12:00; Sa 07:00-12:00",
-      "opening_hours:covid19": "same",
       "payment:cards": "no",
       "payment:cash": "yes",
       "payment:credit_cards": "no",
@@ -44595,7 +44587,6 @@
       "fax": "+498544 1766",
       "name": "Klampfl",
       "opening_hours": "Mo,Sa 07:00-12:00; Tu-Fr 07:00-18:00; Su,PH off",
-      "opening_hours:covid19": "same",
       "operator": "Adolf Klampfl",
       "phone": "+498544 1766",
       "shop": "butcher",
@@ -45214,7 +45205,6 @@
       "fax": "+49 8171 64192",
       "name": "Metzgerei Länger",
       "opening_hours": "Mo 07:30-12:30, Tu-Fr 07:30-18:00, Sa 07:00-12:00",
-      "opening_hours:covid19": "open",
       "operator": "Metzgerei Länger GmbH",
       "payment:cash": "yes",
       "payment:mastercard": "yes",
