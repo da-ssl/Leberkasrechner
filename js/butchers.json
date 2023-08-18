@@ -1182,20 +1182,20 @@
   {
     "type": "node",
     "id": 291103863,
-    "lat": 48.1413517,
-    "lon": 11.5855465,
+    "lat": 48.1413264,
+    "lon": 11.5852241,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
       "addr:housenumber": "10",
       "addr:postcode": "80538",
       "addr:street": "Christophstraße",
-      "name": "Butchery Lehel",
+      "contact:phone": "+49 89 122 547 70",
+      "contact:website": "https://www.butchery-lehel.de/",
+      "name": "Butchery",
       "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:00-14:30",
       "operator": "Rüdiger Marquardt",
-      "phone": "+49 89 122 547 70",
       "shop": "butcher",
-      "website": "https://www.butchery-lehel.de/",
       "wheelchair": "limited"
     }
   },
@@ -32190,22 +32190,6 @@
       "level": "0",
       "name": "Metzgerei Brunner",
       "opening_hours": "Mo-Tu,Th-Fr 08:30-17:30; Sa 08:30-13:00; PH closed; We 08:30-14:30",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 8001065644,
-    "lat": 48.3023457,
-    "lon": 10.9751492,
-    "tags": {
-      "addr:city": "Kissing",
-      "addr:housenumber": "44",
-      "addr:postcode": "86438",
-      "addr:street": "Schulstraße",
-      "name": "Hofmetzgerei zur oberen Mühle",
-      "opening_hours": "Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 07:30-12:30; Su off",
-      "phone": "+49 8233 7438273",
       "shop": "butcher"
     }
   },
