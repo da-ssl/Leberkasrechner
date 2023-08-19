@@ -9017,6 +9017,7 @@
     "lat": 49.3718391,
     "lon": 11.0823572,
     "tags": {
+      "check_date:opening_hours": "2023-08-11",
       "name": "Metzgerei Nießlbeck",
       "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-14:00",
       "shop": "butcher",
@@ -35439,23 +35440,6 @@
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 10853338708,
-    "lat": 49.927424,
-    "lon": 9.081947,
-    "tags": {
-      "addr:postcode": "63762",
-      "email": "kontakt@edeka-stenger.de",
-      "name": "Edeka Metzgerei",
-      "name:en": "Edeka Butcher",
-      "opening_hours": "Mo-Sa 08:00-20:00",
-      "operator": "STENGER LEBENSMITTEL\nGMBH & CO. KG",
-      "phone": "+49 6026 9979799",
-      "shop": "butcher",
-      "website": "https://edeka-stenger.de/maerkte/grossostheim"
     }
   },
   {
