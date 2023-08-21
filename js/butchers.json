@@ -26663,7 +26663,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "94436",
       "addr:street": "Marktplatz",
-      "name": "Neumeyer",
+      "name": "Neumeyer Metzgerei",
       "shop": "butcher"
     }
   },
@@ -35948,6 +35948,24 @@
     "tags": {
       "name": "Helmreich",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11129332639,
+    "lat": 48.4532509,
+    "lon": 11.7834192,
+    "tags": {
+      "addr:city": "Zolling",
+      "addr:country": "DE",
+      "addr:housenumber": "55",
+      "addr:postcode": "85406",
+      "addr:street": "Moosburger Straße",
+      "description": "Neueröffnung am 24.08.2023 (Verlegung von Moosburger Straße 5)",
+      "name": "Metzgerei Karl",
+      "phone": "+49 8167 9890720",
+      "shop": "butcher",
+      "website": "https://metzgerei-robert-karl.business.site/"
     }
   },
   {
