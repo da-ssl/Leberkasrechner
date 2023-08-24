@@ -18688,8 +18688,10 @@
       "addr:postcode": "93413",
       "addr:street": "Rodinger Straße",
       "amenity": "fast_food",
+      "indoor_seating": "yes",
       "level": "0",
       "name": "Metzgerei Fischer",
+      "outdoor_seating": "no",
       "phone": "+49 9971 9964542",
       "shop": "butcher",
       "source": "survey",
@@ -26663,7 +26665,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "94436",
       "addr:street": "Marktplatz",
-      "name": "Neumeyer Metzgerei",
+      "name": "Neumeier Metzgerei",
       "shop": "butcher"
     }
   },
