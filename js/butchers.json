@@ -10554,7 +10554,7 @@
     "lon": 12.1717112,
     "tags": {
       "name": "Metzgerei & Imbiss \"Am Krandl\"",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher",
       "website": "https://www.krandl.de/"
     }
@@ -11863,14 +11863,19 @@
   {
     "type": "node",
     "id": 1406090392,
-    "lat": 48.1545651,
-    "lon": 11.575622,
+    "lat": 48.1545472,
+    "lon": 11.5756216,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "22",
+      "addr:postcode": "80799",
+      "addr:street": "Nordendstraße",
+      "contact:phone": "+49 89 2715750",
+      "contact:website": "http://metzgerei-siegl.com/",
       "name": "Metzgerei Siegl",
       "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:00-13:00",
-      "phone": "+49 89 2715750",
       "shop": "butcher",
-      "website": "http://metzgerei-siegl.com/",
       "wheelchair": "no",
       "wheelchair:description": "Stufe"
     }
@@ -22032,6 +22037,7 @@
     "lat": 49.4570517,
     "lon": 12.419177,
     "tags": {
+      "name:signed": "no",
       "shop": "butcher",
       "toilets:wheelchair": "yes",
       "wheelchair": "yes"
@@ -30454,6 +30460,7 @@
       "addr:postcode": "84160",
       "addr:street": "Vilsbiburger Straße",
       "name": "Stadler",
+      "opening_hours": "Mo-Th 07:00-13:00,14:00-18:00; Fr 07:00-18:00; Sa 06:30-12:00",
       "shop": "butcher",
       "website": "https://www.metzgerei-stadler.de/filialen.html"
     }
@@ -31071,7 +31078,7 @@
       "addr:housenumber": "21",
       "addr:postcode": "85604",
       "addr:street": "Burgstraße",
-      "check_date:opening_hours": "2022-08-21",
+      "check_date:opening_hours": "2023-08-25",
       "fax": "+4981069999387",
       "level": "0",
       "name": "Metzgerei Fuß",
