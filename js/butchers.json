@@ -4838,17 +4838,6 @@
   },
   {
     "type": "node",
-    "id": 475539553,
-    "lat": 49.0548075,
-    "lon": 12.0905607,
-    "tags": {
-      "name": "Schuhbauer",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 475708324,
     "lat": 47.6254937,
     "lon": 13.0012946,
@@ -19658,13 +19647,14 @@
   {
     "type": "node",
     "id": 2575615592,
-    "lat": 48.2559477,
-    "lon": 11.4375116,
+    "lat": 48.2559964,
+    "lon": 11.4375007,
     "tags": {
       "addr:city": "Dachau",
       "addr:housenumber": "11",
       "addr:postcode": "85221",
       "addr:street": "Münchner Straße",
+      "description": "Mit Imbiss",
       "name": "Forche",
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 08:00-12:00",
       "phone": "(08131) 73 58 91",
@@ -32561,6 +32551,7 @@
       "level": "0",
       "name": "Vinzenzmurr",
       "note": "Inside REWE",
+      "opening_hours": "Mo-Sa 07:00-20:00",
       "payment:mastercard": "yes",
       "payment:visa": "yes",
       "shop": "butcher",
