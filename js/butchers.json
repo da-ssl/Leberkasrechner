@@ -10765,9 +10765,16 @@
   {
     "type": "node",
     "id": 1294319030,
-    "lat": 48.1663707,
-    "lon": 12.7312724,
+    "lat": 48.1663276,
+    "lon": 12.7313086,
     "tags": {
+      "addr:city": "Burgkirchen an der Alz",
+      "addr:country": "DE",
+      "addr:housenumber": "13",
+      "addr:postcode": "84508",
+      "addr:street": "Martin-Ofner-Straße",
+      "contact:phone": "+49 8679 1276",
+      "contact:website": "http://www.metzgerei-hoelzlwimmer.de/",
       "name": "Hölzlwimmer",
       "shop": "butcher",
       "wheelchair": "no"
@@ -12521,16 +12528,6 @@
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "shop": "butcher",
       "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1484903212,
-    "lat": 49.8674081,
-    "lon": 9.6378667,
-    "tags": {
-      "name": "Trapp",
-      "shop": "butcher"
     }
   },
   {
@@ -19956,6 +19953,8 @@
       "check_date": "2023-04-09",
       "name": "Vizenz-Murr",
       "opening_hours": "Mo-Fr 08:30-18:15; Sa 08:00-13:00",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
       "payment:girocard": "yes",
       "payment:maestro": "yes",
       "payment:mastercard": "yes",
@@ -35995,6 +35994,19 @@
     }
   },
   {
+    "type": "node",
+    "id": 11149292074,
+    "lat": 50.1028741,
+    "lon": 11.5996355,
+    "tags": {
+      "addr:city": "Wirsberg",
+      "addr:housenumber": "4",
+      "addr:postcode": "95339",
+      "addr:street": "Tischeräcker",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -42557,6 +42569,7 @@
     "id": 318268135,
     "nodes": [
       3246670384,
+      11148800332,
       3246670385,
       3246670386,
       3246670387,
@@ -58322,6 +58335,12 @@
     "id": 6034975282,
     "lat": 49.5826901,
     "lon": 12.1497211
+  },
+  {
+    "type": "node",
+    "id": 11148800332,
+    "lat": 49.5825059,
+    "lon": 12.1490259
   },
   {
     "type": "node",
