@@ -1997,6 +1997,7 @@
     "lat": 49.6222555,
     "lon": 10.8255846,
     "tags": {
+      "check_date": "2023-08-28",
       "name": "Zink",
       "shop": "butcher",
       "wheelchair": "no"
@@ -21771,7 +21772,7 @@
       "name": "Metzgerei Feinkost Kleeblatt",
       "opening_hours": "Mo-Tu 08:30-12:30,14:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,14:30-18:00; Sa 07:30-12:00",
       "shop": "butcher",
-      "website": "https://www.metzgerei-kleeblatt.de"
+      "website": "https://www.feinkost-kleeblatt.de/"
     }
   },
   {
@@ -22038,6 +22039,7 @@
     "lat": 47.966386,
     "lon": 12.6105912,
     "tags": {
+      "check_date": "2023-08-28",
       "name": "Landmetzgerei Gassner",
       "opening_hours": "Mo-Sa 07:00-20:00",
       "shop": "butcher",
@@ -26269,6 +26271,7 @@
       "addr:housenumber": "5",
       "addr:postcode": "83278",
       "addr:street": "Stadtplatz",
+      "check_date": "2023-08-28",
       "name": "Magg GmbH & Co. KG Metzgerei",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -35923,7 +35926,7 @@
     "tags": {
       "addr:housenumber": "1",
       "addr:street": "Gewerbepark Chammünster Nord A",
-      "description": "Das ist eine Fleischerei. Dort wird Fleisch abgeholt. Zum Einkaufen ist sie eher nicht gemacht.",
+      "description": "Das ist eine Fleischerei.",
       "name": "Decker",
       "shop": "butcher"
     }
@@ -42442,7 +42445,7 @@
       "building": "yes",
       "check_date": "2018-02-04",
       "contact:phone": "+49 8024 6232",
-      "contact:website": "http://www.metzgerei-kraft.de/",
+      "contact:website": "https://www.metzgerei-kraft.de/",
       "name": "Metzgerei Kraft",
       "opening_hours": "Mo-Fr 07:00-18:00; We 07:00-14:00; Sa 07:00-12:00",
       "shop": "butcher",
