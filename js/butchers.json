@@ -19168,17 +19168,6 @@
   },
   {
     "type": "node",
-    "id": 2469794888,
-    "lat": 48.8805866,
-    "lon": 12.6315136,
-    "tags": {
-      "addr:street": "Niederalteicher Straße",
-      "name": "Metzgerei Krönauer",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 2471614663,
     "lat": 49.0473825,
     "lon": 11.793599,
