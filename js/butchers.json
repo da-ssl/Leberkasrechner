@@ -12269,8 +12269,10 @@
     "lat": 48.5923556,
     "lon": 11.3820816,
     "tags": {
-      "name": "Dischner",
-      "shop": "butcher"
+      "name": "Rupp",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
+      "shop": "butcher",
+      "wheelchair": "limited"
     }
   },
   {
