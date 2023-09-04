@@ -2009,6 +2009,7 @@
     "lat": 49.6215185,
     "lon": 10.8229455,
     "tags": {
+      "check_date": "2023-09-03",
       "name": "Gimberlein",
       "shop": "butcher"
     }
@@ -8425,16 +8426,6 @@
   },
   {
     "type": "node",
-    "id": 912552731,
-    "lat": 50.224499,
-    "lon": 11.134977,
-    "tags": {
-      "name": "Metzgerei Vietz",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 913251716,
     "lat": 48.3941591,
     "lon": 10.8226626,
@@ -10038,12 +10029,11 @@
   {
     "type": "node",
     "id": 1177212159,
-    "lat": 48.2435508,
-    "lon": 10.3634007,
+    "lat": 48.2438085,
+    "lon": 10.3633719,
     "tags": {
       "name": "Diem",
-      "shop": "butcher",
-      "wheelchair": "no"
+      "shop": "butcher"
     }
   },
   {
@@ -26653,6 +26643,7 @@
     "lon": 9.1708845,
     "tags": {
       "addr:street": "Ostring",
+      "check_date": "2023-09-03",
       "name": "Ostheimer",
       "shop": "butcher"
     }
@@ -33714,8 +33705,8 @@
   {
     "type": "node",
     "id": 9169908719,
-    "lat": 48.2437433,
-    "lon": 10.3671465,
+    "lat": 48.2437699,
+    "lon": 10.367218,
     "tags": {
       "addr:city": "Krumbach (Schwaben)",
       "addr:country": "DE",
