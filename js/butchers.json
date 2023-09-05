@@ -5357,7 +5357,7 @@
     "lat": 49.2747082,
     "lon": 11.4586861,
     "tags": {
-      "name": "Wittmann Metzgerei Catering",
+      "name": "Wittmanns Metzgerei",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -7733,9 +7733,16 @@
     "lat": 48.1115618,
     "lon": 11.4521695,
     "tags": {
+      "addr:city": "Planegg",
+      "addr:hamlet": "Martinsried",
+      "addr:housenumber": "20",
+      "addr:postcode": "82152",
+      "addr:street": "Lochhamer Strasse",
+      "cuisine": "regional",
       "name": "Metzgerei Brehm",
       "opening_hours": "Mo-We 06:00-15:00; Th,Fr 06:00-18:00; Sa 08:00-12:30",
-      "shop": "butcher"
+      "shop": "butcher",
+      "website": "https://www.metzgereibrehm.de/"
     }
   },
   {
@@ -29806,7 +29813,8 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date:opening_hours": "2022-08-17",
+      "check_date:opening_hours": "2023-09-04",
+      "level": "0",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:00-13:00; PH closed",
       "shop": "butcher",
@@ -36173,6 +36181,7 @@
       409931886,
       409931887,
       409931888,
+      11167344103,
       2906765034,
       409931883
     ],
@@ -58742,6 +58751,12 @@
     "id": 2906765034,
     "lat": 49.103866,
     "lon": 12.7192836
+  },
+  {
+    "type": "node",
+    "id": 11167344103,
+    "lat": 49.1038798,
+    "lon": 12.7191939
   },
   {
     "type": "node",
