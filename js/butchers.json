@@ -36002,6 +36002,18 @@
     }
   },
   {
+    "type": "node",
+    "id": 11170436919,
+    "lat": 48.2935782,
+    "lon": 11.9104934,
+    "tags": {
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "name": "Vinzenzmurr",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
