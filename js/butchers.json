@@ -17,6 +17,8 @@
     "lon": 12.4808091,
     "tags": {
       "created_by": "JOSM",
+      "name": "Metzgerei Wagner",
+      "opening_hours": "Tu,We 07:30-13:15; Mo off, Sa 07:00-12:00, Th,Fr 07:30-01:15,16:00-18:00",
       "shop": "butcher"
     }
   },
@@ -7046,18 +7048,18 @@
   {
     "type": "node",
     "id": 689509394,
-    "lat": 49.6108923,
-    "lon": 11.1284017,
+    "lat": 49.6108893,
+    "lon": 11.128413,
     "tags": {
       "addr:city": "Neunkirchen a. Brand",
       "addr:country": "DE",
       "addr:housenumber": "2",
       "addr:postcode": "91077",
       "addr:street": "Bahnhofstraße",
-      "amenity": "restaurant",
-      "name": "Metzgerei Schottdorf Bischof",
+      "name": "Zur Seku",
       "opening_hours": "Tu-Fr 08:00-18:00; Sa 08:00-13:00",
       "shop": "butcher",
+      "website": "https://www.zur-seku.de/metzgerei/",
       "wheelchair": "limited"
     }
   },
@@ -17468,6 +17470,7 @@
       "addr:housenumber": "4",
       "addr:postcode": "83278",
       "addr:street": "Höllgasse",
+      "check_date:opening_hours": "2023-09-06",
       "name": "Metzgerei Gassner",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "phone": "+49 861 9099541",
@@ -17815,27 +17818,6 @@
     "tags": {
       "name": "Metzgerei Ackermann",
       "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 2290810596,
-    "lat": 49.6109477,
-    "lon": 11.1286252,
-    "tags": {
-      "addr:city": "Neunkirchen a.Brand",
-      "addr:country": "DE",
-      "addr:housenumber": "2",
-      "addr:postcode": "91077",
-      "addr:street": "Bahnhofstraße",
-      "amenity": "restaurant",
-      "contact:phone": "+49 9134 5915",
-      "contact:website": "https://www.zur-seku.de/",
-      "name": "Zur Seku",
-      "opening_hours": "Tu-Fr 10:00-14:30,17:00-22:00; Su 10:00-15:00",
-      "shop": "butcher",
-      "tourism": "guest_house",
       "wheelchair": "no"
     }
   },
@@ -30624,6 +30606,16 @@
   },
   {
     "type": "node",
+    "id": 6935613823,
+    "lat": 47.8693279,
+    "lon": 12.650387,
+    "tags": {
+      "name": "Federvieh und Feines",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
     "id": 6937021295,
     "lat": 47.7058767,
     "lon": 11.936408,
@@ -30969,7 +30961,9 @@
     "lat": 48.0440822,
     "lon": 11.9668526,
     "tags": {
+      "addr:city": "Grafing bei München",
       "addr:housenumber": "9",
+      "addr:postcode": "85567",
       "addr:street": "Griesstraße",
       "name": "Maisch",
       "opening_hours": "Mo-Fr 08:00-12:30,14:45-18:00; We 08:00-12:30; Sa 07:30-12:00; PH off",
