@@ -19628,7 +19628,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 08:00-12:00",
       "phone": "(08131) 73 58 91",
       "shop": "butcher",
-      "website": "www.forche.de"
+      "website": "https://forche.de/"
     }
   },
   {
@@ -30167,7 +30167,10 @@
     "lat": 48.894483,
     "lon": 10.9320161,
     "tags": {
+      "name": "Metzgerei Struller",
+      "name:en": "Struller's Butcher Shop",
       "shop": "butcher",
+      "website": "https://metzgerei-weissenburg.de/filialen/",
       "wheelchair": "limited"
     }
   },
