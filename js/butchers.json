@@ -3510,8 +3510,8 @@
   {
     "type": "node",
     "id": 394930741,
-    "lat": 48.2640384,
-    "lon": 11.4357241,
+    "lat": 48.2640062,
+    "lon": 11.4357212,
     "tags": {
       "addr:city": "Dachau",
       "addr:housenumber": "33",
@@ -12026,17 +12026,6 @@
   },
   {
     "type": "node",
-    "id": 1429345069,
-    "lat": 49.4593756,
-    "lon": 11.0324868,
-    "tags": {
-      "name": "Hoinka",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 1430770929,
     "lat": 50.4015591,
     "lon": 10.017562,
@@ -20443,15 +20432,6 @@
   },
   {
     "type": "node",
-    "id": 2862320803,
-    "lat": 49.1753737,
-    "lon": 12.6810039,
-    "tags": {
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 2873519669,
     "lat": 49.2669623,
     "lon": 11.921676,
@@ -26112,8 +26092,8 @@
   {
     "type": "node",
     "id": 4621088137,
-    "lat": 49.4526894,
-    "lon": 11.0232099,
+    "lat": 49.452791,
+    "lon": 11.023116,
     "tags": {
       "addr:city": "Nürnberg",
       "addr:country": "DE",
@@ -28498,7 +28478,7 @@
     "tags": {
       "contact:phone": "+49 89 658612",
       "name": "Metzgerei Schnitzler",
-      "opening_hours": "Tu-Fr 07:30-13:30, 14:30-18:00; Sa 07:00-12:00",
+      "opening_hours": "Sa 07:00-12:00, Tu-Fr 07:30-13:30, Tu,Th,Fr 14:30-18:00",
       "operator": "Metzgerei",
       "shop": "butcher",
       "takeaway": "only",
@@ -31848,7 +31828,7 @@
       "addr:housenumber": "8",
       "addr:postcode": "81825",
       "addr:street": "Wasserburger Landstraße",
-      "name": "Vinzensmurr",
+      "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 07:00-20:00",
       "shop": "butcher",
       "wheelchair": "yes"
