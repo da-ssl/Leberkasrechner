@@ -14273,30 +14273,6 @@
   },
   {
     "type": "node",
-    "id": 1716818261,
-    "lat": 50.1074327,
-    "lon": 11.4578133,
-    "tags": {
-      "addr:city": "Kulmbach",
-      "addr:country": "DE",
-      "addr:housenumber": "7-8",
-      "addr:postcode": "95326",
-      "addr:street": "Marktplatz",
-      "check_date:opening_hours": "2022-07-25",
-      "complementary_currency": "Kulmbach 5er",
-      "diet:halal": "no",
-      "name": "Metzgerei Lauterbach",
-      "opening_hours": "Mo,Tu,Th,Fr 08:00-18:00; We 08:00-12:30; Sa 07:00-12:30",
-      "payment:credit_cards": "yes",
-      "payment:debit_cards": "yes",
-      "phone": "+49 9221 4452",
-      "shop": "butcher",
-      "website": "http://www.lauterbach-kulmbach.de",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1717077923,
     "lat": 50.3013546,
     "lon": 10.0189829,
