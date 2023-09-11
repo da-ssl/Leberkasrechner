@@ -11814,20 +11814,6 @@
   },
   {
     "type": "node",
-    "id": 1403059391,
-    "lat": 48.0659529,
-    "lon": 11.3835552,
-    "tags": {
-      "name": "Schnepf",
-      "opening_hours": "Mo-We 07:30-13:30; Th,Fr 07:30-18:00; Sa 07:30-12:30",
-      "phone": "+49 89 4313188",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-schnepf.de/",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
     "id": 1404410154,
     "lat": 48.4827136,
     "lon": 12.8999595,
@@ -14853,7 +14839,7 @@
       "addr:housenumber": "5",
       "addr:postcode": "85368",
       "addr:street": "Viehmarktstraße",
-      "check_date": "2023-07-01",
+      "check_date": "2023-09-10",
       "name": "Metzgerei Huber",
       "opening_hours": "Mo-We 7:30-18:00, Th 7:30-14:00, Fr 07:30-18:00, Sa 07:00-12:30",
       "phone": "+49 8761 7603-0",
@@ -23345,6 +23331,7 @@
       "addr:housenumber": "6",
       "addr:postcode": "93426",
       "addr:street": "Falkensteiner Straße",
+      "name": "Metzger/Imbiss",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -24635,7 +24622,7 @@
       "addr:housenumber": "M 1",
       "addr:postcode": "85368",
       "addr:street": "Degernpoint",
-      "check_date": "2023-06-06",
+      "check_date": "2023-09-10",
       "name": "Wasner",
       "shop": "butcher",
       "toilets:wheelchair": "no",
