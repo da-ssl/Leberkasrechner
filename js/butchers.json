@@ -1730,7 +1730,7 @@
       "phone": "+49 8061 4119",
       "shop": "butcher",
       "website": "http://www.metzgerei-loidl.de",
-      "wheelchair": "limited"
+      "wheelchair": "yes"
     }
   },
   {
@@ -3597,7 +3597,7 @@
     "lat": 49.5791679,
     "lon": 10.6016432,
     "tags": {
-      "lastcheck": "2015-12-23",
+      "check_date": "2023-09-11",
       "name": "Metzgerei Bauernladen Jacob",
       "opening_hours": "Mo-Fr 07:00-19:00, Sa 07:00-18:00; PH off",
       "shop": "butcher"
@@ -30811,7 +30811,8 @@
       "name": "Schoder",
       "opening_hours": "Mo,Tu,Th 08:00-12:30,15:00-18:15;We 08:00-12:30;Fr 08:00-18:15;Sa 08:00-12:15;PH off",
       "shop": "butcher",
-      "website": "https://www.metzgerei-schoder.de/index2.html"
+      "website": "https://www.metzgerei-schoder.de/index2.html",
+      "wheelchair": "no"
     }
   },
   {
