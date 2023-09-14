@@ -35955,6 +35955,19 @@
     }
   },
   {
+    "type": "node",
+    "id": 11188008139,
+    "lat": 49.7069172,
+    "lon": 9.3998753,
+    "tags": {
+      "butcher": "venison",
+      "name": "Wildbret",
+      "opening_hours": "\"nach tel. Absprache\"",
+      "phone": "+49 9371 759 5",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -41719,6 +41732,7 @@
       "addr:housenumber": "13",
       "addr:postcode": "96337",
       "addr:street": "Marktplatz",
+      "building": "yes",
       "name": "Metzgerei Stüber",
       "shop": "butcher"
     }
