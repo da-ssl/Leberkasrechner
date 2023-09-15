@@ -7275,11 +7275,16 @@
   {
     "type": "node",
     "id": 703979493,
-    "lat": 48.1347629,
-    "lon": 11.5758056,
+    "lat": 48.1347596,
+    "lon": 11.5758098,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:postcode": "80331",
+      "addr:street": "Viktualienmarkt",
       "check_date:opening_hours": "2023-03-21",
       "name": "Teltschik's Wurst-Standl",
+      "nohousenumber": "yes",
       "opening_hours": "Tu-Fr 09:00-18:00; Sa 08:00-15:00; Su,Mo off",
       "ref": "Abteilung V, Stand 3",
       "shop": "butcher",
@@ -32841,7 +32846,7 @@
       "addr:postcode": "84174",
       "addr:street": "Weiherstraße",
       "addr:suburb": "Weixerau",
-      "check_date": "2023-03-01",
+      "check_date": "2023-09-14",
       "name": "Metzgerei Haslacher",
       "operator": "Anton Haslacher",
       "shop": "butcher"
@@ -35964,6 +35969,22 @@
       "name": "Wildbret",
       "opening_hours": "\"nach tel. Absprache\"",
       "phone": "+49 9371 759 5",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11190233711,
+    "lat": 47.5702351,
+    "lon": 10.7012099,
+    "tags": {
+      "addr:city": "Füssen",
+      "addr:housenumber": "1",
+      "addr:postcode": "87629",
+      "addr:street": "Marienstraße",
+      "name": "Geflügelgeschäft Altun",
+      "opening_hours": "Fr 08:00-18:00; Sa 08:00-12:00",
+      "phone": "+49 8362 7773",
       "shop": "butcher"
     }
   },
