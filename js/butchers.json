@@ -17917,8 +17917,8 @@
   {
     "type": "node",
     "id": 2311079878,
-    "lat": 48.5784743,
-    "lon": 11.7984251,
+    "lat": 48.5786207,
+    "lon": 11.7984143,
     "tags": {
       "name": "Metzgerei L. Wittmann",
       "shop": "butcher"
@@ -35985,6 +35985,20 @@
       "name": "Geflügelgeschäft Altun",
       "opening_hours": "Fr 08:00-18:00; Sa 08:00-12:00",
       "phone": "+49 8362 7773",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11193800620,
+    "lat": 49.3600145,
+    "lon": 10.3350569,
+    "tags": {
+      "addr:city": "Geslau",
+      "addr:housenumber": "6",
+      "addr:place": "Kreuth",
+      "name": "Horn",
+      "opening_hours": "Fr 07:30-18:00; Sa 07:30-12:00",
       "shop": "butcher"
     }
   },
