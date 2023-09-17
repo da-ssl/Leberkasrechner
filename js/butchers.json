@@ -27955,6 +27955,21 @@
   },
   {
     "type": "node",
+    "id": 5594531922,
+    "lat": 49.4412758,
+    "lon": 11.0889307,
+    "tags": {
+      "addr:city": "Nürnberg",
+      "addr:country": "DE",
+      "addr:housenumber": "74",
+      "addr:postcode": "90459",
+      "addr:street": "Wölckernstraße",
+      "name": "Metzgerei Lemar",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
     "id": 5607567751,
     "lat": 47.5547845,
     "lon": 10.0214115,
@@ -35877,7 +35892,8 @@
     "tags": {
       "addr:housenumber": "11",
       "addr:street": "Goldberglstraße",
-      "name": "Hunger",
+      "name": "Metzgerei Hunger",
+      "opening_hours": "Mo, Tu, Th 06:00-13:00, 14:30-18:00, We",
       "phone": "+49 9971 30355",
       "shop": "butcher"
     }
