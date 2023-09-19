@@ -5412,8 +5412,8 @@
   {
     "type": "node",
     "id": 551960770,
-    "lat": 48.1780772,
-    "lon": 11.2549992,
+    "lat": 48.1780821,
+    "lon": 11.2549822,
     "tags": {
       "addr:city": "Fürstenfeldbruck",
       "addr:country": "DE",
@@ -33952,9 +33952,11 @@
   {
     "type": "node",
     "id": 9348160280,
-    "lat": 49.4382956,
-    "lon": 11.0483398,
+    "lat": 49.4383017,
+    "lon": 11.0483888,
     "tags": {
+      "addr:housenumber": "54",
+      "addr:street": "Kreutzerstraße",
       "name": "Metzgerei Mooser",
       "shop": "butcher"
     }
