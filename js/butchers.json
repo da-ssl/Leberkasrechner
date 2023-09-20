@@ -8326,6 +8326,8 @@
     "lon": 11.2810749,
     "tags": {
       "check_date": "2023-05-12",
+      "diet:halal": "no",
+      "diet:kosher": "no",
       "name": "Metzgerei Pristownik",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -15106,24 +15108,6 @@
       "name": "Metzgerei Kunkel",
       "opening_hours": "Mo-Fr 07:00-12:30, Tu,Th,Fr 14:30-17:30, Sa 07:00-12:00",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1819220277,
-    "lat": 50.1837621,
-    "lon": 10.2760658,
-    "tags": {
-      "addr:city": "Maßbach",
-      "addr:country": "DE",
-      "addr:housenumber": "8",
-      "addr:postcode": "97711",
-      "addr:street": "Poppenlauerer Straße",
-      "name": "Unger",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:00-13:00",
-      "operator": "Bernd Unger",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-unger-wetzhausen.de/"
     }
   },
   {
