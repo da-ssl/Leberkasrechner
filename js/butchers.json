@@ -4247,18 +4247,6 @@
   },
   {
     "type": "node",
-    "id": 440064209,
-    "lat": 49.8874108,
-    "lon": 10.9114742,
-    "tags": {
-      "name": "Grimmer",
-      "opening_hours": "Tu,We 07:30-12:30; Th 07:30-12:30,14:30-18:00; Fr 07:30-18:00; Sa 07:00-12:30; PH,Su,Mo off",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 441309893,
     "lat": 49.813581,
     "lon": 9.7655565,
@@ -12023,11 +12011,13 @@
     "lat": 50.4015591,
     "lon": 10.017562,
     "tags": {
+      "addr:street": "Bahnhofstraße",
       "contact:email": "info@metzgerei-gutermuth.de",
       "contact:phone": "+49 9772 1226",
       "contact:website": "https://www.metzgerei-gutermuth.de",
-      "name": "Gutermuth",
+      "name": "Zink",
       "opening_hours": "Mo-Fr 06:00-18:00; Sa 07:00-13:00",
+      "operator": "Zink",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -16296,17 +16286,6 @@
       "shop": "butcher",
       "website": "https://metzgerei-parzen.de",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 2017131921,
-    "lat": 49.5067888,
-    "lon": 11.283622,
-    "tags": {
-      "name": "Metzgerei Perl",
-      "shop": "butcher",
-      "wheelchair": "no"
     }
   },
   {
@@ -35729,12 +35708,16 @@
       "addr:housenumber": "6",
       "addr:postcode": "90574",
       "addr:street": "Gewerbestraße",
+      "contact:email": "info@fleischlust.com",
+      "contact:facebook": "https://www.facebook.com/MetzgereiSeefried/",
+      "contact:instagram": "https://www.instagram.com/naturmetzger.seefried/",
+      "contact:phone": "+49 9127 9548875",
+      "contact:pinterest": "https://www.pinterest.de/naturmetzger/",
+      "contact:website": "fleischlust.com",
       "name": "Seefried - Der Naturmetzger",
       "opening_hours": "Tu-Th 08:00-14:00, Fr 08:00-16:00",
       "operator": "Metzgerei Seefried GmbH",
-      "phone": "+49 9127 9548875",
-      "shop": "butcher",
-      "website": "fleischlust.com"
+      "shop": "butcher"
     }
   },
   {
@@ -40945,27 +40928,6 @@
       "shop": "butcher",
       "source": "http://www.hotel-gasthof-arnold.de/",
       "tourism": "hotel"
-    }
-  },
-  {
-    "type": "way",
-    "id": 237814303,
-    "nodes": [
-      2456808323,
-      2456808326,
-      2456808329,
-      2456808332,
-      2456808323
-    ],
-    "tags": {
-      "addr:city": "Gunzenhausen",
-      "addr:country": "DE",
-      "addr:housenumber": "16",
-      "addr:postcode": "91710",
-      "addr:street": "In der Stritt",
-      "building": "yes",
-      "name": "Metzgerei Rebelein",
-      "shop": "butcher"
     }
   },
   {
@@ -52756,30 +52718,6 @@
     "id": 2456486121,
     "lat": 49.1172924,
     "lon": 10.7551942
-  },
-  {
-    "type": "node",
-    "id": 2456808323,
-    "lat": 49.1254151,
-    "lon": 10.7583156
-  },
-  {
-    "type": "node",
-    "id": 2456808326,
-    "lat": 49.124902,
-    "lon": 10.7588864
-  },
-  {
-    "type": "node",
-    "id": 2456808329,
-    "lat": 49.1248,
-    "lon": 10.7586722
-  },
-  {
-    "type": "node",
-    "id": 2456808332,
-    "lat": 49.125313,
-    "lon": 10.7581013
   },
   {
     "type": "node",
