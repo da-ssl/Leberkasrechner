@@ -31161,8 +31161,8 @@
   {
     "type": "node",
     "id": 7433882885,
-    "lat": 49.3901746,
-    "lon": 10.9665137,
+    "lat": 49.3903071,
+    "lon": 10.966551,
     "tags": {
       "addr:housenumber": "38",
       "addr:postcode": "90547",
@@ -32824,7 +32824,7 @@
       "addr:postcode": "84174",
       "addr:street": "Weiherstraße",
       "addr:suburb": "Weixerau",
-      "check_date": "2023-09-14",
+      "check_date": "2023-09-20",
       "name": "Metzgerei Haslacher",
       "operator": "Anton Haslacher",
       "shop": "butcher"
@@ -35728,7 +35728,7 @@
     "tags": {
       "addr:housenumber": "3",
       "addr:street": "Wilhelm-Kellermann-Straße",
-      "name": "Magg",
+      "name": "Metzgerei Magg",
       "opening_hours": "Mo-Fr 7:30-13:30 und 15:00-18:00; Sa 7:00-12:00",
       "shop": "butcher"
     }
@@ -37163,6 +37163,28 @@
   },
   {
     "type": "way",
+    "id": 85659263,
+    "nodes": [
+      993798521,
+      993798362,
+      993798494,
+      993798511,
+      993798521
+    ],
+    "tags": {
+      "addr:city": "Gilching",
+      "addr:housenumber": "77",
+      "addr:postcode": "82205",
+      "addr:street": "Römerstraße",
+      "building": "yes",
+      "name": "Schmitt's Wurststadl",
+      "phone": "+49810526319",
+      "shop": "butcher",
+      "website": "https://wurststadl.de"
+    }
+  },
+  {
+    "type": "way",
     "id": 85674389,
     "nodes": [
       993925409,
@@ -37426,6 +37448,7 @@
     ],
     "tags": {
       "building": "yes",
+      "check_date": "2023-09-21",
       "name": "AFM",
       "shop": "butcher"
     }
@@ -48056,6 +48079,30 @@
     "id": 3805632549,
     "lat": 48.1005268,
     "lon": 11.2919177
+  },
+  {
+    "type": "node",
+    "id": 993798362,
+    "lat": 48.1126144,
+    "lon": 11.2939183
+  },
+  {
+    "type": "node",
+    "id": 993798494,
+    "lat": 48.1125402,
+    "lon": 11.2940072
+  },
+  {
+    "type": "node",
+    "id": 993798511,
+    "lat": 48.11245,
+    "lon": 11.2938384
+  },
+  {
+    "type": "node",
+    "id": 993798521,
+    "lat": 48.1125242,
+    "lon": 11.2937495
   },
   {
     "type": "node",
