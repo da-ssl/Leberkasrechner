@@ -9614,16 +9614,6 @@
   },
   {
     "type": "node",
-    "id": 1096401291,
-    "lat": 49.1264282,
-    "lon": 12.1292365,
-    "tags": {
-      "name": "Metzgerei Schild",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1101839547,
     "lat": 47.9838189,
     "lon": 11.7154573,
@@ -17605,6 +17595,7 @@
       "addr:postcode": "82541",
       "addr:street": "Hauptstraße",
       "name": "Metzgerei Altwirt Münsing",
+      "opening_hours": "Tu-Th 07:00-12:30; 14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30; Su,PH off",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -27281,14 +27272,16 @@
   {
     "type": "node",
     "id": 5251555988,
-    "lat": 48.0850944,
-    "lon": 11.4944903,
+    "lat": 48.0850506,
+    "lon": 11.4940707,
     "tags": {
       "addr:housenumber": "182",
       "addr:street": "Forstenrieder Allee",
       "name": "Wildstadl",
-      "opening_hours": "Mo-Fr 16:00-19:00; Sa 09:00-12:00",
-      "shop": "butcher"
+      "opening_hours": "Mo-Fr 15:00-18:00",
+      "shop": "butcher",
+      "url": "https://www.baysf.de/de/ueber-uns/standorte/forstbetriebe/muenchen.html",
+      "wheelchair": "limited"
     }
   },
   {
