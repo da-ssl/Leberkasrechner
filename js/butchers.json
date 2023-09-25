@@ -10676,6 +10676,8 @@
       "name": "Liebold",
       "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-13:00",
       "operator": "Dieter Liebold",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
       "phone": "+49 89 46 93 74",
       "shop": "butcher",
       "website": "https://www.metzgerei-liebold.de/",
@@ -36762,6 +36764,7 @@
       656223668,
       656223674,
       656223670,
+      11216212842,
       656223672
     ],
     "tags": {
@@ -53874,6 +53877,12 @@
     "id": 656223674,
     "lat": 49.4716901,
     "lon": 10.9413456
+  },
+  {
+    "type": "node",
+    "id": 11216212842,
+    "lat": 49.4715768,
+    "lon": 10.9413887
   },
   {
     "type": "node",
