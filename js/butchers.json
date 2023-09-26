@@ -1121,8 +1121,11 @@
       "addr:housenumber": "4",
       "addr:postcode": "97276",
       "addr:street": "Erlabrunner Straße",
+      "check_date:opening_hours": "2023-09-25",
       "name": "Metzgerei Holz",
       "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:30; Sa 07:00-12:30",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "no",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -21219,8 +21222,8 @@
   {
     "type": "node",
     "id": 3081649255,
-    "lat": 49.5480214,
-    "lon": 10.7176291,
+    "lat": 49.5482527,
+    "lon": 10.7175633,
     "tags": {
       "addr:city": "Emskirchen",
       "addr:housenumber": "27",
