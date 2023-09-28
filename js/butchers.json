@@ -8320,6 +8320,7 @@
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Metzgerei Pristownik",
+      "opening_hours": "Tu,Th,Fr 08:00-17:30; We 07:00-17:30; Sa 07:00-12:30; PH,Su off",
       "shop": "butcher",
       "wheelchair": "yes"
     }
