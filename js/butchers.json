@@ -7499,6 +7499,7 @@
       "addr:street": "Wiesentweg",
       "addr:suburb": "Muggendorf",
       "name": "Wehrfritz",
+      "phone": "+49 9196 1581",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -9226,7 +9227,7 @@
     "lon": 10.9888109,
     "tags": {
       "name": "Metzgerei L. Walk",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-10:00",
+      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -19439,9 +19440,14 @@
     "lat": 48.1481099,
     "lon": 11.4604365,
     "tags": {
-      "check_date": "2021-02-28",
-      "disused:shop": "convenience",
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "14",
+      "addr:postcode": "81543",
+      "addr:street": "Gleichmannstraße",
+      "contact:website": "https://metzgerei-boneberger.de/",
       "name": "boneberger",
+      "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su,PH off",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -24705,17 +24711,6 @@
   },
   {
     "type": "node",
-    "id": 4004115412,
-    "lat": 49.7743835,
-    "lon": 10.2830052,
-    "tags": {
-      "name": "Metzgerei Höhn",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 4004698800,
     "lat": 49.7956029,
     "lon": 10.3456126,
@@ -28910,21 +28905,6 @@
       "addr:postcode": "95213",
       "addr:street": "Anger",
       "name": "Krafft",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 6140790326,
-    "lat": 50.3307362,
-    "lon": 11.7089395,
-    "tags": {
-      "addr:city": "Naila",
-      "addr:country": "DE",
-      "addr:housenumber": "15",
-      "addr:postcode": "95119",
-      "addr:street": "Walchstraße",
-      "name": "Metzgerei Christoph Hagen",
       "shop": "butcher"
     }
   },
@@ -35998,6 +35978,15 @@
     }
   },
   {
+    "type": "node",
+    "id": 11224665985,
+    "lat": 47.9059839,
+    "lon": 11.5386463,
+    "tags": {
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -37006,30 +36995,6 @@
       "wheelchair": "limited",
       "wheelchair:description": "Stufe 10 cm;Über den Hintereingang (Hofseite) ist ebenerdiger Zugang möglich",
       "wheelchair:step_height": "10 cm"
-    }
-  },
-  {
-    "type": "way",
-    "id": 67602591,
-    "nodes": [
-      816442273,
-      816442293,
-      816442222,
-      816442283,
-      816442294,
-      816442250,
-      816442274,
-      816442273
-    ],
-    "tags": {
-      "addr:city": "Naila",
-      "addr:country": "DE",
-      "addr:housenumber": "7",
-      "addr:postcode": "95119",
-      "addr:street": "Kronacher Straße",
-      "building": "yes",
-      "name": "Metzgerei Schmidt",
-      "shop": "butcher"
     }
   },
   {
@@ -39508,6 +39473,7 @@
       1781296641
     ],
     "tags": {
+      "check_date": "2023-09-28",
       "fax": "+49 8051 64304",
       "name": "Feinkost Kunz GmbH",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30",
@@ -44878,6 +44844,25 @@
       "building": "yes",
       "name": "Hofmetzgerei Hesch",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
+    "id": 708594434,
+    "nodes": [
+      6658605842,
+      6658605835,
+      6658605838,
+      6658605841,
+      6658605840,
+      6658605839,
+      6658605842
+    ],
+    "tags": {
+      "building": "yes",
+      "name": "Metzgerei Höhn",
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -53464,6 +53449,42 @@
   },
   {
     "type": "node",
+    "id": 6658605835,
+    "lat": 49.7743455,
+    "lon": 10.2827997
+  },
+  {
+    "type": "node",
+    "id": 6658605838,
+    "lat": 49.7743696,
+    "lon": 10.2827999
+  },
+  {
+    "type": "node",
+    "id": 6658605839,
+    "lat": 49.7743333,
+    "lon": 10.2830109
+  },
+  {
+    "type": "node",
+    "id": 6658605840,
+    "lat": 49.7743878,
+    "lon": 10.2830113
+  },
+  {
+    "type": "node",
+    "id": 6658605841,
+    "lat": 49.7743886,
+    "lon": 10.2828001
+  },
+  {
+    "type": "node",
+    "id": 6658605842,
+    "lat": 49.7743341,
+    "lon": 10.2827996
+  },
+  {
+    "type": "node",
     "id": 1629456887,
     "lat": 49.5230982,
     "lon": 10.832779
@@ -60535,48 +60556,6 @@
     "id": 824541845,
     "lat": 50.3280954,
     "lon": 11.7065555
-  },
-  {
-    "type": "node",
-    "id": 816442222,
-    "lat": 50.3284977,
-    "lon": 11.7095144
-  },
-  {
-    "type": "node",
-    "id": 816442250,
-    "lat": 50.3284835,
-    "lon": 11.7093136
-  },
-  {
-    "type": "node",
-    "id": 816442273,
-    "lat": 50.3286111,
-    "lon": 11.7094215
-  },
-  {
-    "type": "node",
-    "id": 816442274,
-    "lat": 50.3285473,
-    "lon": 11.7092428
-  },
-  {
-    "type": "node",
-    "id": 816442283,
-    "lat": 50.3284605,
-    "lon": 11.7094023
-  },
-  {
-    "type": "node",
-    "id": 816442293,
-    "lat": 50.3285273,
-    "lon": 11.7094902
-  },
-  {
-    "type": "node",
-    "id": 816442294,
-    "lat": 50.3285003,
-    "lon": 11.7093621
   },
   {
     "type": "node",
