@@ -6048,18 +6048,19 @@
   {
     "type": "node",
     "id": 615621480,
-    "lat": 48.2045086,
-    "lon": 11.5633534,
+    "lat": 48.2044777,
+    "lon": 11.5634118,
     "tags": {
       "addr:city": "München",
+      "addr:country": "DE",
       "addr:housenumber": "415",
       "addr:postcode": "80935",
       "addr:street": "Schleißheimer Straße",
-      "email": "koller-hoelzl@t-online.de",
+      "contact:email": "koller-hoelzl@t-online.de",
+      "contact:website": "https://www.koller-hoelzl.de/",
       "name": "Koller & Hölzl",
       "opening_hours": "Mo-We 06:00-14:30; Sa 06:00-12:30; Th,Fr 06:00-16:00",
       "shop": "butcher",
-      "website": "https://www.koller-hoelzl.de/",
       "wheelchair": "yes"
     }
   },
@@ -15569,23 +15570,6 @@
   },
   {
     "type": "node",
-    "id": 1885214203,
-    "lat": 48.3805296,
-    "lon": 10.9201874,
-    "tags": {
-      "addr:city": "Augsburg",
-      "addr:country": "DE",
-      "addr:housenumber": "1",
-      "addr:postcode": "86165",
-      "addr:street": "Feuerhausstraße",
-      "name": "Metzgerei Steger",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-steger.de/",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 1887074109,
     "lat": 48.8375693,
     "lon": 10.4530579,
@@ -15600,9 +15584,16 @@
     "lat": 49.2219262,
     "lon": 12.543517,
     "tags": {
+      "addr:city": "Roding",
+      "addr:housenumber": "1",
+      "addr:postcode": "93426",
+      "addr:street": "Wirtsgasse",
+      "name": "Franz Brey",
+      "opening_hours": "Mo-We, Fr, 06:00-18:00, Th 06:00-13:00, Sa 06:00-12:00",
+      "phone": "+49 9461 1347",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "wheelchair": "limited"
+      "wheelchair": "no"
     }
   },
   {
