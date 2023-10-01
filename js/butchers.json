@@ -6148,6 +6148,11 @@
     "lat": 48.1829251,
     "lon": 11.5940049,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "80807",
+      "addr:street": "Alfred-Arndt-Straße",
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
@@ -11614,6 +11619,11 @@
     "lat": 48.1535604,
     "lon": 11.5848999,
     "tags": {
+      "addr:city": "München",
+      "addr:country": "DE",
+      "addr:housenumber": "71",
+      "addr:postcode": "80539",
+      "addr:street": "Kaulbachstraße",
       "name": "Metzgerei Forstmaier",
       "opening_hours": "Mo-Fr 07:00-13:30; Sa 08:00-12:30",
       "shop": "butcher",
@@ -19434,7 +19444,7 @@
       "addr:city": "München",
       "addr:country": "DE",
       "addr:housenumber": "14",
-      "addr:postcode": "81543",
+      "addr:postcode": "81241",
       "addr:street": "Gleichmannstraße",
       "contact:website": "https://metzgerei-boneberger.de/",
       "name": "boneberger",
@@ -31904,6 +31914,8 @@
       "addr:postcode": "93149",
       "addr:street": "Kellnergasse",
       "name": "Metzgerei Graml",
+      "opening_hours": "Tu-Th 07:30-14:00, Fr 07:30-18:00, Sa 07:00-12:00",
+      "phone": "+49 9436 8328",
       "shop": "butcher"
     }
   },
@@ -32775,7 +32787,7 @@
       "addr:housenumber": "7",
       "addr:postcode": "97688",
       "addr:street": "Garitzer Straße",
-      "check_date:opening_hours": "2021-11-21",
+      "check_date:opening_hours": "2023-09-30",
       "name": "Metzgerei Hirtle",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
       "phone": "+49 971 2694",
@@ -33208,22 +33220,6 @@
       "opening_hours:signed": "no",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 8836715706,
-    "lat": 49.7793058,
-    "lon": 11.1790221,
-    "tags": {
-      "addr:city": "Ebermannstadt",
-      "addr:housenumber": "3",
-      "addr:postcode": "91320",
-      "addr:street": "Feuersteinstraße",
-      "name": "Metzgerei Schatz",
-      "phone": "+49 9194 358",
-      "shop": "butcher",
-      "website": "https://metzgerei-schatz.de/"
     }
   },
   {
@@ -35974,6 +35970,20 @@
     "lat": 47.9059839,
     "lon": 11.5386463,
     "tags": {
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11228533465,
+    "lat": 49.2915997,
+    "lon": 12.4381827,
+    "tags": {
+      "addr:housenumber": "16",
+      "addr:street": "Hauptstraße",
+      "name": "Werner Biebl",
+      "opening_hours": "Mo-Fr 07:00-18:00, Sa 07:00-12:30",
+      "phone": "+49 9465 277",
       "shop": "butcher"
     }
   },
