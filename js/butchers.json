@@ -6075,6 +6075,7 @@
       "addr:housenumber": "24",
       "addr:postcode": "83052",
       "addr:street": "Göttinger Straße",
+      "check_date:opening_hours": "2023-10-01",
       "contact:email": "info@metzgerei-killer.de",
       "contact:facebook": "https://www.facebook.com/MetzgereiKiller/",
       "contact:phone": "+49 8062 5844",
@@ -26775,6 +26776,7 @@
     "lon": 12.9277164,
     "tags": {
       "name": "Metzgerei Braunsperger",
+      "opening_hours": "Tu-Th 07:30-14:00; Fr 07:30-12:30,14:30-18:00; Sa 07:30-12:00; PH,Su,Mo off",
       "shop": "butcher"
     }
   },
