@@ -4198,16 +4198,6 @@
   },
   {
     "type": "node",
-    "id": 439183119,
-    "lat": 47.7632743,
-    "lon": 11.38524,
-    "tags": {
-      "name": "Metzgerei Schmid",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 439208380,
     "lat": 49.8876048,
     "lon": 10.9105797,
@@ -12964,6 +12954,7 @@
     "lon": 11.0677205,
     "tags": {
       "name": "Metzgerei Partyservice Fruth",
+      "opening_hours": "Mo,We-Fr 08:00-18:00; Tu 08:00-14:00; Sa 08:00-13:00",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -43396,6 +43387,30 @@
   },
   {
     "type": "way",
+    "id": 403148127,
+    "nodes": [
+      4055270627,
+      4055270613,
+      4055270638,
+      5303597216,
+      4055270644,
+      4055270627
+    ],
+    "tags": {
+      "addr:city": "Freystadt",
+      "addr:housenumber": "60",
+      "addr:postcode": "92342",
+      "addr:street": "Marktplatz",
+      "building": "yes",
+      "contact:phone": "+49 9179 5593",
+      "contact:website": "https://www.metzger-walk.de/",
+      "name": "Metzgerei Walk",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
     "id": 406610528,
     "nodes": [
       4086636124,
@@ -54094,6 +54109,36 @@
     "id": 476920181,
     "lat": 49.410743,
     "lon": 11.1701361
+  },
+  {
+    "type": "node",
+    "id": 4055270613,
+    "lat": 49.1998397,
+    "lon": 11.3272767
+  },
+  {
+    "type": "node",
+    "id": 4055270627,
+    "lat": 49.1998782,
+    "lon": 11.327207
+  },
+  {
+    "type": "node",
+    "id": 4055270638,
+    "lat": 49.1999374,
+    "lon": 11.3274032
+  },
+  {
+    "type": "node",
+    "id": 4055270644,
+    "lat": 49.1999759,
+    "lon": 11.3273334
+  },
+  {
+    "type": "node",
+    "id": 5303597216,
+    "lat": 49.1999649,
+    "lon": 11.3273535
   },
   {
     "type": "node",
