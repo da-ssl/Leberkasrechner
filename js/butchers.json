@@ -19880,6 +19880,7 @@
     "lon": 12.1066349,
     "tags": {
       "name": "Wolf (Filiale)",
+      "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-18:00; Sa 07:00-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -30196,6 +30197,7 @@
       "addr:postcode": "84559",
       "addr:street": "Marktplatz",
       "name": "Pichlmeier",
+      "opening_hours": "Mo 07:00-12:15; Tu-Fr 07:00-12:15,14:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
       "website": "https://www.metzgerei-pichlmeier.de/filialen.htm"
     }
@@ -34387,6 +34389,7 @@
       "addr:postcode": "91522",
       "addr:street": "Karlstraße",
       "name": "Metzgerei Karl Holch",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
       "website": "http://www.metzgerei-holch.de/"
     }
