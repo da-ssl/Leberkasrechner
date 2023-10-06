@@ -14544,6 +14544,8 @@
     "lat": 49.4567089,
     "lon": 10.9890061,
     "tags": {
+      "name": "Metzgerei Jacob",
+      "opening_hours": "Mo-Fr 06:30-16:30; Sa 06:30-12:00",
       "shop": "butcher"
     }
   },
@@ -25252,16 +25254,6 @@
       "name": "Fischladl Traunstein",
       "shop": "butcher",
       "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 4324149881,
-    "lat": 47.6533517,
-    "lon": 10.0528319,
-    "tags": {
-      "name": "Metzgerei Kilger",
-      "shop": "butcher"
     }
   },
   {
@@ -39390,25 +39382,6 @@
   },
   {
     "type": "way",
-    "id": 169810315,
-    "nodes": [
-      1809707985,
-      1809707982,
-      1809707972,
-      1809707975,
-      1809707985
-    ],
-    "tags": {
-      "addr:city": "Monheim",
-      "addr:postcode": "86653",
-      "building": "yes",
-      "name": "Metzgerei Ziegelmüller",
-      "opening_hours": "Mo-Fr 08:00-13:00,14:00-18:00;Sa 07:30-12:00",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 169814560,
     "nodes": [
       1809725335,
@@ -50518,30 +50491,6 @@
     "id": 6703970978,
     "lat": 48.7843214,
     "lon": 10.8261694
-  },
-  {
-    "type": "node",
-    "id": 1809707972,
-    "lat": 48.8410211,
-    "lon": 10.8554784
-  },
-  {
-    "type": "node",
-    "id": 1809707975,
-    "lat": 48.8410693,
-    "lon": 10.8552945
-  },
-  {
-    "type": "node",
-    "id": 1809707982,
-    "lat": 48.8410977,
-    "lon": 10.8555203
-  },
-  {
-    "type": "node",
-    "id": 1809707985,
-    "lat": 48.8411458,
-    "lon": 10.8553363
   },
   {
     "type": "node",
