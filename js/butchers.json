@@ -3005,9 +3005,11 @@
     "lat": 48.1130174,
     "lon": 11.6260406,
     "tags": {
+      "check_date": "2023-10-06",
       "name": "Der Metzger Schmaus",
       "opening_hours": "Mo-We 08:00-13:00; Th 08:00-13:00, 16:00-18:00; Fr 08:00-13:00, 15:00-18:00; Sa 07:30-12:00",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -19987,6 +19989,7 @@
     "lat": 49.8870853,
     "lon": 10.313687,
     "tags": {
+      "name": "Hennes' Hofladen",
       "shop": "butcher"
     }
   },
@@ -21336,18 +21339,6 @@
     "lon": 10.8258148,
     "tags": {
       "name": "Feinkost Metzgerei Schmid",
-      "shop": "butcher",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3125410983,
-    "lat": 49.9787852,
-    "lon": 9.1459519,
-    "tags": {
-      "check_date": "2023-06-28",
-      "name": "Sandt",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -23314,8 +23305,9 @@
     "tags": {
       "addr:housenumber": "4",
       "addr:street": "Gottfried-Kölwel-Platz",
-      "name": "Metzgerei Mosner",
+      "name": "Metzgerei Leidl",
       "shop": "butcher",
+      "website": "https://www.metzgerei-leidl.de/",
       "wheelchair": "yes"
     }
   },
@@ -32653,6 +32645,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-10-06",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-14:00",
       "phone": "+49 89 931908",
@@ -35976,6 +35969,17 @@
       "opening_hours": "Mo-Fr 07:00-18:00, Sa 07:00-12:30",
       "phone": "+49 9465 277",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11243968302,
+    "lat": 48.1043234,
+    "lon": 11.6250661,
+    "tags": {
+      "name": "Südbayerische Fleischwaren",
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -49019,26 +49023,26 @@
   {
     "type": "node",
     "id": 2659966042,
-    "lat": 47.9883804,
-    "lon": 12.17592
+    "lat": 47.9883783,
+    "lon": 12.1759166
   },
   {
     "type": "node",
     "id": 2659966043,
-    "lat": 47.9883751,
-    "lon": 12.176147
+    "lat": 47.9883772,
+    "lon": 12.1761456
   },
   {
     "type": "node",
     "id": 2659966055,
-    "lat": 47.9885954,
-    "lon": 12.1761508
+    "lat": 47.9885944,
+    "lon": 12.176148
   },
   {
     "type": "node",
     "id": 2659966062,
-    "lat": 47.9885927,
-    "lon": 12.1759209
+    "lat": 47.9885956,
+    "lon": 12.175919
   },
   {
     "type": "node",
