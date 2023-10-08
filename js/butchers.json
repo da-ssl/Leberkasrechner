@@ -629,6 +629,7 @@
     "lat": 50.0325297,
     "lon": 10.5002118,
     "tags": {
+      "name:signed": "no",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -16499,6 +16500,7 @@
       "addr:postcode": "91522",
       "addr:street": "Türkenstraße",
       "name": "Weinländer",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-14:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -22092,6 +22094,7 @@
     "lat": 47.8808692,
     "lon": 12.3371215,
     "tags": {
+      "check_date:opening_hours": "2023-10-07",
       "name": "Gässner",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "shop": "butcher",
@@ -24147,7 +24150,7 @@
     "lon": 10.508249,
     "tags": {
       "name": "Metzgerei Häfner",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
+      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-13:00",
       "shop": "butcher",
       "wheelchair": "no"
     }
@@ -31888,8 +31891,8 @@
   {
     "type": "node",
     "id": 7900821879,
-    "lat": 49.1972288,
-    "lon": 12.2719223,
+    "lat": 49.197178,
+    "lon": 12.272102,
     "tags": {
       "addr:city": "Nittenau",
       "addr:housenumber": "4",
@@ -51435,8 +51438,8 @@
   {
     "type": "node",
     "id": 2559114027,
-    "lat": 48.5703345,
-    "lon": 11.2829752
+    "lat": 48.5703324,
+    "lon": 11.2829311
   },
   {
     "type": "node",
@@ -51447,8 +51450,8 @@
   {
     "type": "node",
     "id": 2559114048,
-    "lat": 48.5704472,
-    "lon": 11.2829629
+    "lat": 48.5704451,
+    "lon": 11.2829188
   },
   {
     "type": "node",
