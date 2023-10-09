@@ -6625,8 +6625,8 @@
   {
     "type": "node",
     "id": 653021183,
-    "lat": 48.6243559,
-    "lon": 12.3210025,
+    "lat": 48.6246737,
+    "lon": 12.3204339,
     "tags": {
       "name": "Pflügler",
       "shop": "butcher",
@@ -6744,7 +6744,7 @@
       "addr:housenumber": "40",
       "addr:postcode": "86163",
       "addr:street": "Höfatsstraße",
-      "name": "Metzgerei Hübl",
+      "name": "Metzgerei Boneberger",
       "opening_hours": "Mo-Th 07:30-13:30,14:30-18:00, Fr 07:30-18:00, Sa 07:00-12:00",
       "phone": "+49 821 6507700",
       "shop": "butcher",
@@ -11659,7 +11659,7 @@
       "addr:housenumber": "6",
       "addr:postcode": "85408",
       "addr:street": "Hauptstraße",
-      "check_date": "2023-01-21",
+      "check_date": "2023-10-08",
       "name": "Metzgerei Bauer",
       "phone": "+49 8766 261",
       "shop": "butcher",
@@ -14805,7 +14805,7 @@
     "tags": {
       "addr:housenumber": "2",
       "addr:street": "Bahnhofstraße",
-      "check_date": "2023-03-01",
+      "check_date": "2023-10-08",
       "name": "Metzgerei Rampf",
       "opening_hours": "Mo,Tu,Th,Fr 07:00-12:30,14:00-18:00; We 07:00-12:30; Sa 07:00-12:00",
       "shop": "butcher",
@@ -16528,6 +16528,7 @@
     "tags": {
       "email": "info@metzgerei-list.de",
       "name": "List",
+      "opening_hours": "Tu-Fr 07:00-13:00,14:30-18:00; Mo off; Sa 07:00-12:30",
       "phone": "+49 911 694531",
       "shop": "butcher",
       "website": "http://www.metzgerei-list.de/",
@@ -35983,6 +35984,17 @@
       "name": "Südbayerische Fleischwaren",
       "shop": "butcher",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11247678137,
+    "lat": 50.0815023,
+    "lon": 10.5701687,
+    "tags": {
+      "addr:postcode": "97486",
+      "name": "Metzgerei Stadler",
+      "shop": "butcher"
     }
   },
   {
