@@ -1062,6 +1062,7 @@
     "lat": 49.3118697,
     "lon": 10.5706171,
     "tags": {
+      "check_date:opening_hours": "2023-10-10",
       "name": "Metzgerei Walz",
       "opening_hours": "Mo-Fr 07:00-13:00,14:00-18:00; Sa 07:00-13:00",
       "shop": "butcher",
@@ -4407,7 +4408,7 @@
       "addr:postcode": "82487",
       "addr:street": "Verlegergasse",
       "name": "Metzgerei Sebastian Gerold",
-      "opening_hours": "Mo,Th,Fr 08:00-13:30,15:00-18:00; Tu,We 08:00-13:00; Sa 08:00-12:30",
+      "opening_hours": "Mo,Fr 08:30-13:00,15:00-17:30; Tu-Th 08:30-13:00; Sa 08:00-12:30",
       "phone": "+49 8822 3535",
       "shop": "butcher",
       "wheelchair": "no"
@@ -6625,8 +6626,8 @@
   {
     "type": "node",
     "id": 653021183,
-    "lat": 48.6246737,
-    "lon": 12.3204339,
+    "lat": 48.6245367,
+    "lon": 12.3205681,
     "tags": {
       "name": "Pflügler",
       "shop": "butcher",
@@ -35995,6 +35996,23 @@
       "addr:postcode": "97486",
       "name": "Metzgerei Stadler",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11253388371,
+    "lat": 49.0396989,
+    "lon": 12.5404791,
+    "tags": {
+      "addr:city": "Wiesenfelden",
+      "addr:housenumber": "9",
+      "addr:postcode": "94344",
+      "addr:street": "Oswaldstraße",
+      "name": "Metzgerei Rudolf Heindl",
+      "opening_hours": "Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00",
+      "phone": "+49 9966 330",
+      "shop": "butcher",
+      "website": "http://metzgerei-heindl-wiesenfelden.de/"
     }
   },
   {
