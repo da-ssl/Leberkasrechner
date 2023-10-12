@@ -1983,7 +1983,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-03-05",
+      "check_date": "2023-10-11",
       "diet:halal": "no",
       "diet:kosher": "no",
       "name": "Vinzenzmurr",
@@ -23049,17 +23049,6 @@
   },
   {
     "type": "node",
-    "id": 3562724593,
-    "lat": 49.1999749,
-    "lon": 12.5081178,
-    "tags": {
-      "name": "Metzger",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 3562795911,
     "lat": 49.1939679,
     "lon": 12.5137712,
@@ -35804,7 +35793,7 @@
       "addr:housenumber": "1",
       "addr:street": "Gewerbepark Chammünster Nord A",
       "description": "Das ist eine Fleischerei.",
-      "name": "Decker",
+      "name": "Decker, Anlieferung",
       "shop": "butcher"
     }
   },
@@ -35983,6 +35972,7 @@
     "lon": 11.6250661,
     "tags": {
       "name": "Südbayerische Fleischwaren",
+      "opening_hours": "Mo-Sa 08:00-20:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -36013,6 +36003,34 @@
       "phone": "+49 9966 330",
       "shop": "butcher",
       "website": "http://metzgerei-heindl-wiesenfelden.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11255259031,
+    "lat": 49.1914491,
+    "lon": 12.5176171,
+    "tags": {
+      "addr:city": "Roding",
+      "addr:housenumber": "1",
+      "addr:postcode": "93426",
+      "addr:street": "Schellererstraße",
+      "name": "REWE",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11255385759,
+    "lat": 49.2030686,
+    "lon": 12.5082536,
+    "tags": {
+      "addr:city": "Roding",
+      "addr:housenumber": "23",
+      "addr:postcode": "93426",
+      "addr:street": "Bahnhofstraße",
+      "operator": "Netto Marken-Discount",
+      "shop": "butcher"
     }
   },
   {
