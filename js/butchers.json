@@ -11058,14 +11058,13 @@
       "addr:housenumber": "52",
       "addr:postcode": "85354",
       "addr:street": "Untere Hauptstraße",
-      "check_date": "2023-01-17",
+      "check_date": "2023-10-13",
       "fax": "+49-8161-147209",
       "mapillary": "260382452864466",
       "name": "Stuhlberger",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off",
       "phone": "+49-8161-145601",
       "shop": "butcher",
-      "survey:date": "2022-01-09",
       "website": "http://www.metzgereistuhlberger.de/",
       "wheelchair": "limited"
     }
@@ -11340,13 +11339,12 @@
       "addr:housenumber": "29",
       "addr:postcode": "85354",
       "addr:street": "Obere Hauptstraße",
-      "check_date": "2023-10-01",
+      "check_date": "2023-10-13",
       "fax": "+49-8161-43619",
       "name": "Boneberger",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 06:30-13:00; Su,PH off",
       "phone": "+49-8161-5552",
       "shop": "butcher",
-      "survey:date": "2022-07-24",
       "website": "https://metzgerei-boneberger.de/",
       "wheelchair": "yes"
     }
@@ -16859,11 +16857,10 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2022-11-19",
+      "check_date": "2023-10-13",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Th 09:00-18:00; Fr 07:30-18:00; Sa 07:30-14:00",
       "shop": "butcher",
-      "survey:date": "2020-08-02",
       "website": "https://vinzenzmurr.de/metzgerei/freising/",
       "wheelchair": "yes"
     }
@@ -23054,17 +23051,6 @@
     "lon": 12.5137712,
     "tags": {
       "name": "Heuberger",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3562795983,
-    "lat": 49.1965234,
-    "lon": 12.5164809,
-    "tags": {
-      "abandoned:shop": "butcher",
-      "name": "Kirmer",
       "shop": "butcher"
     }
   },
@@ -36008,8 +35994,8 @@
   {
     "type": "node",
     "id": 11255259031,
-    "lat": 49.1914491,
-    "lon": 12.5176171,
+    "lat": 49.1914228,
+    "lon": 12.5175769,
     "tags": {
       "addr:city": "Roding",
       "addr:housenumber": "1",
