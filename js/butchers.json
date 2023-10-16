@@ -25533,26 +25533,6 @@
   },
   {
     "type": "node",
-    "id": 4434058984,
-    "lat": 49.4507652,
-    "lon": 11.0469681,
-    "tags": {
-      "addr:city": "Nürnberg",
-      "addr:country": "DE",
-      "addr:housenumber": "98",
-      "addr:postcode": "90429",
-      "addr:street": "Austraße",
-      "email": "info@duersch.de",
-      "entrance": "yes",
-      "name": "Metzgerei Dürsch",
-      "opening_hours": "Mo-Fr 08:00-13:00; Sa off",
-      "phone": "+49 911 262984",
-      "shop": "butcher",
-      "website": "https://duersch.de/"
-    }
-  },
-  {
-    "type": "node",
     "id": 4437843912,
     "lat": 49.0872474,
     "lon": 11.2179315,
@@ -27809,8 +27789,9 @@
     "lat": 49.6514859,
     "lon": 11.0044516,
     "tags": {
+      "addr:postcode": "91096",
       "name": "Metzgerei Polster",
-      "opening_hours": "Mo-Fr 08:00-12:30,14:00-18:00, Sa 07:00-12:00; PH off",
+      "opening_hours": "Th-Fr 08:00-12:30, 14:00-15:00",
       "shop": "butcher"
     }
   },
