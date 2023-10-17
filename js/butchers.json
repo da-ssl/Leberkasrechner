@@ -36001,6 +36001,22 @@
     }
   },
   {
+    "type": "node",
+    "id": 11266609321,
+    "lat": 47.9931537,
+    "lon": 12.0066881,
+    "tags": {
+      "addr:city": "Aßling",
+      "addr:housenumber": "9",
+      "addr:postcode": "85617",
+      "addr:street": "Kirchplatz",
+      "name": "Metzgerei Hilscher",
+      "shop": "butcher",
+      "website": "http://www.partyservice-hilscher.de/",
+      "wheelchair": "yes"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
