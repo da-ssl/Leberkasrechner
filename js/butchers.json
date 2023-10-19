@@ -36018,6 +36018,20 @@
     }
   },
   {
+    "type": "node",
+    "id": 11271534893,
+    "lat": 50.2187565,
+    "lon": 10.8219939,
+    "tags": {
+      "addr:country": "DE",
+      "name": "Fleischerei Helmut Brehm",
+      "phone": "+49 9567 1222",
+      "shop": "butcher",
+      "website": "https://www.metzgerei-brehm.de/",
+      "wheelchair": "no"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -39368,31 +39382,6 @@
       "name": "Klostermetzgerei",
       "shop": "butcher",
       "source": "survey"
-    }
-  },
-  {
-    "type": "way",
-    "id": 168349084,
-    "nodes": [
-      1796295639,
-      1796295646,
-      1796295643,
-      1796295638,
-      1796295639
-    ],
-    "tags": {
-      "addr:city": "Seßlach",
-      "addr:country": "DE",
-      "addr:housenumber": "8",
-      "addr:postcode": "96145",
-      "addr:street": "Dietersdorfer Straße",
-      "addr:suburb": "Dietersdorf",
-      "building": "yes",
-      "name": "Fleischerei Helmut Brehm",
-      "phone": "+49 9567 1222",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-brehm.de/",
-      "wheelchair": "no"
     }
   },
   {
@@ -42983,7 +42972,7 @@
       "addr:postcode": "85419",
       "addr:street": "Hauptstraße",
       "building": "apartments",
-      "check_date": "2023-08-11",
+      "check_date": "2023-10-18",
       "name": "Oberloher",
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 8764 216",
@@ -60016,30 +60005,6 @@
     "id": 2490047256,
     "lat": 50.102041,
     "lon": 10.8676452
-  },
-  {
-    "type": "node",
-    "id": 1796295638,
-    "lat": 50.2185959,
-    "lon": 10.8219336
-  },
-  {
-    "type": "node",
-    "id": 1796295639,
-    "lat": 50.2186547,
-    "lon": 10.8218229
-  },
-  {
-    "type": "node",
-    "id": 1796295643,
-    "lat": 50.2187283,
-    "lon": 10.8221058
-  },
-  {
-    "type": "node",
-    "id": 1796295646,
-    "lat": 50.2187869,
-    "lon": 10.8219918
   },
   {
     "type": "node",
