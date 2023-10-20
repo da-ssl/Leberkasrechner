@@ -8863,18 +8863,6 @@
   },
   {
     "type": "node",
-    "id": 976680305,
-    "lat": 48.0742295,
-    "lon": 11.2633437,
-    "tags": {
-      "name": "Hirschvogel",
-      "opening_hours": "Tu,Th,Fr 07:00-13:30,15:00-18:00; We 07:00-13:00; Sa 06:30-12:00",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 977466482,
     "lat": 47.7265719,
     "lon": 10.3146152,
@@ -22086,19 +22074,6 @@
     "tags": {
       "name": "Albrecht-Stocker",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3327195993,
-    "lat": 47.8808692,
-    "lon": 12.3371215,
-    "tags": {
-      "check_date:opening_hours": "2023-10-07",
-      "name": "Gässner",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
-      "shop": "butcher",
-      "wheelchair": "yes"
     }
   },
   {
