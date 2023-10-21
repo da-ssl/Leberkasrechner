@@ -2730,10 +2730,13 @@
   {
     "type": "node",
     "id": 354543352,
-    "lat": 49.3569246,
-    "lon": 11.2574317,
+    "lat": 49.3569913,
+    "lon": 11.2574284,
     "tags": {
-      "fixme": "Hausnummer 20a?",
+      "addr:city": "Schwarzenbruck",
+      "addr:housenumber": "26a",
+      "addr:postcode": "90592",
+      "addr:street": "Regensburger Straße",
       "name": "Metzgerei Walk",
       "shop": "butcher",
       "wheelchair": "no",
@@ -36007,6 +36010,22 @@
     }
   },
   {
+    "type": "node",
+    "id": 11278004517,
+    "lat": 48.3826818,
+    "lon": 10.9884283,
+    "tags": {
+      "addr:city": "Friedberg",
+      "addr:country": "DE",
+      "addr:housenumber": "17",
+      "addr:postcode": "86316",
+      "addr:street": "Oberer Dorfweg",
+      "addr:suburb": "Wulfertshausen",
+      "name": "Metzgerei Stocker",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -39609,28 +39628,6 @@
       "addr:street": "Rothmühlstraße",
       "building": "yes",
       "name": "Metzgerei Rückert",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 183492351,
-    "nodes": [
-      1938771596,
-      1938771606,
-      1938771607,
-      1938771598,
-      1938771596
-    ],
-    "tags": {
-      "addr:city": "Friedberg",
-      "addr:country": "DE",
-      "addr:housenumber": "17",
-      "addr:postcode": "86316",
-      "addr:street": "Oberer Dorfweg",
-      "addr:suburb": "Wulfertshausen",
-      "building": "yes",
-      "name": "Metzgerei Stocker",
       "shop": "butcher"
     }
   },
@@ -50800,30 +50797,6 @@
     "id": 3905394824,
     "lat": 48.3536178,
     "lon": 10.9533314
-  },
-  {
-    "type": "node",
-    "id": 1938771596,
-    "lat": 48.3826138,
-    "lon": 10.9882942
-  },
-  {
-    "type": "node",
-    "id": 1938771598,
-    "lat": 48.3826349,
-    "lon": 10.9884872
-  },
-  {
-    "type": "node",
-    "id": 1938771606,
-    "lat": 48.3827119,
-    "lon": 10.9882699
-  },
-  {
-    "type": "node",
-    "id": 1938771607,
-    "lat": 48.382733,
-    "lon": 10.9884628
   },
   {
     "type": "node",
