@@ -8009,10 +8009,14 @@
   {
     "type": "node",
     "id": 849505697,
-    "lat": 50.2496182,
-    "lon": 11.3859089,
+    "lat": 50.2495603,
+    "lon": 11.3858591,
     "tags": {
-      "name": "Metzgerei Kolb",
+      "contact:email": "info@metzgerei-mantel.de",
+      "contact:phone": "+49 9261 9507727",
+      "contact:website": "https://www.metzgerei-mantel.de/",
+      "name": "Metzgerei Mantel",
+      "opening_hours": "Tu 07:30-14:00; We-Fr 07:30-18:00; Sa 07:00-12:30; PH off",
       "shop": "butcher",
       "wheelchair": "limited"
     }
@@ -9242,8 +9246,14 @@
     "lat": 50.1989145,
     "lon": 11.3488226,
     "tags": {
+      "contact:phone": "+49 9261 530857",
       "name": "Metzgerei Räther",
       "opening_hours": "Mo-Fr 08:00-13:30,14:30-18:00; Sa 07:00-12:00; Su off",
+      "post_office": "post_partner",
+      "post_office:brand": "DHL Paketshop",
+      "post_office:service_provider": "Deutsche Post",
+      "post_office:service_provider:wikidata": "Q157645",
+      "ref:DeutschePost": "449",
       "shop": "butcher"
     }
   },
@@ -15439,10 +15449,11 @@
   {
     "type": "node",
     "id": 1860657170,
-    "lat": 50.1947873,
-    "lon": 11.268882,
+    "lat": 50.1947281,
+    "lon": 11.268888,
     "tags": {
       "name": "Metzgerei Bauer",
+      "opening_hours": "Mo 08:00-12:00; Tu-Th 08:00-12:30,14:30-18:00; Fr 08:00-18:00; Sa 07:30-12:00; PH off",
       "shop": "butcher"
     }
   },
@@ -22045,6 +22056,7 @@
     "lon": 10.6004666,
     "tags": {
       "name": "Metzgerei Brater",
+      "opening_hours": "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 07:00-13:00",
       "shop": "butcher"
     }
   },
