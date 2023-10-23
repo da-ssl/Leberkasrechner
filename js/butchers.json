@@ -8148,6 +8148,7 @@
     "lon": 10.8795976,
     "tags": {
       "name": "Metzgerei Jacob",
+      "opening_hours": "Mo-Fr 6:30-12:30, 14:30-18:00; Sa 6:30-13:00",
       "shop": "butcher"
     }
   },
@@ -10678,7 +10679,7 @@
       "addr:housenumber": "2",
       "addr:postcode": "85540",
       "addr:street": "Kirchenstraße",
-      "check_date:opening_hours": "2022-10-10",
+      "check_date:opening_hours": "2023-10-22",
       "contact:email": "info@metzgerei-liebold.de",
       "contact:fax": "+49 89 460 89 703",
       "name": "Liebold",
