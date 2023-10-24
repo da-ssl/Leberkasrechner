@@ -14863,7 +14863,7 @@
       "addr:housenumber": "68",
       "addr:postcode": "85368",
       "addr:street": "Münchener Straße",
-      "check_date": "2023-07-27",
+      "check_date": "2023-10-23",
       "name": "Metzgerei Keller - Filiale",
       "opening_hours": "Mo-Sa 08:00-19:00",
       "phone": "+49 8761 767650",
@@ -22348,6 +22348,7 @@
     "lon": 12.5902172,
     "tags": {
       "name": "Metzgerei Trinkberger",
+      "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-13:30; Sa 07:30-12:00",
       "operator": "Inh. Rudolf Trinkberger",
       "shop": "butcher",
       "wheelchair": "yes"
