@@ -4362,8 +4362,10 @@
       "brand:wikipedia": "de:Vinzenzmurr",
       "contact:phone": "+49 89 260 47 65",
       "contact:website": "https://vinzenzmurr.de/",
+      "indoor_seating": "yes",
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 09:00-19:00",
+      "outdoor_seating": "yes",
       "shop": "butcher",
       "smoking": "no",
       "toilets": "yes",
@@ -5759,6 +5761,21 @@
       "name": "Metzgerei Neugebauer",
       "shop": "butcher",
       "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 582623370,
+    "lat": 48.1831655,
+    "lon": 11.5326412,
+    "tags": {
+      "brand": "Vinzenzmurr",
+      "brand:wikidata": "Q2527361",
+      "cuisine": "regional",
+      "name": "Vinzenzmurr",
+      "opening_hours": "Mo-Sa 09:00-20:00",
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -12082,10 +12099,13 @@
     "lat": 49.4501072,
     "lon": 11.0544178,
     "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "Kernstraße",
       "check_date:opening_hours": "2023-08-14",
       "email": "info@metzgerei-marina.de",
       "name": "Marina",
       "opening_hours": "Mo-Fr 08:00-18:00, We 08:00-14:00, Sa 08:00-13:00",
+      "operator": "Reka Kulathungan",
       "phone": "+49 911 27474808",
       "shop": "butcher",
       "website": "https://metzgerei-marina.de",
@@ -16565,25 +16585,6 @@
       "phone": "+49 941 41410",
       "shop": "butcher",
       "website": "http://www.fleiwa-fleischwaren.de/cms/index.php?id=61",
-      "wheelchair": "yes"
-    }
-  },
-  {
-    "type": "node",
-    "id": 2080394363,
-    "lat": 49.0469995,
-    "lon": 12.1196291,
-    "tags": {
-      "addr:city": "Regensburg",
-      "addr:country": "DE",
-      "addr:housenumber": "22",
-      "addr:postcode": "93057",
-      "addr:street": "Berliner Straße",
-      "name": "FleiWa",
-      "opening_hours": "Tu-Sa 07:00-12:00; Th 07:00-12:00,14:30-18:00; Fr 07:00-18:00",
-      "phone": "+49 941 66492",
-      "shop": "butcher",
-      "website": "http://www.fleiwa-fleischwaren.de/cms/index.php?id=62",
       "wheelchair": "yes"
     }
   },
@@ -32241,7 +32242,7 @@
       "operator": "Landgasthof Euringer GmbH",
       "phone": "+49 8641 6510",
       "shop": "butcher",
-      "website": "https://www.landgasthof-euringer.de/metzgerei",
+      "website": "https://www.landgasthof-euringer.de/",
       "wheelchair": "yes"
     }
   },
@@ -33451,7 +33452,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2023-08-04",
+      "check_date": "2023-10-25",
       "name": "Vinzenzmurr",
       "shop": "butcher"
     }
@@ -36040,6 +36041,34 @@
     }
   },
   {
+    "type": "node",
+    "id": 11288653433,
+    "lat": 49.2884066,
+    "lon": 10.7887521,
+    "tags": {
+      "name": "Krug",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11288752712,
+    "lat": 48.5415248,
+    "lon": 11.6385467,
+    "tags": {
+      "addr:city": "Gundelshausen",
+      "addr:housenumber": "10",
+      "addr:postcode": "85301",
+      "addr:street": "Gundolfstraße",
+      "contact:facebook": "www.hofmetzgerei-waldinger.de",
+      "name": "Hofmetzgerei Waldinger",
+      "opening_hours": "Mo-Fr 07:00-13:30",
+      "operator": "Herbert Waldinger",
+      "phone": "+49 8444 919238",
+      "shop": "butcher"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -36612,28 +36641,6 @@
       "payment:credit_cards": "yes",
       "payment:debit_cards": "yes",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 47081590,
-    "nodes": [
-      600438799,
-      600438804,
-      600438810,
-      600438802,
-      600438799
-    ],
-    "tags": {
-      "addr:city": "Peiting",
-      "addr:country": "DE",
-      "addr:housenumber": "1",
-      "addr:postcode": "86971",
-      "addr:street": "Müllerstraße",
-      "building": "retail",
-      "name": "Rohrmoser",
-      "shop": "butcher",
-      "source": "bing"
     }
   },
   {
@@ -37812,38 +37819,6 @@
       "name": "Metzgerei Preuschl",
       "opening_hours": "Mo 07:00-12:30; Tu-Th 07:00-12:30,14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30",
       "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
-    "id": 114382302,
-    "nodes": [
-      1295827026,
-      1295827458,
-      1295826827,
-      1295827094,
-      1295827532,
-      1295826898,
-      1295827247,
-      1295827026
-    ],
-    "tags": {
-      "addr:city": "Regensburg",
-      "addr:country": "DE",
-      "addr:housenumber": "16",
-      "addr:postcode": "93057",
-      "addr:street": "Aussiger Straße",
-      "building": "commercial",
-      "building:levels": "2",
-      "fax": "+49 941 4616359",
-      "name": "Metzgerei Eschenwecker",
-      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:30",
-      "operator": "Anton Eschenwecker Fleischwaren KG, Regensburg",
-      "phone": "+49 941 40455",
-      "roof:levels": "1",
-      "roof:shape": "gabled",
-      "shop": "butcher",
-      "wheelchair": "yes"
     }
   },
   {
@@ -47580,30 +47555,6 @@
   },
   {
     "type": "node",
-    "id": 600438799,
-    "lat": 47.7972099,
-    "lon": 10.9229754
-  },
-  {
-    "type": "node",
-    "id": 600438802,
-    "lat": 47.7970808,
-    "lon": 10.9228533
-  },
-  {
-    "type": "node",
-    "id": 600438804,
-    "lat": 47.7972966,
-    "lon": 10.9227711
-  },
-  {
-    "type": "node",
-    "id": 600438810,
-    "lat": 47.7971675,
-    "lon": 10.9226491
-  },
-  {
-    "type": "node",
     "id": 1371270746,
     "lat": 47.7156368,
     "lon": 11.150501
@@ -56409,48 +56360,6 @@
     "id": 3953860821,
     "lat": 48.9850217,
     "lon": 12.1117968
-  },
-  {
-    "type": "node",
-    "id": 1295826827,
-    "lat": 49.0414701,
-    "lon": 12.1222744
-  },
-  {
-    "type": "node",
-    "id": 1295826898,
-    "lat": 49.0416281,
-    "lon": 12.1224583
-  },
-  {
-    "type": "node",
-    "id": 1295827026,
-    "lat": 49.0415131,
-    "lon": 12.1225593
-  },
-  {
-    "type": "node",
-    "id": 1295827094,
-    "lat": 49.0415627,
-    "lon": 12.1223188
-  },
-  {
-    "type": "node",
-    "id": 1295827247,
-    "lat": 49.0415424,
-    "lon": 12.1224172
-  },
-  {
-    "type": "node",
-    "id": 1295827458,
-    "lat": 49.0414205,
-    "lon": 12.1225149
-  },
-  {
-    "type": "node",
-    "id": 1295827532,
-    "lat": 49.0416484,
-    "lon": 12.1223599
   },
   {
     "type": "node",
