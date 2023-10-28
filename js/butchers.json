@@ -3164,7 +3164,7 @@
     "tags": {
       "addr:housenumber": "336",
       "addr:street": "Altstadt",
-      "check_date": "2023-06-11",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Brandl",
       "shop": "butcher",
       "wheelchair": "yes"
@@ -3197,7 +3197,7 @@
     "tags": {
       "addr:housenumber": "67",
       "addr:street": "Altstadt",
-      "check_date": "2023-06-11",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Stadler",
       "shop": "butcher",
       "wheelchair": "no"
@@ -16787,7 +16787,7 @@
     "tags": {
       "internet_access": "no",
       "name": "Metzgerei Ammon",
-      "opening_hours": "Mo,We-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Tu 07:30-13:00; Su Off",
+      "opening_hours": "Mo,We-Th 07:30-13:00,15:00-18:00; Fr 07:30-18:00; Sa 07:30-12:30; Tu 07:30-13:00; Su off",
       "payment:cash": "yes",
       "payment:credit_cards": "yes",
       "payment:debit_cards": "yes",
@@ -36065,6 +36065,16 @@
       "opening_hours": "Mo-Fr 07:00-13:30",
       "operator": "Herbert Waldinger",
       "phone": "+49 8444 919238",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11293652701,
+    "lat": 48.8282495,
+    "lon": 11.3158831,
+    "tags": {
+      "name": "Böhmfelder",
       "shop": "butcher"
     }
   },
