@@ -3831,7 +3831,7 @@
       "name": "Pleintinger",
       "organic": "yes",
       "shop": "butcher",
-      "website": "http://pleintinger.com"
+      "website": "https://pleintinger.com/"
     }
   },
   {
@@ -20552,7 +20552,7 @@
       "opening_hours": "Mo-Fr 07:00-12:30; Sa 07:00-12:00",
       "phone": "+49 8631 7955",
       "shop": "butcher",
-      "website": "http://metzgerei-hohenester.de"
+      "website": "https://metzgerei-hohenester.de/"
     }
   },
   {
@@ -23568,7 +23568,7 @@
       "operator": "Familien Wolf",
       "phone": "+49 9151 1500",
       "shop": "butcher",
-      "website": "http://www.michelmuehle.de/",
+      "website": "https://www.michelmuehle.de/",
       "wheelchair": "no"
     }
   },
@@ -40389,25 +40389,6 @@
   },
   {
     "type": "way",
-    "id": 210190115,
-    "nodes": [
-      2202955083,
-      2202955082,
-      2202955074,
-      2202955076,
-      2202955083
-    ],
-    "tags": {
-      "addr:housenumber": "10",
-      "addr:street": "Im Schlott",
-      "building": "commercial",
-      "name": "Beyer",
-      "shop": "butcher",
-      "website": "https://www.metzgerei-beyer.de/"
-    }
-  },
-  {
-    "type": "way",
     "id": 210286887,
     "nodes": [
       2203774867,
@@ -43269,6 +43250,7 @@
     "nodes": [
       3966529709,
       3966529663,
+      11297539147,
       3966529662,
       3966529706,
       3966529709
@@ -45176,7 +45158,7 @@
       "payment:mastercard": "yes",
       "phone": "+49 8171 649573",
       "shop": "butcher",
-      "website": "http://metzgerei-laenger.de/",
+      "website": "https://metzgerei-laenger.de/",
       "wheelchair": "yes"
     }
   },
@@ -52371,30 +52353,6 @@
   },
   {
     "type": "node",
-    "id": 2202955074,
-    "lat": 48.977607,
-    "lon": 11.4786577
-  },
-  {
-    "type": "node",
-    "id": 2202955076,
-    "lat": 48.9776427,
-    "lon": 11.4783977
-  },
-  {
-    "type": "node",
-    "id": 2202955082,
-    "lat": 48.9777561,
-    "lon": 11.4787052
-  },
-  {
-    "type": "node",
-    "id": 2202955083,
-    "lat": 48.9777918,
-    "lon": 11.4784452
-  },
-  {
-    "type": "node",
     "id": 3388243384,
     "lat": 49.0836939,
     "lon": 11.5201933
@@ -57522,6 +57480,12 @@
     "id": 3966529709,
     "lat": 49.0224209,
     "lon": 12.9876859
+  },
+  {
+    "type": "node",
+    "id": 11297539147,
+    "lat": 49.0222612,
+    "lon": 12.9876863
   },
   {
     "type": "node",
