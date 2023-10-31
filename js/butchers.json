@@ -7891,9 +7891,11 @@
     "lat": 49.2195263,
     "lon": 11.0259163,
     "tags": {
+      "addr:postcode": "91166",
       "name": "Metzgerei Böbel",
+      "opening_hours": "Tu,We 08:00-16:00; Th,Fr 10:00-18:00; Sa 08:00-16:00",
       "shop": "butcher",
-      "website": "https://www.umdiewurst.de/index_____.php"
+      "website": "https://www.umdiewurst.de/"
     }
   },
   {
@@ -36075,6 +36077,16 @@
     "lon": 11.3158831,
     "tags": {
       "name": "Böhmfelder",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11299685193,
+    "lat": 49.3057301,
+    "lon": 10.5680176,
+    "tags": {
+      "name": "Krug",
       "shop": "butcher"
     }
   },
