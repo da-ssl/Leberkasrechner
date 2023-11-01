@@ -7071,6 +7071,8 @@
       "addr:street": "Bahnhofstraße",
       "name": "Zur Seku",
       "opening_hours": "Tu-Fr 08:00-18:00; Sa 08:00-13:00",
+      "payment:credit_cards": "no",
+      "payment:debit_cards": "yes",
       "shop": "butcher",
       "website": "https://www.zur-seku.de/metzgerei/",
       "wheelchair": "limited"
@@ -21089,9 +21091,14 @@
     "lat": 50.2401611,
     "lon": 11.3420315,
     "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Richard-Wagner-Straße",
+      "check_date": "2023-10-27",
       "name": "Metzgerei Kraus",
-      "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:30",
-      "shop": "butcher"
+      "opening_hours": "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-12:30",
+      "shop": "butcher",
+      "website": "https://www.metzgereikraus.de/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -24517,9 +24524,15 @@
     "lat": 48.0014701,
     "lon": 11.3413633,
     "tags": {
+      "addr:city": "Starnberg",
+      "addr:housenumber": "7",
+      "addr:postcode": "82319",
+      "addr:street": "Hanfelder Straße",
+      "contact:phone": "+498151 2060",
       "name": "Metzgerei Scholler",
       "opening_hours": "Mo,We,Th 08:00-18:00; Tu 08:00-13:00; Fr 07:30-18:00; Sa 07:30-12:00; PH off",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -27133,7 +27146,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 06:30-12:00",
       "phone": "+49 8282 829643",
       "shop": "butcher",
-      "website": "http://www.metzgerei-leberl.de"
+      "website": "https://www.metzgerei-leberl.de/"
     }
   },
   {
@@ -39992,7 +40005,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:30-12:00",
       "phone": "+49 8281 4437",
       "shop": "butcher",
-      "website": "http://www.metzgerei-leberl.de/",
+      "website": "https://www.metzgerei-leberl.de/",
       "wheelchair": "yes"
     }
   },
@@ -43671,7 +43684,7 @@
       "building": "yes",
       "name": "Rotwildgehege Honold",
       "shop": "butcher",
-      "website": "http://www.wild2000.de/"
+      "website": "https://www.wild2000.de/"
     }
   },
   {
