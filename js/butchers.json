@@ -5773,7 +5773,7 @@
       "brand:wikidata": "Q2527361",
       "cuisine": "regional",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Sa 09:00-20:00",
+      "opening_hours": "Mo-Sa 09:00-20:00; Su off",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -11987,17 +11987,6 @@
   },
   {
     "type": "node",
-    "id": 1425553453,
-    "lat": 48.1460966,
-    "lon": 11.4648463,
-    "tags": {
-      "check_date": "2018-06-12",
-      "name": "Hakan's Metzgerei",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 1426275542,
     "lat": 49.4575367,
     "lon": 11.0362413,
@@ -16833,7 +16822,7 @@
       "opening_hours": "Mo,Tu,Th,Fr 07:00-12:30,14:30-18:00; We 07:00-12:30; Sa 07:30-12:30",
       "phone": "+49 8851 206",
       "shop": "butcher",
-      "website": "http://www.metzgerei-pfleger.de/",
+      "website": "https://www.metzgerei-pfleger.de/",
       "wheelchair": "yes"
     }
   },
@@ -26452,7 +26441,7 @@
       "payment:maestro": "yes",
       "phone": "+49 (0) 88 56 / 92 17-16",
       "shop": "butcher",
-      "website": "http://www.loisachtaler-bauernladen.de/",
+      "website": "https://www.loisachtaler-bauernladen.de/",
       "wheelchair": "yes"
     }
   },
@@ -27408,7 +27397,7 @@
       "payment:debit_cards": "no",
       "payment:electronic_purses": "no",
       "shop": "butcher",
-      "website": "http://www.loisachtaler-bauernladen.de/",
+      "website": "https://www.loisachtaler-bauernladen.de/",
       "wheelchair": "yes"
     }
   },
@@ -36100,6 +36089,19 @@
     "lon": 10.5680176,
     "tags": {
       "name": "Krug",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11308469984,
+    "lat": 48.1456773,
+    "lon": 11.4697172,
+    "tags": {
+      "halal": "yes",
+      "name": "My Meat",
+      "opening_hours": "Mo-Sa 09:00-19:00",
+      "phone": "+49 89 6008 7579",
       "shop": "butcher"
     }
   },
