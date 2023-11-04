@@ -12705,7 +12705,7 @@
       "opening_hours": "Mo 08:00-18:00; Tu 08:00-13:00; We-Th 08:00-18:00; Fr 07:00-17:00; Sa 07:00-11:00; PH off",
       "operator": "Brodinger Josef",
       "shop": "butcher",
-      "website": "http://www.metzgerei-brodinger.de/"
+      "website": "https://www.metzgerei-brodinger.de/"
     }
   },
   {
@@ -13258,7 +13258,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off",
       "phone": "+49 9407 957080",
       "shop": "butcher",
-      "website": "http://www.metzgerei-dirigl.com",
+      "website": "https://www.metzgerei-dirigl.com/",
       "wheelchair": "yes"
     }
   },
@@ -23140,7 +23140,7 @@
       "phone": "+49 855 5619",
       "shop": "butcher",
       "tourism": "hotel",
-      "website": "http://www.bayerwald-ilztalwirt.de"
+      "website": "https://www.bayerwald-ilztalwirt.de/"
     }
   },
   {
@@ -23973,7 +23973,7 @@
       "phone": "+49-9922-802540",
       "shop": "butcher",
       "source:opening_hours": "website",
-      "website": "http://www.metzgerei-schreder.de"
+      "website": "https://www.metzgerei-schreder.de/"
     }
   },
   {
@@ -24324,7 +24324,7 @@
       "name": "Metzgerei Mader",
       "phone": "+49 8223 2348",
       "shop": "butcher",
-      "website": "http://www.metzgerei-mader.de/"
+      "website": "https://www.metzgerei-mader.de/"
     }
   },
   {
@@ -24608,7 +24608,7 @@
       "opening_hours": "Mo,Tu,Th,Fr 07:30-13:00,14:30-18:00; We,Sa 07:30-12:00",
       "phone": "+49 8223 1227",
       "shop": "butcher",
-      "website": "http://www.metzgerei-mader.de/"
+      "website": "https://www.metzgerei-mader.de/"
     }
   },
   {
@@ -31407,7 +31407,7 @@
       "opening_hours": "Tu-Th 10:30-13:00; Fr 10:30-14:00; PH off",
       "phone": "+49 9407 94910",
       "shop": "butcher",
-      "website": "http://metzgerei-stierstorfer.de/"
+      "website": "https://metzgerei-stierstorfer.de/"
     }
   },
   {
@@ -31632,7 +31632,7 @@
       "phone": "+49 171 778 04 02",
       "shop": "butcher",
       "vending_machine:sales": "yes",
-      "website": "http://www.metzgereibedarf.online"
+      "website": "https://www.metzgereibedarf.online/"
     }
   },
   {
@@ -35981,7 +35981,8 @@
       "addr:postcode": "93426",
       "addr:street": "Schellererstraße",
       "name": "REWE",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -35995,7 +35996,8 @@
       "addr:postcode": "93426",
       "addr:street": "Bahnhofstraße",
       "operator": "Netto Marken-Discount",
-      "shop": "butcher"
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -39337,7 +39339,7 @@
       "operator": "Schönacher Frischgeflügel GmbH & CO. KG",
       "phone": "+49 841 71431",
       "shop": "butcher",
-      "website": "http://gefluegel-ingolstadt.de/"
+      "website": "https://gefluegel-ingolstadt.de/"
     }
   },
   {
@@ -40516,7 +40518,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00",
       "operator": "Metzgerei Bauer GmbH",
       "shop": "butcher",
-      "website": "http://metzgerei-bauer.de"
+      "website": "https://metzgerei-bauer.de/"
     }
   },
   {
