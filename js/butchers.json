@@ -4688,9 +4688,17 @@
     "lat": 50.2886077,
     "lon": 11.0302586,
     "tags": {
-      "name": "Metzgerei Streng",
+      "addr:city": "Rödental",
+      "addr:housenumber": "4",
+      "addr:postcode": "96472",
+      "addr:street": "Bahnhofsplatz",
+      "addr:suburb": "Oeslau",
+      "name": "Fleischerei Streng",
+      "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su,PH off",
+      "phone": "+49 9563 72360",
       "shop": "butcher",
       "toilets:wheelchair": "no",
+      "website": "https://www.streng-roedental.de/fleischerei/",
       "wheelchair": "limited"
     }
   },
@@ -8560,7 +8568,7 @@
       "opening_hours": "Tu,Th 08:00-12:00,14:00-18:00; We 08:00-12:00; Fr 07:00-18:00; Sa 07:00-12:00",
       "operator": "Piehler M. u. H. GdbR",
       "shop": "butcher",
-      "website": "http://piehlerhof.de/"
+      "website": "https://www.piehlerhof.de/"
     }
   },
   {
@@ -13396,7 +13404,7 @@
       "contact:phone": "+49 9166 258",
       "name": "Landmetzgerei Moosmeier",
       "shop": "butcher",
-      "website": "http://www.metzgerei-moosmeier.de/"
+      "website": "https://www.metzgerei-moosmeier.de/"
     }
   },
   {
@@ -14519,7 +14527,7 @@
       "phone": "+49 9421 33111",
       "ref": "B16",
       "shop": "butcher",
-      "website": "http://www.naber-straubing.de/"
+      "website": "https://www.naber-straubing.de/"
     }
   },
   {
@@ -14734,7 +14742,7 @@
     "lat": 48.4491821,
     "lon": 12.1065783,
     "tags": {
-      "check_date": "2023-04-20",
+      "check_date": "2023-11-04",
       "name": "Stadler",
       "shop": "butcher"
     }
@@ -15093,7 +15101,7 @@
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
       "name": "Vinzenzmurr",
-      "opening_hours": "Mo-Fr 08:30-18:00; Sa 07:30-14:00",
+      "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-13:00",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -18241,7 +18249,7 @@
       "opening_hours": "Mo-Th 07:00-12:30, 14:00-18:00; Fr 07:00-18:00; Sa 07:00-12:00",
       "phone": "+49 9482 2152",
       "shop": "butcher",
-      "website": "http://www.metzgerei-zankl.de/"
+      "website": "https://metzgerei-zankl.de/"
     }
   },
   {
@@ -18646,7 +18654,7 @@
       "addr:housenumber": "38",
       "addr:street": "Poststraße",
       "name": "Magg",
-      "opening_hours": "Mo-Th 07:30-15:00; Fr 07:00-18:00; Sa 07:00-12:30",
+      "opening_hours": "Tu-Th 07:30-16:00; Su,Mo off; Fr 07:00-18:00; Sa 07:00-12:30",
       "shop": "butcher",
       "wheelchair": "yes"
     }
@@ -25516,7 +25524,7 @@
       "name": "Metzgerei Dorsch",
       "phone": "+49 9721 299394",
       "shop": "butcher",
-      "website": "http://www.metzgerei-dorsch.de/"
+      "website": "https://www.metzgerei-dorsch.de/"
     }
   },
   {
@@ -29377,7 +29385,7 @@
       "contact:phone": "+49 9104 861 815",
       "name": "Hofmetzgerei Vogel",
       "shop": "butcher",
-      "website": "http://www.hofmetzgerei-vogel.de"
+      "website": "https://www.hofmetzgerei-vogel.de/"
     }
   },
   {
@@ -35967,7 +35975,7 @@
       "opening_hours": "Mo-We 06:00-15:00, Th, Sa 06:00-12:30, Fr 06:00-18:00",
       "phone": "+49 9966 330",
       "shop": "butcher",
-      "website": "http://metzgerei-heindl-wiesenfelden.de/"
+      "website": "https://www.metzgerei-heindl-wiesenfelden.de/"
     }
   },
   {
