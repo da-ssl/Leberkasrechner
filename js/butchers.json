@@ -2984,8 +2984,8 @@
   {
     "type": "node",
     "id": 366558227,
-    "lat": 48.0614423,
-    "lon": 12.232781,
+    "lat": 48.0614281,
+    "lon": 12.2327137,
     "tags": {
       "email": "info@metzgereimaurer.de",
       "fax": "+49 8071 94406",
@@ -3777,8 +3777,9 @@
       "diet:kosher": "no",
       "name": "Wölfel",
       "opening_hours": "Mo-Tu 07:00-13:00; Mo-Tu 14:30-18:00; We 07:00-12:30; Th-Fr 07:00-18:00; Sa 07:00-12:00",
+      "phone": "+49 9284 / 384",
       "shop": "butcher",
-      "website": "https.www.metzgerei-woelfel.de",
+      "website": "https://www.metzgerei-woelfel.de/",
       "wheelchair": "yes"
     }
   },
@@ -25442,7 +25443,7 @@
     "tags": {
       "name": "Orschler",
       "shop": "butcher",
-      "website": "http://www.metzgerei-fritz-orschler.de/"
+      "website": "https://www.metzgerei-fritz-orschler.de/"
     }
   },
   {
@@ -27911,8 +27912,8 @@
   {
     "type": "node",
     "id": 5635623675,
-    "lat": 48.0619452,
-    "lon": 12.2328223,
+    "lat": 48.0619523,
+    "lon": 12.2328542,
     "tags": {
       "addr:city": "Wasserburg am Inn",
       "addr:housenumber": "20",
@@ -30874,7 +30875,7 @@
       "opening_hours": "Mo-Tu 07:30-12:30,14:00-18:00; We 07:30-12:30; Th 07:30-12:30,14:00-18:00; Fr 07:00-18:30; Sa 07:00-13:00",
       "phone": "+49 6024 1667",
       "shop": "butcher",
-      "website": "http://www.metzgereifreund.com/"
+      "website": "https://www.metzgereifreund.com/"
     }
   },
   {
@@ -32369,7 +32370,7 @@
       "opening_hours": "Mo-Fr 07:30-13:00, Mo,Th,Fr 14:30-18:00, Sa 07:00-12:30; PH off",
       "phone": "+49 6021 421322",
       "shop": "butcher",
-      "website": "http://www.metzgerei-gumbel.de"
+      "website": "https://www.metzgerei-gumbel.de/"
     }
   },
   {
