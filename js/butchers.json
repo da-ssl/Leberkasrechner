@@ -12843,9 +12843,13 @@
     "lat": 49.7111289,
     "lon": 11.1729843,
     "tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Dorfstraße",
       "name": "Metzgerei Spindler",
+      "phone": "+49 9199 405",
       "shop": "butcher",
       "toilets:wheelchair": "no",
+      "website": "https://metzgerei-spindler.de/",
       "wheelchair": "no"
     }
   },
@@ -12970,7 +12974,7 @@
       "name": "Metzgerei Maucher",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-13:00",
       "shop": "butcher",
-      "website": "http://www.metzgerei-maucher.de/",
+      "website": "https://www.metzgerei-maucher.de/",
       "wheelchair": "yes"
     }
   },
@@ -18307,7 +18311,7 @@
       "name": "Metzgerei & Imbiss Markus Murr",
       "shop": "butcher",
       "short_name": "Murr",
-      "website": "http://www.metzgerei-murr.de"
+      "website": "https://www.metzgerei-murr.de/"
     }
   },
   {
@@ -26647,7 +26651,7 @@
       "cuisine": "kebab",
       "indoor_seating": "yes",
       "name": "Döner Bank",
-      "opening_hours": "Mo-Th 10:30-22:00; Fr,Sa 10:30-22:00,00:00-05:00",
+      "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-05:00,00:00-05:00",
       "outdoor_seating": "no",
       "shop": "butcher",
       "takeaway": "yes",
@@ -35311,9 +35315,10 @@
   {
     "type": "node",
     "id": 10867410705,
-    "lat": 49.1485952,
-    "lon": 11.2182586,
+    "lat": 49.1487031,
+    "lon": 11.2183196,
     "tags": {
+      "description": "Hofladen, Abholung von frisch Geschlachtetem",
       "name": "Paul Hauselt",
       "opening_hours": "Sa 09:30-12:00",
       "phone": "+4991741308",
@@ -36114,6 +36119,20 @@
       "opening_hours": "Mo-Sa 09:00-19:00",
       "phone": "+49 89 6008 7579",
       "shop": "butcher"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11329429516,
+    "lat": 49.4493476,
+    "lon": 10.4680825,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Hauptstraße",
+      "name": "Metzgerei Weinländer",
+      "phone": "+49 9844 978887",
+      "shop": "butcher",
+      "website": "https://www.weinlaender.de/"
     }
   },
   {
@@ -41213,7 +41232,7 @@
       "opening_hours": "Mo,Tu 07:00-15:00; We-Fr 07:00-18:00; Sa 07:00-13:30",
       "operator": "Markt-Metzger AK GmbH",
       "shop": "butcher",
-      "website": "http://www.klobeck-metzgerei.de/"
+      "website": "https://www.klobeck-metzgerei.de/"
     }
   },
   {
