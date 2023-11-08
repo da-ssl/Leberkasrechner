@@ -20468,6 +20468,7 @@
       "addr:postcode": "91126",
       "addr:street": "Rother Straße",
       "name": "Metzgerei Krug",
+      "opening_hours": "Mo-Sa 06:00-20:00",
       "phone": "+49 9122 8872740",
       "shop": "butcher",
       "website": "https://metzgerei-ansbach-gunzenhausen.de/metzgerei-rednitzhembach/",
@@ -27129,7 +27130,7 @@
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 07:30-12:00",
       "phone": "+49 8671 28 02",
       "shop": "butcher",
-      "website": "http://www.metzgerei-magg.de"
+      "website": "https://www.metzgerei-magg.de/"
     }
   },
   {
@@ -40157,7 +40158,7 @@
       "opening_hours": "Mo-Fr 08:00-18:00; We 08:00-13:00; Sa 08:00-12:30",
       "phone": "+49 8051 9656990",
       "shop": "butcher",
-      "website": "http://www.alter-wirt-bernau.de/metzgerei-stolz-bernau/",
+      "website": "https://www.alter-wirt-bernau.de/metzgerei-stolz-bernau/",
       "wheelchair": "no"
     }
   },
@@ -42931,6 +42932,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-11-07",
       "indoor": "room",
       "layer": "-1",
       "level": "-1",
