@@ -4938,7 +4938,7 @@
       "opening_hours": "Mo-Th 07:00-14:00; Fr 07:00-18:00; Sa 07:00-13:00",
       "phone": "+49 921 65207",
       "shop": "butcher",
-      "website": "http://www.metzger-gareiss.de/",
+      "website": "https://www.metzger-gareiss.de/",
       "wheelchair": "no"
     }
   },
@@ -5966,7 +5966,7 @@
       "phone": "+49 9208 5089",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "website": "http://www.metzgerei-duenkel.de",
+      "website": "https://metzgerei-duenkel.de/",
       "wheelchair": "yes"
     }
   },
@@ -10476,7 +10476,7 @@
       "opening_hours": "Mo 07:00-13:00; Tu-Fr 07:00-18:00; Sa 07:00-12:30",
       "phone": "+49 911 732455",
       "shop": "butcher",
-      "website": "http://www.metzgerei-popp.de/index2.html",
+      "website": "https://www.metzgerei-popp.de/index2.html",
       "wheelchair": "no"
     }
   },
@@ -19499,7 +19499,7 @@
       "name": "Metzgerei Sellerer Schuster",
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
       "shop": "butcher",
-      "website": "http://www.ideenmetzger.de"
+      "website": "https://www.ideenmetzger.de/"
     }
   },
   {
@@ -25572,7 +25572,7 @@
       "phone": "+49 9227 7061",
       "shop": "butcher",
       "tourism": "hotel",
-      "website": "http://marktschorgast.de/index.php?id=299"
+      "website": "https://marktschorgast.de/index.php?id=299"
     }
   },
   {
