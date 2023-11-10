@@ -10884,7 +10884,7 @@
       "addr:street": "Marktplatz",
       "name": "Metzgerei und Partyservice Asen",
       "shop": "butcher",
-      "website": "http://www.metzgerei-asen.de"
+      "website": "https://www.metzgerei-asen.de/"
     }
   },
   {
@@ -14182,7 +14182,7 @@
       "addr:housenumber": "7",
       "addr:street": "Friedrich-Ebert-Straße",
       "name": "Zur blauen Glocke",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:30",
+      "opening_hours": "Tu-Th 07:30-14:00, 16:00-18:00; Fr 07:30-18:00, Sa 07:00-12:30; PH off",
       "shop": "butcher"
     }
   },
@@ -26237,7 +26237,7 @@
       "name": "Metzgerei Gassner",
       "opening_hours": "Mo-Sa 07:00-20:00; PH off",
       "shop": "butcher",
-      "website": "www.metzgereigassner.de"
+      "website": "https://www.metzgereigassner.de/"
     }
   },
   {
@@ -26249,7 +26249,7 @@
       "name": "Metzgerei Gassner",
       "opening_hours": "Mo-Fr 07:30-13:00; Sa 07:30-12:00; PH off",
       "shop": "butcher",
-      "website": "www.metzgereigassner.de"
+      "website": "https://www.metzgereigassner.de/"
     }
   },
   {
@@ -27220,7 +27220,7 @@
       "phone": "+49 9633 91357",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "website": "http://www.partyservice-haertl.de",
+      "website": "https://www.partyservice-haertl.de/",
       "wheelchair": "yes"
     }
   },
@@ -27678,7 +27678,7 @@
       "phone": "+49 8571 2561",
       "shop": "butcher",
       "start_date": "2017-06-01",
-      "website": "http://www.metzgerei-feyrer.de",
+      "website": "https://www.metzgerei-feyrer.de/",
       "wheelchair": "yes"
     }
   },
@@ -30886,15 +30886,15 @@
   {
     "type": "node",
     "id": 7289316464,
-    "lat": 49.0300827,
-    "lon": 10.9722863,
+    "lat": 49.0300698,
+    "lon": 10.9722801,
     "tags": {
       "addr:city": "Weißenburg i. Bay.",
       "addr:housenumber": "2",
       "addr:postcode": "91781",
       "addr:street": "Judengasse",
       "name": "Metzgerei Wöhrlein",
-      "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-12:00",
+      "opening_hours": "Tu-Fr 07:30-18:00; Sa 07:30-12:00; PH off",
       "operator": "Friedrich Wörlein GmbH & Co. KG",
       "phone": "+499141 1266",
       "shop": "butcher",
@@ -32706,7 +32706,7 @@
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:00-12:30",
       "phone": "+49838180780810",
       "shop": "butcher",
-      "website": "http://www.metzgerei-giray.de/"
+      "website": "https://www.metzgerei-giray.de/"
     }
   },
   {
@@ -35600,7 +35600,7 @@
       "addr:housenumber": "4a",
       "addr:postcode": "85354",
       "addr:street": "General-von-Nagel-Straße",
-      "check_date": "2023-07-01",
+      "check_date": "2023-11-09",
       "email": "info@beefroom61.de",
       "name": "Kathi's Beefshop",
       "opening_hours": "Fr 11:00-18:00; Sa 09:00-14:00",
@@ -41908,23 +41908,6 @@
   },
   {
     "type": "way",
-    "id": 287925260,
-    "nodes": [
-      2914825227,
-      2914825247,
-      2914825243,
-      2914825225,
-      2914825227
-    ],
-    "tags": {
-      "addr:housenumber": "2",
-      "addr:street": "Judengasse",
-      "building": "yes",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 289678534,
     "nodes": [
       2932290201,
@@ -44784,7 +44767,7 @@
       "name": "Metzgerei Grillmeier",
       "phone": "+49 9633 2541",
       "shop": "butcher",
-      "website": "http://www.metzgerei-grillmeier.de",
+      "website": "https://www.metzgerei-grillmeier.de/",
       "wheelchair": "yes"
     }
   },
@@ -51959,30 +51942,6 @@
     "id": 2932290302,
     "lat": 48.9224779,
     "lon": 11.0335793
-  },
-  {
-    "type": "node",
-    "id": 2914825225,
-    "lat": 49.029991,
-    "lon": 10.9723867
-  },
-  {
-    "type": "node",
-    "id": 2914825227,
-    "lat": 49.0300057,
-    "lon": 10.9722392
-  },
-  {
-    "type": "node",
-    "id": 2914825243,
-    "lat": 49.0300955,
-    "lon": 10.9724385
-  },
-  {
-    "type": "node",
-    "id": 2914825247,
-    "lat": 49.0301095,
-    "lon": 10.9722675
   },
   {
     "type": "node",
