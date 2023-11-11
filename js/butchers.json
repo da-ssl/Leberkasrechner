@@ -3549,7 +3549,7 @@
       "opening_hours": "Mo 07:30-13:30; Tu-Fr 07:30-18:00; Sa 07:30-12:30",
       "phone": "+49 8232 78190",
       "shop": "butcher",
-      "website": "http://www.metzgerei-naumann.de",
+      "website": "https://www.metzgerei-naumann.de/",
       "wheelchair": "no"
     }
   },
@@ -17758,7 +17758,7 @@
       "addr:street": "Seeweg",
       "name": "Metzgerei Otto Bachhuber",
       "shop": "butcher",
-      "website": "http://www.gastwirtschaft-bachhuber.de/"
+      "website": "https://www.gastwirtschaft-bachhuber.de/"
     }
   },
   {
@@ -19125,7 +19125,7 @@
     "tags": {
       "addr:housenumber": "7",
       "addr:street": "Kleiner Platz",
-      "check_date": "2023-08-16",
+      "check_date": "2023-11-09",
       "fax": "+49 8122 9567054",
       "name": "Boneberger",
       "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
@@ -21562,7 +21562,7 @@
       "opening_hours": "Mo-Fr 06:30-18:00;Sa 06:30-14:00",
       "phone": "+49821516365",
       "shop": "butcher",
-      "website": "http://www.metzgerei-kranzfelder.de",
+      "website": "https://www.metzgerei-kranzfelder.de/",
       "wheelchair": "yes"
     }
   },
@@ -24710,7 +24710,7 @@
       "name": "Englhard",
       "opening_hours": "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 08:00-12:30",
       "shop": "butcher",
-      "website": "http://www.metzgerei-englhard.de/",
+      "website": "https://www.metzgerei-englhard.de/",
       "wheelchair": "yes"
     }
   },
@@ -40717,7 +40717,7 @@
       "name": "Macher",
       "opening_hours": "Mo 06:00-13:00; Tu-Fr 06:00-18:00; Sa 06:00-12:00",
       "shop": "butcher",
-      "website": "metzgerei-macher.de/"
+      "website": "https://metzgerei-macher.de/"
     }
   },
   {
@@ -41260,7 +41260,7 @@
       "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-13:00",
       "phone": "+49 9777 573",
       "shop": "butcher",
-      "website": "http://www.rhoen-beef.de/"
+      "website": "https://www.rhoen-beef.de/"
     }
   },
   {
