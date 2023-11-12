@@ -250,7 +250,7 @@
       "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-12:30; PH off",
       "phone": "+49 6022 6877523",
       "shop": "butcher",
-      "website": "http://www.metzgerei-schuessler.de",
+      "website": "https://metzgerei-schuessler.de/",
       "wheelchair": "limited"
     }
   },
@@ -566,7 +566,7 @@
       "opening_hours": "Mo-Sa 07:30-13:00, Mo,Tu,Th,Fr 14:00-18:00; PH off",
       "phone": "+49 6028 6731",
       "shop": "butcher",
-      "website": "http://wildhaeusle.de/",
+      "website": "https://wildhaeusle.de/",
       "wheelchair": "no"
     }
   },
@@ -2037,7 +2037,7 @@
       "phone": "+49 9372 5334",
       "shop": "butcher",
       "toilets:wheelchair": "no",
-      "website": "http://www.metzgerei-schuessler.de",
+      "website": "https://metzgerei-schuessler.de/",
       "wheelchair": "limited",
       "wheelchair:description": "Erreichbarkeit von Straße, 2 Stufen"
     }
@@ -2526,7 +2526,7 @@
       "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00; PH off",
       "phone": "+49 9371 3170",
       "shop": "butcher",
-      "website": "http://www.metzgerei-druckmiller.de/",
+      "website": "https://metzgerei-druckmiller.de/",
       "wheelchair": "no"
     }
   },
@@ -27095,7 +27095,7 @@
       "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-12:00",
       "phone": "+49 8771 3112",
       "shop": "butcher",
-      "website": "http://www.baumann-metzgerei.de/"
+      "website": "https://www.baumann-metzgerei.de/"
     }
   },
   {
@@ -37127,27 +37127,6 @@
   },
   {
     "type": "way",
-    "id": 68579170,
-    "nodes": [
-      824541845,
-      824541815,
-      824541742,
-      824541704,
-      824541845
-    ],
-    "tags": {
-      "addr:city": "Naila",
-      "addr:country": "DE",
-      "addr:housenumber": "37",
-      "addr:postcode": "95119",
-      "addr:street": "Kronacher Straße",
-      "building": "yes",
-      "name": "Metzgerei Lipinski",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "way",
     "id": 70536801,
     "nodes": [
       841795023,
@@ -43068,7 +43047,7 @@
       "operator": "Lothar Kammerl",
       "phone": "+49 9962 550",
       "shop": "butcher",
-      "website": "http://www.metzgerei-kammerl.de/"
+      "website": "https://www.metzgerei-kammerl.de/"
     }
   },
   {
@@ -60402,30 +60381,6 @@
     "id": 2661593685,
     "lat": 50.278864,
     "lon": 11.7412492
-  },
-  {
-    "type": "node",
-    "id": 824541704,
-    "lat": 50.3280162,
-    "lon": 11.7066414
-  },
-  {
-    "type": "node",
-    "id": 824541742,
-    "lat": 50.3281104,
-    "lon": 11.7068547
-  },
-  {
-    "type": "node",
-    "id": 824541815,
-    "lat": 50.3281896,
-    "lon": 11.7067689
-  },
-  {
-    "type": "node",
-    "id": 824541845,
-    "lat": 50.3280954,
-    "lon": 11.7065555
   },
   {
     "type": "node",
