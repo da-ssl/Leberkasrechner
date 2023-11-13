@@ -5688,7 +5688,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
-      "check_date": "2018-05-10",
+      "check_date": "2023-11-12",
       "contact:phone": "+49 89 884277",
       "contact:website": "https://vinzenzmurr.de/",
       "name": "Vinzenzmurr",
@@ -22028,6 +22028,7 @@
       "addr:housenumber": "9",
       "addr:postcode": "93047",
       "addr:street": "Fischmarkt",
+      "check_date": "2023-11-12",
       "email": "info@metzgerei-kain.de",
       "name": "Metzgerei Kain",
       "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-13:00",
@@ -24885,9 +24886,13 @@
     "lat": 49.6269319,
     "lon": 10.9247086,
     "tags": {
+      "check_date:opening_hours": "2023-11-13",
       "name": "Metzgerei Seeberger",
       "opening_hours": "Mo-Sa 07:00-20:00",
-      "shop": "butcher"
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "butcher",
+      "wheelchair": "yes"
     }
   },
   {
@@ -30059,6 +30064,7 @@
     "lat": 49.0254145,
     "lon": 12.0975204,
     "tags": {
+      "check_date": "2023-11-12",
       "name": "Meier Fleisch und Wurstwaren",
       "opening_hours": "Mo-Tu, Th-Fr 08:00-18:00; We 08:00-13:00; Sa 08:00-12:30",
       "phone": "+49 941 84347",
