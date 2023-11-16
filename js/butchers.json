@@ -4590,20 +4590,6 @@
   },
   {
     "type": "node",
-    "id": 459806579,
-    "lat": 49.9000826,
-    "lon": 10.8893142,
-    "tags": {
-      "check_date": "2022-05-26",
-      "level": "0",
-      "name": "Helmut Fischer",
-      "opening_hours": "Mo,We 07:00-12:30, Tu,Th,Fr 07:00-12:30, Tu-Fr 14:00-18:00, Sa 07:00-13:00; PH,Su off",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
     "id": 459834191,
     "lat": 49.479889,
     "lon": 11.1979191,
@@ -14324,6 +14310,7 @@
       "addr:street": "Rennweg",
       "check_date": "2023-01-19",
       "name": "Metzgerei Mayer",
+      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:30-12:00",
       "phone": "+49-871-63857",
       "shop": "butcher",
       "wheelchair": "no"
@@ -29796,8 +29783,8 @@
   {
     "type": "node",
     "id": 6418520182,
-    "lat": 48.1363854,
-    "lon": 11.5474355,
+    "lat": 48.1368273,
+    "lon": 11.5476779,
     "tags": {
       "addr:city": "München",
       "addr:country": "DE",
@@ -29812,7 +29799,8 @@
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Sa 09:30-20:00; Su,PH off",
       "shop": "butcher",
-      "source": "https://www.xn--forum-schwanthalerhhe-zec.de/shop/vinzenzmurr/"
+      "source": "https://www.xn--forum-schwanthalerhhe-zec.de/shop/vinzenzmurr/",
+      "wheelchair": "yes"
     }
   },
   {
@@ -36163,6 +36151,20 @@
     }
   },
   {
+    "type": "node",
+    "id": 11350775600,
+    "lat": 48.0412503,
+    "lon": 10.4895955,
+    "tags": {
+      "addr:city": "Mindelheim",
+      "addr:housenumber": "42",
+      "addr:street": "Kaufbeurer Straße",
+      "name": "Metzgerei Natterer",
+      "shop": "butcher",
+      "wheelchair": "yes"
+    }
+  },
+  {
     "type": "way",
     "id": 24203901,
     "nodes": [
@@ -38332,27 +38334,6 @@
       "opening_hours": "Fr 08:30-16:00; Sa 08:30-13:00",
       "shop": "butcher",
       "source": "aerial imagery, Bing"
-    }
-  },
-  {
-    "type": "way",
-    "id": 130148781,
-    "nodes": [
-      1434420944,
-      1434420897,
-      1434421095,
-      1434421143,
-      9980355680,
-      1434420944
-    ],
-    "tags": {
-      "addr:city": "Mindelheim",
-      "addr:housenumber": "42",
-      "addr:street": "Kaufbeurer Straße",
-      "building": "yes",
-      "name": "Metzgerei Natterer",
-      "shop": "butcher",
-      "wheelchair": "yes"
     }
   },
   {
@@ -47258,24 +47239,6 @@
   },
   {
     "type": "node",
-    "id": 1434420897,
-    "lat": 48.0408994,
-    "lon": 10.4896167
-  },
-  {
-    "type": "node",
-    "id": 1434420944,
-    "lat": 48.0409662,
-    "lon": 10.4898356
-  },
-  {
-    "type": "node",
-    "id": 9980355680,
-    "lat": 48.0411604,
-    "lon": 10.4897029
-  },
-  {
-    "type": "node",
     "id": 8274478789,
     "lat": 47.9913924,
     "lon": 10.7350351
@@ -47321,18 +47284,6 @@
     "id": 2153990465,
     "lat": 47.9960735,
     "lon": 10.777363
-  },
-  {
-    "type": "node",
-    "id": 1434421095,
-    "lat": 48.0412396,
-    "lon": 10.4893843
-  },
-  {
-    "type": "node",
-    "id": 1434421143,
-    "lat": 48.0413064,
-    "lon": 10.4896032
   },
   {
     "type": "node",
