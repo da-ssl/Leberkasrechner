@@ -2843,6 +2843,7 @@
       "brand": "Vinzenzmurr",
       "brand:wikidata": "Q2527361",
       "brand:wikipedia": "de:Vinzenzmurr",
+      "check_date:opening_hours": "2023-11-16",
       "contact:phone": "+49 89 260 45 27",
       "contact:website": "https://vinzenzmurr.de/",
       "name": "Vinzenzmurr",
@@ -11010,8 +11011,9 @@
       "addr:housenumber": "39",
       "addr:postcode": "90419",
       "addr:street": "Kirchenweg",
+      "check_date": "2023-11-15",
       "name": "Metzgerei Meyer",
-      "opening_hours": "Tu,Th,Fr 08:00-18:00; Mo,We 08:00-14:00; Sa 07:00-12:30",
+      "opening_hours": "Tu-Fr 08:00-18:00; Sa 07:00-12:30; Su,Mo,PH off",
       "shop": "butcher",
       "website": "https://metzgerei-meyer.de",
       "wheelchair": "yes"
@@ -36162,6 +36164,23 @@
       "name": "Metzgerei Natterer",
       "shop": "butcher",
       "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11356726911,
+    "lat": 49.6384491,
+    "lon": 10.1173849,
+    "tags": {
+      "addr:city": "Gnodstadt",
+      "addr:housenumber": "6",
+      "addr:postcode": "97340",
+      "addr:street": "Wassergasse",
+      "name": "Metzgerei Rögele",
+      "opening_hours": "Mo-Th 08:00-12:00; Tu,Th 14:30-18:00; Fr 07:30-18:00; Sa 07:00-12:30; Su,PH off",
+      "phone": "+4993328666",
+      "shop": "butcher",
+      "website": "https://metzgerei-uffenheim-marktbreit-sickershausen.de/metzgerei-gnodstadt/"
     }
   },
   {
