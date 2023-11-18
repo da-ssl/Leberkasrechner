@@ -2303,16 +2303,6 @@
   },
   {
     "type": "node",
-    "id": 324325595,
-    "lat": 49.9633493,
-    "lon": 9.60085,
-    "tags": {
-      "name": "Metzgerei Christ",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 324760137,
     "lat": 49.779815,
     "lon": 11.1866171,
@@ -10439,8 +10429,8 @@
       "addr:housenumber": "10",
       "addr:postcode": "87700",
       "addr:street": "Zangmeisterstraße",
+      "check_date": "2023-11-17",
       "contact:phone": "+49 8331 944430",
-      "lastcheck": "2017-08-14",
       "name": "Metzgerei Greiff",
       "opening_hours": "Mo-Th 08:00-18:00; Fr 07:30-18:00; Sa 07:00-13:00",
       "shop": "butcher"
@@ -13151,8 +13141,8 @@
   {
     "type": "node",
     "id": 1569835878,
-    "lat": 49.8564688,
-    "lon": 10.6898866,
+    "lat": 49.8564694,
+    "lon": 10.6899015,
     "tags": {
       "name": "Metzgerei Bernhilde Scharf",
       "shop": "butcher"
@@ -14312,7 +14302,7 @@
       "addr:street": "Rennweg",
       "check_date": "2023-01-19",
       "name": "Metzgerei Mayer",
-      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:30-12:00",
+      "opening_hours": "Mo-Fr 06:30-18:00; Sa 07:30-12:00; PH off",
       "phone": "+49-871-63857",
       "shop": "butcher",
       "wheelchair": "no"
@@ -22659,6 +22649,7 @@
     "lat": 47.9882439,
     "lon": 10.1738372,
     "tags": {
+      "check_date": "2023-11-17",
       "name": "Kleiber",
       "shop": "butcher"
     }
