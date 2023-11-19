@@ -10336,8 +10336,8 @@
   {
     "type": "node",
     "id": 1222241335,
-    "lat": 48.3524587,
-    "lon": 13.3164408,
+    "lat": 48.3524635,
+    "lon": 13.3164177,
     "tags": {
       "name": "Schönbauer",
       "shop": "butcher"
@@ -11676,7 +11676,7 @@
       "addr:housenumber": "6",
       "addr:postcode": "85408",
       "addr:street": "Hauptstraße",
-      "check_date": "2023-10-08",
+      "check_date": "2023-11-18",
       "name": "Metzgerei Bauer",
       "phone": "+49 8766 261",
       "shop": "butcher",
@@ -34914,17 +34914,6 @@
       "name": "Schämanns",
       "opening_hours": "Mo 07:30-14:00; Tu-Fr 07:30-18:00; Sa 07:30-12:00",
       "operator": "Ludwig Schämann",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 10090279772,
-    "lat": 48.1238788,
-    "lon": 11.5414573,
-    "tags": {
-      "level": "0",
-      "name": "Sendlinger Metzgerei",
       "shop": "butcher"
     }
   },
