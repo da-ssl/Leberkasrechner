@@ -10480,8 +10480,6 @@
     "lat": 50.0578027,
     "lon": 11.6280877,
     "tags": {
-      "addr:housenumber": "9",
-      "addr:street": "Himmelkroner Weg",
       "name": "Hausmetzgerei-Hofladen Bräutigam",
       "shop": "butcher"
     }
@@ -14656,8 +14654,8 @@
   {
     "type": "node",
     "id": 1755243421,
-    "lat": 48.372089,
-    "lon": 10.8621159,
+    "lat": 48.3721219,
+    "lon": 10.8621231,
     "tags": {
       "addr:city": "Augsburg",
       "addr:country": "DE",
@@ -33144,7 +33142,7 @@
       "addr:street": "Oberer Stadtplatz",
       "email": "info@metzgerei-steinleitner.de",
       "name": "Metzgerei Steinleitner",
-      "opening_hours": "Mo 08:00-13:00; Tu-Fr 08:00-18:00; Sa 08:00-12:00",
+      "opening_hours": "We-Fr 08:00-18:00; Sa 08:00-12:00; Tu 08:00-13:00",
       "phone": "+49991342830",
       "shop": "butcher",
       "website": "https://www.metzgerei-steinleitner.de/gesch%C3%A4fte/",
@@ -38499,7 +38497,7 @@
       1463655173
     ],
     "tags": {
-      "building": "yes",
+      "building": "construction",
       "name": "Metzgerei Limmer",
       "shop": "butcher",
       "source": "bing"
