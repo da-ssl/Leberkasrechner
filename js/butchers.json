@@ -19524,6 +19524,10 @@
     "lat": 48.2610722,
     "lon": 11.4322612,
     "tags": {
+      "addr:city": "Dachau",
+      "addr:housenumber": "24",
+      "addr:postcode": "85221",
+      "addr:street": "Augsburger Straße",
       "name": "Helfer",
       "shop": "butcher"
     }
@@ -25417,7 +25421,7 @@
     "lat": 49.5108694,
     "lon": 11.2803485,
     "tags": {
-      "addr:city": "Lauf a.d.Pegnitz",
+      "addr:city": "Lauf a.d. Pegnitz",
       "addr:country": "DE",
       "addr:housenumber": "9",
       "addr:postcode": "91207",
