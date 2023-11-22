@@ -12461,6 +12461,7 @@
       "name": "Vinzenzmurr",
       "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-15:00",
       "shop": "butcher",
+      "url": "https://vinzenzmurr.de/",
       "wheelchair": "limited"
     }
   },
@@ -14613,17 +14614,6 @@
       "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-13:00",
       "shop": "butcher",
       "website": "http://www.feinkost-metzgerei-trumpp.de/rothenburg.htm",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 1748931757,
-    "lat": 49.4613725,
-    "lon": 10.9899612,
-    "tags": {
-      "name": "Fleischerei Rehm",
-      "shop": "butcher",
       "wheelchair": "no"
     }
   },
@@ -24723,39 +24713,6 @@
   },
   {
     "type": "node",
-    "id": 4037229193,
-    "lat": 50.239981,
-    "lon": 11.6219053,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "7",
-      "addr:postcode": "95233",
-      "addr:street": "Kirchplatz",
-      "addr:suburb": "Enchenreuth",
-      "name": "Metzgerei Feulner",
-      "shop": "butcher",
-      "wheelchair": "no"
-    }
-  },
-  {
-    "type": "node",
-    "id": 4037229194,
-    "lat": 50.2395396,
-    "lon": 11.6210833,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "1",
-      "addr:postcode": "95233",
-      "addr:street": "Am Pfarrgrund",
-      "addr:suburb": "Enchenreuth",
-      "name": "Metzgerei Schultheiß",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
     "id": 4056535789,
     "lat": 48.1130446,
     "lon": 11.4513287,
@@ -28758,22 +28715,6 @@
       "addr:postcode": "95233",
       "addr:street": "Friedrich-Ebert-Straße",
       "name": "Alwin Weber",
-      "shop": "butcher"
-    }
-  },
-  {
-    "type": "node",
-    "id": 6139104434,
-    "lat": 50.2394665,
-    "lon": 11.6205325,
-    "tags": {
-      "addr:city": "Helmbrechts",
-      "addr:country": "DE",
-      "addr:housenumber": "4",
-      "addr:postcode": "95233",
-      "addr:street": "Am Pfarrgrund",
-      "addr:suburb": "Enchenreuth",
-      "name": "Konrad Reif",
       "shop": "butcher"
     }
   },
@@ -38312,6 +38253,29 @@
   },
   {
     "type": "way",
+    "id": 127928575,
+    "nodes": [
+      1414739939,
+      1414739949,
+      1414739950,
+      1414739942,
+      11365840769,
+      1414739939
+    ],
+    "tags": {
+      "addr:city": "Helmbrechts",
+      "addr:country": "DE",
+      "addr:housenumber": "1",
+      "addr:postcode": "95233",
+      "addr:street": "Am Pfarrgrund",
+      "addr:suburb": "Enchenreuth",
+      "building": "house",
+      "name": "Metzgerei Schultheiß",
+      "shop": "butcher"
+    }
+  },
+  {
+    "type": "way",
     "id": 128851616,
     "nodes": [
       1422776118,
@@ -44678,6 +44642,31 @@
       "phone": "+49 8232 9975261",
       "shop": "butcher",
       "website": "https://die-metzgerei-schmid.de"
+    }
+  },
+  {
+    "type": "way",
+    "id": 655209863,
+    "nodes": [
+      6139104431,
+      6139104430,
+      6139104429,
+      6139104428,
+      6139104427,
+      6139104426,
+      6139104431
+    ],
+    "tags": {
+      "addr:city": "Helmbrechts",
+      "addr:country": "DE",
+      "addr:housenumber": "7",
+      "addr:postcode": "95233",
+      "addr:street": "Kirchplatz",
+      "addr:suburb": "Enchenreuth",
+      "building": "house",
+      "name": "Metzgerei Feulner",
+      "shop": "butcher",
+      "wheelchair": "no"
     }
   },
   {
@@ -60269,6 +60258,72 @@
     "id": 4305952081,
     "lat": 50.121885,
     "lon": 11.4396686
+  },
+  {
+    "type": "node",
+    "id": 1414739939,
+    "lat": 50.2394707,
+    "lon": 11.6209888
+  },
+  {
+    "type": "node",
+    "id": 1414739942,
+    "lat": 50.2395095,
+    "lon": 11.6211486
+  },
+  {
+    "type": "node",
+    "id": 1414739949,
+    "lat": 50.2395353,
+    "lon": 11.6209505
+  },
+  {
+    "type": "node",
+    "id": 1414739950,
+    "lat": 50.2395741,
+    "lon": 11.6211103
+  },
+  {
+    "type": "node",
+    "id": 6139104426,
+    "lat": 50.2399355,
+    "lon": 11.6219497
+  },
+  {
+    "type": "node",
+    "id": 6139104427,
+    "lat": 50.2400403,
+    "lon": 11.6219041
+  },
+  {
+    "type": "node",
+    "id": 6139104428,
+    "lat": 50.2400119,
+    "lon": 11.6217453
+  },
+  {
+    "type": "node",
+    "id": 6139104429,
+    "lat": 50.239943,
+    "lon": 11.6217752
+  },
+  {
+    "type": "node",
+    "id": 6139104430,
+    "lat": 50.2399539,
+    "lon": 11.6218369
+  },
+  {
+    "type": "node",
+    "id": 6139104431,
+    "lat": 50.2399182,
+    "lon": 11.6218524
+  },
+  {
+    "type": "node",
+    "id": 11365840769,
+    "lat": 50.2395052,
+    "lon": 11.6211309
   },
   {
     "type": "node",
